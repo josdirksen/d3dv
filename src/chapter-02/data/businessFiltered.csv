@@ -1,0 +1,190 @@
+sex,sexLabel,ethnicGroup,ethnicGroupLabel,raceGroup,raceGroupLabel,vetGroup,vetGroupLabel,yearsInBusiness,yearsInBusinessLabel,count
+001,All firms,001,All firms,00,All firms,001,All firms,001,All firms,5437782
+001,All firms,001,All firms,00,All firms,001,All firms,311,Firms with less than 2 years in business,481981
+001,All firms,001,All firms,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,723679
+001,All firms,001,All firms,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,519712
+001,All firms,001,All firms,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,1146177
+001,All firms,001,All firms,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,2398315
+001,All firms,001,All firms,00,All firms,001,All firms,323,Firms with 16 or more years in business,167917
+001,All firms,001,All firms,00,All firms,002,Veteran-owned,001,All firms,405235
+001,All firms,001,All firms,00,All firms,002,Veteran-owned,311,Firms with less than 2 years in business,27631
+001,All firms,001,All firms,00,All firms,002,Veteran-owned,318,Firms with 2 to 3 years in business,40608
+001,All firms,001,All firms,00,All firms,002,Veteran-owned,319,Firms with 4 to 5 years in business,30250
+001,All firms,001,All firms,00,All firms,002,Veteran-owned,321,Firms with 6 to 10 years in business,70260
+001,All firms,001,All firms,00,All firms,002,Veteran-owned,322,Firms with 11 to 15 years in business,221935
+001,All firms,001,All firms,00,All firms,002,Veteran-owned,323,Firms with 16 or more years in business,14552
+001,All firms,001,All firms,00,All firms,003,Equally veteran-/nonveteran-owned,001,All firms,162546
+001,All firms,001,All firms,00,All firms,003,Equally veteran-/nonveteran-owned,311,Firms with less than 2 years in business,10724
+001,All firms,001,All firms,00,All firms,003,Equally veteran-/nonveteran-owned,318,Firms with 2 to 3 years in business,17362
+001,All firms,001,All firms,00,All firms,003,Equally veteran-/nonveteran-owned,319,Firms with 4 to 5 years in business,12174
+001,All firms,001,All firms,00,All firms,003,Equally veteran-/nonveteran-owned,321,Firms with 6 to 10 years in business,31475
+001,All firms,001,All firms,00,All firms,003,Equally veteran-/nonveteran-owned,322,Firms with 11 to 15 years in business,85603
+001,All firms,001,All firms,00,All firms,003,Equally veteran-/nonveteran-owned,323,Firms with 16 or more years in business,5207
+001,All firms,001,All firms,00,All firms,004,Nonveteran-owned,001,All firms,4598025
+001,All firms,001,All firms,00,All firms,004,Nonveteran-owned,311,Firms with less than 2 years in business,431907
+001,All firms,001,All firms,00,All firms,004,Nonveteran-owned,318,Firms with 2 to 3 years in business,647419
+001,All firms,001,All firms,00,All firms,004,Nonveteran-owned,319,Firms with 4 to 5 years in business,459690
+001,All firms,001,All firms,00,All firms,004,Nonveteran-owned,321,Firms with 6 to 10 years in business,1006058
+001,All firms,001,All firms,00,All firms,004,Nonveteran-owned,322,Firms with 11 to 15 years in business,1938205
+001,All firms,001,All firms,00,All firms,004,Nonveteran-owned,323,Firms with 16 or more years in business,114746
+001,All firms,001,All firms,00,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,5165806
+001,All firms,001,All firms,00,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",311,Firms with less than 2 years in business,470262
+001,All firms,001,All firms,00,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",318,Firms with 2 to 3 years in business,705388
+001,All firms,001,All firms,00,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",319,Firms with 4 to 5 years in business,502113
+001,All firms,001,All firms,00,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",321,Firms with 6 to 10 years in business,1107794
+001,All firms,001,All firms,00,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",322,Firms with 11 to 15 years in business,2245743
+001,All firms,001,All firms,00,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",323,Firms with 16 or more years in business,134505
+001,All firms,001,All firms,00,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,271976
+001,All firms,001,All firms,00,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",311,Firms with less than 2 years in business,11719
+001,All firms,001,All firms,00,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",318,Firms with 2 to 3 years in business,18291
+001,All firms,001,All firms,00,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",319,Firms with 4 to 5 years in business,17599
+001,All firms,001,All firms,00,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",321,Firms with 6 to 10 years in business,38384
+001,All firms,001,All firms,00,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",322,Firms with 11 to 15 years in business,152572
+001,All firms,001,All firms,00,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",323,Firms with 16 or more years in business,33412
+001,All firms,001,All firms,30,White,001,All firms,001,All firms,4441550
+001,All firms,001,All firms,30,White,001,All firms,311,Firms with less than 2 years in business,376406
+001,All firms,001,All firms,30,White,001,All firms,318,Firms with 2 to 3 years in business,566062
+001,All firms,001,All firms,30,White,001,All firms,319,Firms with 4 to 5 years in business,405639
+001,All firms,001,All firms,30,White,001,All firms,321,Firms with 6 to 10 years in business,931236
+001,All firms,001,All firms,30,White,001,All firms,322,Firms with 11 to 15 years in business,2037363
+001,All firms,001,All firms,30,White,001,All firms,323,Firms with 16 or more years in business,124843
+001,All firms,001,All firms,40,Black or African American,001,All firms,001,All firms,108473
+001,All firms,001,All firms,40,Black or African American,001,All firms,311,Firms with less than 2 years in business,15321
+001,All firms,001,All firms,40,Black or African American,001,All firms,318,Firms with 2 to 3 years in business,20567
+001,All firms,001,All firms,40,Black or African American,001,All firms,319,Firms with 4 to 5 years in business,14276
+001,All firms,001,All firms,40,Black or African American,001,All firms,321,Firms with 6 to 10 years in business,24788
+001,All firms,001,All firms,40,Black or African American,001,All firms,322,Firms with 11 to 15 years in business,31475
+001,All firms,001,All firms,40,Black or African American,001,All firms,323,Firms with 16 or more years in business,2045
+001,All firms,001,All firms,50,American Indian and Alaska Native,001,All firms,001,All firms,26757
+001,All firms,001,All firms,50,American Indian and Alaska Native,001,All firms,311,Firms with less than 2 years in business,3115
+001,All firms,001,All firms,50,American Indian and Alaska Native,001,All firms,318,Firms with 2 to 3 years in business,3491
+001,All firms,001,All firms,50,American Indian and Alaska Native,001,All firms,319,Firms with 4 to 5 years in business,2971
+001,All firms,001,All firms,50,American Indian and Alaska Native,001,All firms,321,Firms with 6 to 10 years in business,6633
+001,All firms,001,All firms,50,American Indian and Alaska Native,001,All firms,322,Firms with 11 to 15 years in business,10072
+001,All firms,001,All firms,50,American Indian and Alaska Native,001,All firms,323,Firms with 16 or more years in business,475
+001,All firms,001,All firms,60,Asian,001,All firms,001,All firms,506595
+001,All firms,001,All firms,60,Asian,001,All firms,311,Firms with less than 2 years in business,64434
+001,All firms,001,All firms,60,Asian,001,All firms,318,Firms with 2 to 3 years in business,97379
+001,All firms,001,All firms,60,Asian,001,All firms,319,Firms with 4 to 5 years in business,68541
+001,All firms,001,All firms,60,Asian,001,All firms,321,Firms with 6 to 10 years in business,125580
+001,All firms,001,All firms,60,Asian,001,All firms,322,Firms with 11 to 15 years in business,144762
+001,All firms,001,All firms,60,Asian,001,All firms,323,Firms with 16 or more years in business,5898
+001,All firms,001,All firms,70,Native Hawaiian and Other Pacific Islander,001,All firms,001,All firms,4701
+001,All firms,001,All firms,70,Native Hawaiian and Other Pacific Islander,001,All firms,311,Firms with less than 2 years in business,483
+001,All firms,001,All firms,70,Native Hawaiian and Other Pacific Islander,001,All firms,318,Firms with 2 to 3 years in business,995
+001,All firms,001,All firms,70,Native Hawaiian and Other Pacific Islander,001,All firms,319,Firms with 4 to 5 years in business,382
+001,All firms,001,All firms,70,Native Hawaiian and Other Pacific Islander,001,All firms,321,Firms with 6 to 10 years in business,1024
+001,All firms,001,All firms,70,Native Hawaiian and Other Pacific Islander,001,All firms,322,Firms with 11 to 15 years in business,1698
+001,All firms,001,All firms,70,Native Hawaiian and Other Pacific Islander,001,All firms,323,Firms with 16 or more years in business,119
+001,All firms,001,All firms,80,Some other race,001,All firms,001,All firms,81002
+001,All firms,001,All firms,80,Some other race,001,All firms,311,Firms with less than 2 years in business,11709
+001,All firms,001,All firms,80,Some other race,001,All firms,318,Firms with 2 to 3 years in business,16664
+001,All firms,001,All firms,80,Some other race,001,All firms,319,Firms with 4 to 5 years in business,10515
+001,All firms,001,All firms,80,Some other race,001,All firms,321,Firms with 6 to 10 years in business,19348
+001,All firms,001,All firms,80,Some other race,001,All firms,322,Firms with 11 to 15 years in business,21727
+001,All firms,001,All firms,80,Some other race,001,All firms,323,Firms with 16 or more years in business,1039
+001,All firms,001,All firms,90,Minority,001,All firms,001,All firms,949318
+001,All firms,001,All firms,90,Minority,001,All firms,311,Firms with less than 2 years in business,122564
+001,All firms,001,All firms,90,Minority,001,All firms,318,Firms with 2 to 3 years in business,179525
+001,All firms,001,All firms,90,Minority,001,All firms,319,Firms with 4 to 5 years in business,125182
+001,All firms,001,All firms,90,Minority,001,All firms,321,Firms with 6 to 10 years in business,229198
+001,All firms,001,All firms,90,Minority,001,All firms,322,Firms with 11 to 15 years in business,279888
+001,All firms,001,All firms,90,Minority,001,All firms,323,Firms with 16 or more years in business,12960
+001,All firms,001,All firms,91,Equally minority/nonminority,001,All firms,001,All firms,74672
+001,All firms,001,All firms,91,Equally minority/nonminority,001,All firms,311,Firms with less than 2 years in business,9331
+001,All firms,001,All firms,91,Equally minority/nonminority,001,All firms,318,Firms with 2 to 3 years in business,12437
+001,All firms,001,All firms,91,Equally minority/nonminority,001,All firms,319,Firms with 4 to 5 years in business,8702
+001,All firms,001,All firms,91,Equally minority/nonminority,001,All firms,321,Firms with 6 to 10 years in business,18011
+001,All firms,001,All firms,91,Equally minority/nonminority,001,All firms,322,Firms with 11 to 15 years in business,25006
+001,All firms,001,All firms,91,Equally minority/nonminority,001,All firms,323,Firms with 16 or more years in business,1185
+001,All firms,001,All firms,92,Nonminority,001,All firms,001,All firms,4141816
+001,All firms,001,All firms,92,Nonminority,001,All firms,311,Firms with less than 2 years in business,338366
+001,All firms,001,All firms,92,Nonminority,001,All firms,318,Firms with 2 to 3 years in business,513426
+001,All firms,001,All firms,92,Nonminority,001,All firms,319,Firms with 4 to 5 years in business,368229
+001,All firms,001,All firms,92,Nonminority,001,All firms,321,Firms with 6 to 10 years in business,860585
+001,All firms,001,All firms,92,Nonminority,001,All firms,322,Firms with 11 to 15 years in business,1940850
+001,All firms,001,All firms,92,Nonminority,001,All firms,323,Firms with 16 or more years in business,120360
+001,All firms,001,All firms,96,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,001,All firms,5165806
+001,All firms,001,All firms,96,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,311,Firms with less than 2 years in business,470262
+001,All firms,001,All firms,96,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,318,Firms with 2 to 3 years in business,705388
+001,All firms,001,All firms,96,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,319,Firms with 4 to 5 years in business,502113
+001,All firms,001,All firms,96,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,321,Firms with 6 to 10 years in business,1107794
+001,All firms,001,All firms,96,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,322,Firms with 11 to 15 years in business,2245743
+001,All firms,001,All firms,96,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,323,Firms with 16 or more years in business,134505
+001,All firms,001,All firms,98,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,001,All firms,271976
+001,All firms,001,All firms,98,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,311,Firms with less than 2 years in business,11719
+001,All firms,001,All firms,98,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,318,Firms with 2 to 3 years in business,18291
+001,All firms,001,All firms,98,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,319,Firms with 4 to 5 years in business,17599
+001,All firms,001,All firms,98,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,321,Firms with 6 to 10 years in business,38384
+001,All firms,001,All firms,98,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,322,Firms with 11 to 15 years in business,152572
+001,All firms,001,All firms,98,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,323,Firms with 16 or more years in business,33412
+001,All firms,020,Hispanic,00,All firms,001,All firms,001,All firms,298563
+001,All firms,020,Hispanic,00,All firms,001,All firms,311,Firms with less than 2 years in business,39107
+001,All firms,020,Hispanic,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,56331
+001,All firms,020,Hispanic,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,38617
+001,All firms,020,Hispanic,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,70188
+001,All firms,020,Hispanic,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,90112
+001,All firms,020,Hispanic,00,All firms,001,All firms,323,Firms with 16 or more years in business,4209
+001,All firms,028,Equally Hispanic/non-Hispanic,00,All firms,001,All firms,001,All firms,43758
+001,All firms,028,Equally Hispanic/non-Hispanic,00,All firms,001,All firms,311,Firms with less than 2 years in business,5766
+001,All firms,028,Equally Hispanic/non-Hispanic,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,7568
+001,All firms,028,Equally Hispanic/non-Hispanic,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,5007
+001,All firms,028,Equally Hispanic/non-Hispanic,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,10656
+001,All firms,028,Equally Hispanic/non-Hispanic,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,14072
+001,All firms,028,Equally Hispanic/non-Hispanic,00,All firms,001,All firms,323,Firms with 16 or more years in business,689
+001,All firms,029,Non-Hispanic,00,All firms,001,All firms,001,All firms,4823485
+001,All firms,029,Non-Hispanic,00,All firms,001,All firms,311,Firms with less than 2 years in business,425389
+001,All firms,029,Non-Hispanic,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,641490
+001,All firms,029,Non-Hispanic,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,458489
+001,All firms,029,Non-Hispanic,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,1026950
+001,All firms,029,Non-Hispanic,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,2141559
+001,All firms,029,Non-Hispanic,00,All firms,001,All firms,323,Firms with 16 or more years in business,129608
+001,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,001,All firms,5165806
+001,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,311,Firms with less than 2 years in business,470262
+001,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,318,Firms with 2 to 3 years in business,705388
+001,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,319,Firms with 4 to 5 years in business,502113
+001,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,321,Firms with 6 to 10 years in business,1107794
+001,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,322,Firms with 11 to 15 years in business,2245743
+001,All firms,096,"All firms classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,323,Firms with 16 or more years in business,134505
+001,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,001,All firms,271976
+001,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,311,Firms with less than 2 years in business,11719
+001,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,318,Firms with 2 to 3 years in business,18291
+001,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,319,Firms with 4 to 5 years in business,17599
+001,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,321,Firms with 6 to 10 years in business,38384
+001,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,322,Firms with 11 to 15 years in business,152572
+001,All firms,098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",00,All firms,001,All firms,323,Firms with 16 or more years in business,33412
+002,Female-owned,001,All firms,00,All firms,001,All firms,001,All firms,1057254
+002,Female-owned,001,All firms,00,All firms,001,All firms,311,Firms with less than 2 years in business,114103
+002,Female-owned,001,All firms,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,169818
+002,Female-owned,001,All firms,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,119571
+002,Female-owned,001,All firms,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,242425
+002,Female-owned,001,All firms,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,391449
+002,Female-owned,001,All firms,00,All firms,001,All firms,323,Firms with 16 or more years in business,19888
+003,Male-owned,001,All firms,00,All firms,001,All firms,001,All firms,3334147
+003,Male-owned,001,All firms,00,All firms,001,All firms,311,Firms with less than 2 years in business,290851
+003,Male-owned,001,All firms,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,433049
+003,Male-owned,001,All firms,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,310709
+003,Male-owned,001,All firms,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,690536
+003,Male-owned,001,All firms,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,1511885
+003,Male-owned,001,All firms,00,All firms,001,All firms,323,Firms with 16 or more years in business,97116
+004,Equally male-/female-owned,001,All firms,00,All firms,001,All firms,001,All firms,774405
+004,Equally male-/female-owned,001,All firms,00,All firms,001,All firms,311,Firms with less than 2 years in business,65308
+004,Equally male-/female-owned,001,All firms,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,102522
+004,Equally male-/female-owned,001,All firms,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,71833
+004,Equally male-/female-owned,001,All firms,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,174833
+004,Equally male-/female-owned,001,All firms,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,342409
+004,Equally male-/female-owned,001,All firms,00,All firms,001,All firms,323,Firms with 16 or more years in business,17501
+096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,001,All firms,5165806
+096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,311,Firms with less than 2 years in business,470262
+096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,705388
+096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,502113
+096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,1107794
+096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,2245743
+096,"All firms classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,323,Firms with 16 or more years in business,134505
+098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,001,All firms,271976
+098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,311,Firms with less than 2 years in business,11719
+098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,318,Firms with 2 to 3 years in business,18291
+098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,319,Firms with 4 to 5 years in business,17599
+098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,321,Firms with 6 to 10 years in business,38384
+098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,322,Firms with 11 to 15 years in business,152572
+098,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",001,All firms,00,All firms,001,All firms,323,Firms with 16 or more years in business,33412

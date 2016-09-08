@@ -1,0 +1,32 @@
+.line {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1.5px;
+}
+
+rect {
+    fill: steelblue;
+}
+
+rect:hover {
+    fill: red
+}
+
+text {
+    fill: black;
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+.enter {
+    fill: green;
+}
+
+.update {
+    fill: steelblue;
+}
+
+.remove {
+    fill: red;
+    opacity: 0.2;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dataviz-d3js",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/josdirksen/d3dv",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.2.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}

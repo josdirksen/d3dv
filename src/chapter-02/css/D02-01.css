@@ -1,0 +1,35 @@
+.male {
+    fill: steelblue;
+}
+
+.female {
+    fill: hotpink;
+}
+
+.label {
+    fill: black;
+    font: 10px sans-serif;
+    text-anchor: end;
+}
+
+.backgroundArc {
+    fill: #ddd;
+}
+
+.labels {
+    font-size: smaller;
+}
+
+.lines {
+    stroke: black;
+    stroke-width: 1px;
+    fill: none;
+    opacity: 0.3;
+}
+
+.chart {
+    margin: 10px;
+    border-radius: 5px;
+    border: solid #555555 thin;
+    background-color: #eee;
+}

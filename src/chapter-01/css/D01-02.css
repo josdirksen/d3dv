@@ -1,0 +1,14 @@
+.male {
+    fill: steelblue;
+}
+
+.female {
+    fill: hotpink;
+}
+
+.label {
+    fill: black;
+    font: 10px sans-serif;
+    text-anchor: end;
+}
+
