@@ -43,3 +43,16 @@
     fill: none;
     stroke: steelblue;
 }
+
+.focus text {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#indexText {
+    fill: blue;
+}
+
+#incomeText {
+    fill: red;
+}

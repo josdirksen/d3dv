@@ -129,6 +129,8 @@ function show() {
         // the data property of the arcs[i] represents data.
         var arcs = pie(filtered);
 
+        console.log(arcs);
+
         // select the arcs already there, for these we
         // only bind the data, the arc itself is updated
         // after a merge.
@@ -140,7 +142,7 @@ function show() {
                 .attr("class", "arc")
                 .style("fill", function (d, i) { return colors(i) })
             .merge(arcElements)
-            .style("filter", "url(#drop-shadow)")
+            // .style("filter", "url(#drop-shadow)")
             .on("mouseover", function(d) {
                 d3.select(this).attr("d", function(d) {
                     return popupArc(d);
@@ -162,8 +164,9 @@ function show() {
             })
             .transition()
                 .ease(d3.easeCircle)
-                .duration(2000)
+                .duration(20000)
                 .attrTween("d", tweenArcs);
+
 
         // add labels at the position of the
         var textElements = pieContainer.selectAll(".labels").data(arcs);
@@ -175,7 +178,7 @@ function show() {
                 .attr("dy", "0.35em" )
                 .transition()
                     .ease(d3.easeCircle)
-                    .duration(2000)
+                    .duration(20000)
                     .attrTween("transform", tweenLabels)
                     .styleTween("text-anchor", tweenAnchor);
 
@@ -188,7 +191,7 @@ function show() {
             .merge(lineElements)
                 .transition()
                 .ease(d3.easeCircle)
-                .duration(2000)
+                .duration(20000)
                 .attrTween("d", tweenLines)
     }
 
