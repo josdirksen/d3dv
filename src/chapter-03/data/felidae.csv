@@ -1,0 +1,2879 @@
+[TU]|158852||Chordata||||||||valid||TWG standards met|partial|2013|0|1996-06-13 14:51:08|914156||0||0|5|30|No|
+[TU]|179913||Mammalia||||||||valid||TWG standards met|complete|2014|0|1996-06-13 14:51:08|914181||21823||0|5|60|No|
+[TU]|179916||Theria||||||||valid||TWG standards met|complete|2014|0|1996-06-13 14:51:08|179913||71029||0|5|70|No|
+[TU]|179925||Eutheria||||||||valid||TWG standards met|complete|2014|0|1996-06-13 14:51:08|179916||17126||0|5|80|No|
+[TU]|180539||Carnivora||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|179925||71031||0|5|100|No|
+[TU]|180580||Felidae||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|552304||119183||0|5|140|No|
+[TU]|180581||Lynx||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|552363||20387||0|5|180|No|
+[TU]|180582||Lynx||rufus||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180581||70675||0|5|220|No|
+[TU]|180583||Lynx||rufus||rufus||||valid||TWG standards met|||0|1996-06-13 14:51:08|180582||70675||0|5|230|No|
+[TU]|180584||Lynx||lynx||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180581||5656||0|5|220|No|
+[TU]|180585||Lynx||canadensis||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180581||20387||0|5|220|No|
+[TU]|180586||Felis||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|552363||21823||0|5|180|No|
+[TU]|180587||Felis||concolor||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||21830||0|5|220|No|
+[TU]|180588||Felis||pardalis||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||21823||0|5|220|No|
+[TU]|180589||Felis||silvestris||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180586||27224||0|5|220|No|
+[TU]|180590||Felis||wiedii||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||27045||0|5|220|No|
+[TU]|180591||Felis||yaguarondi||||||invalid|other, see comments|TWG standards met|||0|1996-06-13 14:51:08|0||90460||0|5|220|No|
+[TU]|180592||Panthera||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|552364||24403||0|5|180|No|
+[TU]|180593||Panthera||onca||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180592||5656||0|5|220|No|
+[TU]|183788||Lynx||caracal||||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||8208||0|5|220|No|
+[TU]|183789||Felis||bieti||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180586||70926||0|5|220|No|
+[TU]|183790||Felis||minuta||||||invalid|junior homonym|TWG standards met|||0|1996-06-13 14:51:08|0||29014||0|5|220|No|
+[TU]|183791||Felis||manul||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180586||24701||0|5|220|No|
+[TU]|183792||Felis||serval||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||27223||0|5|220|No|
+[TU]|183793||Felis||bengalensis||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||20387||0|5|220|No|
+[TU]|183794||Felis||rubiginosa||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||70990||0|5|220|No|
+[TU]|183795||Felis||viverrina||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||11513||0|5|220|No|
+[TU]|183796||Felis||pajeros||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||70973||0|5|220|No|
+[TU]|183797||Felis||geoffroyi||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||70932||0|5|220|No|
+[TU]|183798||Felis||catus||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180586||21823||0|5|220|No|
+[TU]|183799||Felis||lybica||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||70972||0|5|220|No|
+[TU]|183800||Felis||nigripes||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180586||70928||0|5|220|No|
+[TU]|183801||Felis||margarita||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180586||70927||0|5|220|No|
+[TU]|183802||Felis||chaus||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180586||27224||0|5|220|No|
+[TU]|183803||Panthera||leo||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180592||5656||0|5|220|No|
+[TU]|183804||Panthera||pardus||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180592||5656||0|5|220|No|
+[TU]|183805||Panthera||tigris||||||valid||TWG standards met|||0|1996-06-13 14:51:08|180592||5656||0|5|220|No|
+[TU]|183806||Panthera||tigris||tigris||||valid||TWG standards met|||0|1996-06-13 14:51:08|183805||5656||0|5|230|No|
+[TU]|183807||Panthera||tigris||longipilis||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||119563||0|5|230|No|
+[TU]|183808||Neofelis||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|552364||17508||0|5|180|No|
+[TU]|183809||Neofelis||nebulosa||||||valid||TWG standards met|||0|1996-06-13 14:51:08|183808||70930||0|5|220|No|
+[TU]|183810||Uncia||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|552364||17498||0|5|180|No|
+[TU]|183811||Uncia||uncia||||||valid||TWG standards met|||0|1996-06-13 14:51:08|183810||8207||0|5|220|No|
+[TU]|183812||Acinonyx||||||||valid||TWG standards met|complete|2006|0|1996-06-13 14:51:08|552363||12655||0|5|180|No|
+[TU]|183813||Acinonyx||jubatus||||||valid||TWG standards met|||0|1996-06-13 14:51:08|183812||8207||0|5|220|No|
+[TU]|183814||Acinonyx||rex||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||70925||0|5|220|No|
+[TU]|202391||Felis||concolor||concolor||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||21830||0|5|230|No|
+[TU]|202392||Felis||concolor||couguar||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||20387||0|5|230|No|
+[TU]|202393||Felis||concolor||coryi||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||72173||0|5|230|No|
+[TU]|202394||Felis||yagouaroundi||yagouaroundi||||invalid|other, see comments|TWG standards met|||0|1996-06-13 14:51:08|0||86744||0|5|230|No|
+[TU]|202395||Felis||yagouaroundi||cacomitli||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||11599||0|5|230|No|
+[TU]|202423||Animalia||||||||valid||TWG standards met|unknown|unknown|0|1996-06-13 14:51:08|0||0||0|5|10||
+[TU]|203547||Felis||rufus||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||27224||0|5|220|No|
+[TU]|203548||Felis||wiedii||oaxacensis||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||24036||0|5|230|No|
+[TU]|203549||Felis||rufus||rufus||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||27224||0|5|230|No|
+[TU]|203550||Lynx||rufus||escuinapae||||valid||TWG standards met|||0|1996-06-13 14:51:08|180582||19644||0|5|230|No|
+[TU]|203551||Felis||couguar||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||20387||0|5|220|No|
+[TU]|203552||Felis||concolor||azteca||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||23151||0|5|230|No|
+[TU]|203553||Felis||hippolestes||azteca||||invalid|unavailable, database artifact|TWG standards met|||0|1996-06-13 14:51:08|0||23151||0|5|230|No|
+[TU]|203554||Felis||concolor||browni||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||23153||0|5|230|No|
+[TU]|203555||Felis||aztecus||browni||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||23153||0|5|230|No|
+[TU]|203556||Felis||concolor||californica||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||22749||0|5|230|No|
+[TU]|203557||Felis||californica||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||22749||0|5|220|No|
+[TU]|203558||Felis||concolor||costaricensis||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||23151||0|5|230|No|
+[TU]|203559||Felis||bangsi||costaricensis||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||23151||0|5|230|No|
+[TU]|203560||Felis||concolor||hippolestes||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||23148||0|5|230|No|
+[TU]|203561||Felis||hippolestes||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||23148||0|5|220|No|
+[TU]|203562||Felis||concolor||improcera||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||25162||0|5|230|No|
+[TU]|203563||Felis||improcera||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||25162||0|5|220|No|
+[TU]|203564||Felis||concolor||kaibabensis||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||24036||0|5|230|No|
+[TU]|203565||Felis||concolor||mayensis||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||70995||0|5|230|No|
+[TU]|203566||Felis||concolor||missoulensis||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||17275||0|5|230|No|
+[TU]|203567||Felis||concolor||oregonensis||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||25694||0|5|230|No|
+[TU]|203568||Felis||oregonensis||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||25694||0|5|220|No|
+[TU]|203569||Felis||hippolestes||olympus||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||23148||0|5|230|No|
+[TU]|203570||Felis||concolor||schorgeri||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||19761||0|5|230|No|
+[TU]|203571||Felis||concolor||stanleyana||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||17274||0|5|230|No|
+[TU]|203572||Felis||concolor||vancouverensis||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||24037||0|5|230|No|
+[TU]|203573||Felis||mexicana||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||20387||0|5|220|No|
+[TU]|203574||Felis||ocelot||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||21812||0|5|220|No|
+[TU]|203575||Felis||griffithii||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||119282||0|5|220|No|
+[TU]|203576||Felis||canescens||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||28790||0|5|220|No|
+[TU]|203577||Felis||pseudopardalis||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||12088||0|5|220|No|
+[TU]|203578||Leopardus||griseus||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||17486||0|5|220|No|
+[TU]|203579||Felis||pardalis||albescens||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||25576||0|5|230|No|
+[TU]|203580||Felis||albescens||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||25576||0|5|220|No|
+[TU]|203581||Felis||limitis||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||119567||0|5|220|No|
+[TU]|203582||Felis||pardalis||mearnsi||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||19645||0|5|230|No|
+[TU]|203583||Felis||mearnsi||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||19645||0|5|220|No|
+[TU]|203584||Felis||pardalis||minimus||||invalid|other, see comments|TWG standards met|||0|1996-06-13 14:51:08|0||30888||0|5|230|No|
+[TU]|203585||Felis||pardalis||nelsoni||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||17273||0|5|230|No|
+[TU]|203586||Felis||pardalis||sonoriensis||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||17273||0|5|230|No|
+[TU]|203587||Felis||wiedii||wiedii||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||27045||0|5|230|No|
+[TU]|203588||Felis||wiedii||cooperi||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||17275||0|5|230|No|
+[TU]|203589||Felis||wiedii||glaucula||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||29105||0|5|230|No|
+[TU]|203590||Felis||glaucula||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||29105||0|5|220|No|
+[TU]|203591||Felis||wiedii||nicaraguae||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||4612||0|5|230|No|
+[TU]|203592||Margay||glaucula||nicaraguae||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||19648||0|5|230|No|
+[TU]|203593||Felis||glaucula||oaxacensis||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||24036||0|5|230|No|
+[TU]|203594||Felis||wiedii||pirrensis||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||17272||0|5|230|No|
+[TU]|203595||Felis||pirrensis||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||17272||0|5|220|No|
+[TU]|203596||Felis||wiedii||salvinia||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||7325||0|5|230|No|
+[TU]|203597||Leopardus||wiedii||salvinia||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||119216||0|5|230|No|
+[TU]|203598||Felis||wiedii||yucatanica||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||24036||0|5|230|No|
+[TU]|203599||Felis||glaucula||yucatanica||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||24036||0|5|230|No|
+[TU]|203600||Felis||cacomitli||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||11599||0|5|220|No|
+[TU]|203601||Felis||apache||||||invalid|junior synonym|TWG standards met|||0|1996-06-13 14:51:08|0||22968||0|5|220|No|
+[TU]|203602||Felis||yagouaroundi||tolteca||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||29104||0|5|230|No|
+[TU]|203603||Felis||yagouaroundi||fossata||||invalid|subsequent name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||22968||0|5|230|No|
+[TU]|203604||Felis||fossata||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||22968||0|5|220|No|
+[TU]|203605||Felis||yagouaroundi||pananensis||||invalid|unavailable, database artifact|TWG standards met|||0|1996-06-13 14:51:08|0||19645||0|5|230|No|
+[TU]|203606||Felis||panamensis||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||19645||0|5|220|No|
+[TU]|203607||Felis||onca||||||invalid|original name/combination|TWG standards met|||0|1996-06-13 14:51:08|0||21823||0|5|220|No|
+[TU]|331030||Vertebrata||||||||valid||TWG standards met|partial|2013|0|1996-06-13 14:51:08|158852||0||0|5|40|No|
+[TU]|552304||Feliformia||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|180539||90443||0|5|110|No|
+[TU]|552362||Acinonychinae||||||||invalid|junior synonym|TWG standards met|unknown|2006|0|1998-01-27 13:44:10|0||70924||0|5|150|No|
+[TU]|552363||Felinae||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|180580||119183||0|5|150|No|
+[TU]|552364||Pantherinae||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|180580||70924||0|5|150|No|
+[TU]|552371||Leopardus||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|552363||17486||0|5|180|No|
+[TU]|552373||Herpailurus||||||||invalid|junior synonym|TWG standards met|unknown|2006|0|1998-01-27 13:44:10|0||70673||0|5|180|No|
+[TU]|552375||Puma||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|552363||70676||0|5|180|No|
+[TU]|552453||Prionailurus||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|552363||70673||0|5|180|No|
+[TU]|552454||Oncifelis||||||||invalid|junior synonym|TWG standards met|unknown|2006|0|1998-01-27 13:44:10|0||70673||0|5|180|No|
+[TU]|552455||Otocolobus||||||||invalid|junior synonym|TWG standards met|unknown|2006|0|1998-01-27 13:44:10|0||70933||0|5|180|No|
+[TU]|552456||Leptailurus||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|552363||70673||0|5|180|No|
+[TU]|552459||Caracal||||||||valid||TWG standards met|complete|2006|0|1998-01-27 13:44:10|552363||17487||0|5|180|No|
+[TU]|552469||Leopardus||wiedii||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552371||8123||0|5|220|No|
+[TU]|552470||Leopardus||pardalis||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552371||5656||0|5|220|No|
+[TU]|552471||Herpailurus||yaguarondi||||||invalid|other, see comments|TWG standards met|||0|1998-01-27 13:44:10|0||90461||0|5|220|No|
+[TU]|552479||Puma||concolor||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552375||5665||0|5|220|No|
+[TU]|552763||Prionailurus||bengalensis||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552453||4967||0|5|220|No|
+[TU]|552764||Oncifelis||geoffroyi||||||invalid|subsequent name/combination|TWG standards met|||0|1998-01-27 13:44:10|0||70931||0|5|220|No|
+[TU]|552765||Otocolobus||manul||||||invalid|subsequent name/combination|TWG standards met|||0|1998-01-27 13:44:10|0||7018||0|5|220|No|
+[TU]|552766||Leptailurus||serval||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552456||8208||0|5|220|No|
+[TU]|552769||Oncifelis||colocolo||||||invalid|subsequent name/combination|TWG standards met|||0|1998-01-27 13:44:10|0||6447||0|5|220|No|
+[TU]|552770||Prionailurus||viverrinus||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552453||70975||0|5|220|No|
+[TU]|552774||Prionailurus||rubiginosus||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552453||70989||0|5|220|No|
+[TU]|552775||Caracal||caracal||||||valid||TWG standards met|||0|1998-01-27 13:44:10|552459||8208||0|5|220|No|
+[TU]|552777||Puma||concolor||azteca||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||70901||0|5|230|No|
+[TU]|552778||Puma||concolor||browni||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71002||0|5|230|No|
+[TU]|552779||Puma||concolor||californica||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71003||0|5|230|No|
+[TU]|552780||Puma||concolor||concolor||||valid||TWG standards met|||0|1998-01-27 13:44:10|552479||5665||0|5|230|No|
+[TU]|552781||Puma||concolor||coryi||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||73184||0|5|230|No|
+[TU]|552782||Puma||concolor||costaricensis||||valid||TWG standards met|||0|1998-01-27 13:44:10|552479||70901||0|5|230|No|
+[TU]|552783||Puma||concolor||cougar||||invalid|unavailable, literature misspelling|TWG standards met|||0|1998-01-27 13:44:10|0||4967||0|5|230|No|
+[TU]|552784||Puma||concolor||hippolestes||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||6306||0|5|230|No|
+[TU]|552785||Puma||concolor||improcera||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71005||0|5|230|No|
+[TU]|552786||Puma||concolor||kaibabensis||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||70998||0|5|230|No|
+[TU]|552787||Puma||concolor||mayensis||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71006||0|5|230|No|
+[TU]|552788||Puma||concolor||missoulensis||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71007||0|5|230|No|
+[TU]|552789||Puma||concolor||oregonensis||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||70996||0|5|230|No|
+[TU]|552790||Puma||concolor||schorgeri||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71008||0|5|230|No|
+[TU]|552791||Puma||concolor||stanleyana||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||90465||0|5|230|No|
+[TU]|552792||Puma||concolor||vancouverensis||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71010||0|5|230|No|
+[TU]|552793||Leopardus||pardalis||albescens||||valid||TWG standards met|||0|1998-01-27 13:44:10|552470||71011||0|5|230|No|
+[TU]|552794||Leopardus||pardalis||mearnsi||||invalid|junior synonym|TWG standards met|||0|1998-01-27 13:44:10|0||71001||0|5|230|No|
+[TU]|552795||Leopardus||pardalis||nelsoni||||valid||TWG standards met|||0|1998-01-27 13:44:10|552470||71012||0|5|230|No|
+[TU]|552796||Leopardus||pardalis||sonoriensis||||valid||TWG standards met|||0|1998-01-27 13:44:10|552470||71012||0|5|230|No|
+[TU]|552797||Leopardus||wiedii||nicaraguae||||valid||TWG standards met|||0|1998-01-27 13:44:10|552469||4612||0|5|230|No|
+[TU]|552798||Leopardus||wiedii||pirrensis||||valid||TWG standards met|||0|1998-01-27 13:44:10|552469||70997||0|5|230|No|
+[TU]|552799||Leopardus||wiedii||wiedii||||valid||TWG standards met|||0|1998-01-27 13:44:10|552469||8123||0|5|230|No|
+[TU]|552800||Leopardus||wiedii||yucatanica||||invalid|other, see comments|TWG standards met|||0|1998-01-27 13:44:10|0||70998||0|5|230|No|
+[TU]|552801||Herpailurus||yaguarondi||cacomitli||||invalid|unavailable, literature misspelling|TWG standards met|||0|1998-01-27 13:44:10|0||70999||0|5|230|No|
+[TU]|552802||Herpailurus||yaguarondi||fossata||||invalid|unavailable, literature misspelling|TWG standards met|||0|1998-01-27 13:44:10|0||71000||0|5|230|No|
+[TU]|552803||Herpailurus||yaguarondi||panamensis||||invalid|unavailable, literature misspelling|TWG standards met|||0|1998-01-27 13:44:10|0||71001||0|5|230|No|
+[TU]|552804||Herpailurus||yaguarondi||tolteca||||invalid|unavailable, literature misspelling|TWG standards met|||0|1998-01-27 13:44:10|0||70723||0|5|230|No|
+[TU]|552805||Herpailurus||yaguarondi||yaguarondi||||invalid|unavailable, literature misspelling|TWG standards met|||0|1998-01-27 13:44:10|0||90461||0|5|230|No|
+[TU]|552806||Leopardus||wiedii||cooperi|||N|valid||TWG standards met|||0|1998-01-27 13:44:10|552469||71007||0|5|230|No|
+[TU]|552808||Leopardus||wiedii||oaxensis||||invalid|unavailable, database artifact|TWG standards met|||0|1998-01-27 13:44:10|0||70998||0|5|230|No|
+[TU]|552809||Leopardus||wiedii||glaucula||||invalid|other, see comments|TWG standards met|||0|1998-01-27 13:44:10|0||71019||0|5|230|No|
+[TU]|621778||Catopuma||||||||valid||TWG standards met|complete|2006|0|2003-10-28 14:33:24|552363||70673||0|5|180|No|
+[TU]|621779||Oreailurus||||||||invalid|junior synonym|TWG standards met|unknown|2006|0|2003-10-28 14:33:24|0||13011||0|5|180|No|
+[TU]|621780||Pardofelis||||||||valid||TWG standards met|complete|2006|0|2003-10-28 14:33:24|552363||70673||0|5|180|No|
+[TU]|621781||Profelis||||||||valid||TWG standards met|complete|2006|0|2003-10-28 14:33:24|552363||70673||0|5|180|No|
+[TU]|621866||Catopuma||badia||||||valid||TWG standards met|||0|2003-10-28 14:33:24|621778||87822||0|5|220|No|
+[TU]|621867||Catopuma||temminckii||||||valid||TWG standards met|||0|2003-10-28 14:33:24|621778||90372||0|5|220|No|
+[TU]|621868||Leopardus||tigrinus||||||valid||TWG standards met|||0|2003-10-28 14:33:24|552371||8207||0|5|220|No|
+[TU]|621869||Lynx||pardinus||||||valid||TWG standards met|||0|2003-10-28 14:33:24|180581||71630||0|5|220|No|
+[TU]|621870||Oncifelis||guigna||||||invalid|subsequent name/combination|TWG standards met|||0|2003-10-28 14:33:24|0||6447||0|5|220|No|
+[TU]|621871||Oreailurus||jacobita||||||invalid|other, see comments|TWG standards met|||0|2003-10-28 14:33:24|0||90373||0|5|220|No|
+[TU]|621872||Pardofelis||marmorata||||||valid||TWG standards met|||0|2003-10-28 14:33:24|621780||90374||0|5|220|No|
+[TU]|621873||Prionailurus||planiceps||||||valid||TWG standards met|||0|2003-10-28 14:33:24|552453||90372||0|5|220|No|
+[TU]|621874||Profelis||aurata||||||valid||TWG standards met|||0|2003-10-28 14:33:24|621781||71630||0|5|220|No|
+[TU]|622012||Felis||jacobita||||||invalid|original name/combination|TWG standards met|||0|2003-10-28 14:33:24|0||90446||0|5|220|No|
+[TU]|622015||Felis||pardina||||||invalid|original name/combination|TWG standards met|||0|2003-10-28 14:33:24|0||70988||0|5|220|No|
+[TU]|622016||Felis||caracal||||||invalid|original name/combination|TWG standards met|||0|2003-10-28 14:33:24|0||27223||0|5|220|No|
+[TU]|622026||Panthera||leo||persica||||valid||TWG standards met|||0|2003-10-28 14:33:24|183803||119241||0|5|230|No|
+[TU]|622028||Prionailurus||bengalensis||bengalensis||||valid||TWG standards met|||0|2003-10-28 14:33:24|552763||4967||0|5|230|No|
+[TU]|622029||Prionailurus||bengalensis||iriomotensis||||invalid|subsequent name/combination|TWG standards met|||0|2003-10-28 14:33:24|0||119566||0|5|230|No|
+[TU]|622034||Leptailurus||serval||constantina||||invalid|other, see comments|TWG standards met|||0|2003-10-28 14:33:24|0||3132||0|5|230|No|
+[TU]|622050||Felis||margarita||scheffeli||||valid||TWG standards met|||0|2003-10-28 14:33:24|183801||90462||0|5|230|No|
+[TU]|622051||Leopardus||pardalis||pardalis||||valid||TWG standards met|||0|2003-10-28 14:33:24|552470||5656||0|5|230|No|
+[TU]|622056||Leptailurus||serval||serval||||valid||TWG standards met|||0|2003-10-28 14:33:24|552766||8208||0|5|230|No|
+[TU]|622059||Panthera||leo||leo||||valid||TWG standards met|||0|2003-10-28 14:33:24|183803||5656||0|5|230|No|
+[TU]|622089||Felis||hippolestes||aztecus||||invalid|junior synonym|TWG standards met|||0|2003-10-28 14:33:24|0||23151||0|5|230|No|
+[TU]|622090||Felis||yagouaroundi||panamensis||||invalid|subsequent name/combination|TWG standards met|||0|2003-10-28 14:33:24|0||19645||0|5|230|No|
+[TU]|622091||Leopardus||wiedii||oaxacensis||||valid||TWG standards met|||0|2003-10-28 14:33:24|552469||70998||0|5|230|No|
+[TU]|622093||Puma||concolor||couguar||||valid||TWG standards met|||0|2003-10-28 14:33:24|552479||4967||0|5|230|No|
+[TU]|726248||Mayailurus||||||||invalid|junior synonym|TWG standards met|unknown|2006|0|2007-08-15 10:52:47|0||90447||0|5|180|No|
+[TU]|726250||Leopardus||braccatus||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552371||1859||0|5|220|No|
+[TU]|726251||Leopardus||colocolo||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552371||6447||0|5|220|No|
+[TU]|726252||Leopardus||geoffroyi||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552371||70931||0|5|220|No|
+[TU]|726253||Leopardus||guigna||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552371||6447||0|5|220|No|
+[TU]|726254||Leopardus||jacobitus||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552371||90373||0|5|220|No|
+[TU]|726255||Leopardus||pajeros||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552371||81894||0|5|220|No|
+[TU]|726256||Prionailurus||iriomotensis||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552453||119566||0|5|220|Yes|
+[TU]|726257||Puma||yagouaroundi||||||valid||TWG standards met|||0|2007-08-15 10:52:47|552375||86743||0|5|220|No|
+[TU]|726288||Acinonyx||jubatus||jubatus||||valid||TWG standards met|||0|2007-08-15 10:52:47|183813||8207||0|5|230|No|
+[TU]|726289||Acinonyx||jubatus||hecki||||valid||TWG standards met|||0|2007-08-15 10:52:47|183813||119184||0|5|230|No|
+[TU]|726290||Acinonyx||jubatus||raineyi||||valid||TWG standards met|||0|2007-08-15 10:52:47|183813||119185||0|5|230|No|
+[TU]|726291||Acinonyx||jubatus||soemmeringii||||valid||TWG standards met|||0|2007-08-15 10:52:47|183813||91905||0|5|230|No|
+[TU]|726292||Acinonyx||jubatus||velox||||invalid|junior synonym|TWG standards met|||0|2007-08-15 10:52:47|0||119185||0|5|230|No|
+[TU]|726293||Acinonyx||jubatus||venaticus||||valid||TWG standards met|||0|2007-08-15 10:52:47|183813||70930||0|5|230|No|
+[TU]|726294||Caracal||caracal||caracal||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||8208||0|5|230|No|
+[TU]|726295||Caracal||caracal||algira||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||78605||0|5|230|No|
+[TU]|726296||Caracal||caracal||damarensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||72065||0|5|230|No|
+[TU]|726297||Caracal||caracal||limpopoensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||72065||0|5|230|No|
+[TU]|726298||Caracal||caracal||lucani||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||119186||0|5|230|No|
+[TU]|726299||Caracal||caracal||nubica||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||119187||0|5|230|No|
+[TU]|726300||Caracal||caracal||poecilotis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||119188||0|5|230|No|
+[TU]|726301||Caracal||caracal||schmitzi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552775||119189||0|5|230|No|
+[TU]|726302||Catopuma||temminckii||temminckii||||valid||TWG standards met|||0|2007-08-15 10:52:47|621867||90372||0|5|230|No|
+[TU]|726303||Catopuma||temminckii||dominicanorum||||valid||TWG standards met|||0|2007-08-15 10:52:47|621867||119190||0|5|230|No|
+[TU]|726304||Catopuma||temminckii||tristis||||valid||TWG standards met|||0|2007-08-15 10:52:47|621867||93384||0|5|230|No|
+[TU]|726305||Felis||chaus||chaus||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||27224||0|5|230|No|
+[TU]|726306||Felis||chaus||affinis||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||17475||0|5|230|No|
+[TU]|726307||Felis||chaus||fulvidina||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||91961||0|5|230|No|
+[TU]|726308||Felis||chaus||furax||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||93736||0|5|230|No|
+[TU]|726309||Felis||chaus||kelaarti||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||119191||0|5|230|No|
+[TU]|726310||Felis||chaus||kutas||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||119192||0|5|230|No|
+[TU]|726311||Felis||chaus||maimanah||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||119193||0|5|230|No|
+[TU]|726312||Felis||chaus||nilotica||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||93736||0|5|230|No|
+[TU]|726313||Felis||chaus||oxiana||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||18697||0|5|230|No|
+[TU]|726314||Felis||chaus||prateri||||valid||TWG standards met|||0|2007-08-15 10:52:47|183802||119191||0|5|230|No|
+[TU]|726315||Felis||manul||manul||||valid||TWG standards met|||0|2007-08-15 10:52:47|183791||24701||0|5|230|No|
+[TU]|726316||Felis||manul||ferruginea||||valid||TWG standards met|||0|2007-08-15 10:52:47|183791||93739||0|5|230|No|
+[TU]|726317||Felis||manul||nigripecta||||valid||TWG standards met|||0|2007-08-15 10:52:47|183791||74283||0|5|230|No|
+[TU]|726318||Felis||margarita||margarita||||valid||TWG standards met|||0|2007-08-15 10:52:47|183801||70927||0|5|230|No|
+[TU]|726319||Felis||margarita||airensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|183801||119194||0|5|230|No|
+[TU]|726320||Felis||margarita||harrisoni||||valid||TWG standards met|||0|2007-08-15 10:52:47|183801||119195||0|5|230|No|
+[TU]|726321||Felis||margarita||meinertzhageni||||valid||TWG standards met|||0|2007-08-15 10:52:47|183801||119196||0|5|230|No|
+[TU]|726322||Felis||margarita||thinobia||||valid||TWG standards met|||0|2007-08-15 10:52:47|183801||119197||0|5|230|No|
+[TU]|726323||Felis||nigripes||nigripes||||valid||TWG standards met|||0|2007-08-15 10:52:47|183800||70928||0|5|230|No|
+[TU]|726324||Felis||nigripes||thomasi||||valid||TWG standards met|||0|2007-08-15 10:52:47|183800||119198||0|5|230|No|
+[TU]|726325||Felis||silvestris||silvestris||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||27224||0|5|230|No|
+[TU]|726326||Felis||silvestris||cafra||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||14964||0|5|230|No|
+[TU]|726327||Felis||silvestris||caucasica||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||93491||0|5|230|No|
+[TU]|726328||Felis||silvestris||caudata||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||87814||0|5|230|No|
+[TU]|726329||Felis||silvestris||chutuchta||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119199||0|5|230|No|
+[TU]|726330||Felis||silvestris||cretensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119200||0|5|230|No|
+[TU]|726331||Felis||silvestris||foxi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119201||0|5|230|No|
+[TU]|726332||Felis||silvestris||gordoni||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119202||0|5|230|No|
+[TU]|726333||Felis||silvestris||grampia||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||23320||0|5|230|No|
+[TU]|726334||Felis||silvestris||griselda||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||81907||0|5|230|No|
+[TU]|726335||Felis||silvestris||haussa||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119188||0|5|230|No|
+[TU]|726336||Felis||silvestris||iraki||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119203||0|5|230|No|
+[TU]|726337||Felis||silvestris||jordansi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119204||0|5|230|No|
+[TU]|726338||Felis||silvestris||lybica||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||70972||0|5|230|No|
+[TU]|726339||Felis||silvestris||mellandi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119205||0|5|230|No|
+[TU]|726340||Felis||silvestris||nesterovi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119199||0|5|230|No|
+[TU]|726341||Felis||silvestris||ocreata||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||17220||0|5|230|No|
+[TU]|726342||Felis||silvestris||ornata||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||17477||0|5|230|No|
+[TU]|726343||Felis||silvestris||reyi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||116287||0|5|230|No|
+[TU]|726344||Felis||silvestris||rubida||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119205||0|5|230|No|
+[TU]|726345||Felis||silvestris||tristrami||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119201||0|5|230|No|
+[TU]|726346||Felis||silvestris||ugandae||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119205||0|5|230|No|
+[TU]|726347||Felis||silvestris||vellerosa||||valid||TWG standards met|||0|2007-08-15 10:52:47|180589||119206||0|5|230|No|
+[TU]|726348||Leopardus||braccatus||braccatus||||valid||TWG standards met|||0|2007-08-15 10:52:47|726250||1859||0|5|230|No|
+[TU]|726349||Leopardus||braccatus||munoai||||valid||TWG standards met|||0|2007-08-15 10:52:47|726250||119207||0|5|230|No|
+[TU]|726350||Leopardus||colocolo||colocolo||||valid||TWG standards met|||0|2007-08-15 10:52:47|726251||6447||0|5|230|No|
+[TU]|726351||Leopardus||colocolo||wolffsohni||||valid||TWG standards met|||0|2007-08-15 10:52:47|726251||119208||0|5|230|No|
+[TU]|726352||Leopardus||geoffroyi||geoffroyi||||valid||TWG standards met|||0|2007-08-15 10:52:47|726252||70931||0|5|230|No|
+[TU]|726353||Leopardus||geoffroyi||euxanthus||||valid||TWG standards met|||0|2007-08-15 10:52:47|726252||119209||0|5|230|No|
+[TU]|726354||Leopardus||geoffroyi||leucobaptus||||valid||TWG standards met|||0|2007-08-15 10:52:47|726252||119209||0|5|230|No|
+[TU]|726355||Leopardus||geoffroyi||paraguae||||valid||TWG standards met|||0|2007-08-15 10:52:47|726252||119209||0|5|230|No|
+[TU]|726356||Leopardus||geoffroyi||salinarum||||valid||TWG standards met|||0|2007-08-15 10:52:47|726252||71019||0|5|230|No|
+[TU]|726357||Leopardus||guigna||guigna||||valid||TWG standards met|||0|2007-08-15 10:52:47|726253||6447||0|5|230|No|
+[TU]|726358||Leopardus||guigna||tigrillo||||valid||TWG standards met|||0|2007-08-15 10:52:47|726253||119210||0|5|230|No|
+[TU]|726359||Leopardus||pajeros||pajeros||||valid||TWG standards met|||0|2007-08-15 10:52:47|726255||81894||0|5|230|No|
+[TU]|726360||Leopardus||pajeros||budini||||valid||TWG standards met|||0|2007-08-15 10:52:47|726255||7325||0|5|230|No|
+[TU]|726361||Leopardus||pajeros||garleppi||||valid||TWG standards met|||0|2007-08-15 10:52:47|726255||119189||0|5|230|No|
+[TU]|726362||Leopardus||pajeros||steinbachi||||valid||TWG standards met|||0|2007-08-15 10:52:47|726255||7325||0|5|230|No|
+[TU]|726363||Leopardus||pajeros||thomasi||||valid||TWG standards met|||0|2007-08-15 10:52:47|726255||114958||0|5|230|No|
+[TU]|726364||Leopardus||pardalis||aequatorialis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552470||119211||0|5|230|No|
+[TU]|726365||Leopardus||pardalis||melanurus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552470||119212||0|5|230|No|
+[TU]|726366||Leopardus||pardalis||mitis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552470||119213||0|5|230|No|
+[TU]|726367||Leopardus||pardalis||pseudopardalis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552470||119214||0|5|230|No|
+[TU]|726368||Leopardus||pardalis||pusaeus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552470||9028||0|5|230|No|
+[TU]|726369||Leopardus||pardalis||steinbachi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552470||119216||0|5|230|No|
+[TU]|726370||Leopardus||tigrinus||tigrinus||||valid||TWG standards met|||0|2007-08-15 10:52:47|621868||8207||0|5|230|No|
+[TU]|726371||Leopardus||tigrinus||guttulus||||invalid|subsequent name/combination|TWG standards met|||0|2007-08-15 10:52:47|0||70750||0|5|230|No|
+[TU]|726372||Leopardus||tigrinus||oncilla||||valid||TWG standards met|||0|2007-08-15 10:52:47|621868||71019||0|5|230|No|
+[TU]|726373||Leopardus||tigrinus||pardinoides||||valid||TWG standards met|||0|2007-08-15 10:52:47|621868||71385||0|5|230|No|
+[TU]|726374||Leopardus||wiedii||amazonicus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552469||119215||0|5|230|No|
+[TU]|726375||Leopardus||wiedii||boliviae||||valid||TWG standards met|||0|2007-08-15 10:52:47|552469||119216||0|5|230|No|
+[TU]|726376||Leopardus||wiedii||glauculus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552469||71019||0|5|230|No|
+[TU]|726377||Leopardus||wiedii||salvinius||||valid||TWG standards met|||0|2007-08-15 10:52:47|552469||119216||0|5|230|No|
+[TU]|726378||Leopardus||wiedii||vigens||||valid||TWG standards met|||0|2007-08-15 10:52:47|552469||70741||0|5|230|No|
+[TU]|726379||Leopardus||wiedii||yucatanicus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552469||70998||0|5|230|No|
+[TU]|726380||Leptailurus||serval||beirae||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119217||0|5|230|No|
+[TU]|726381||Leptailurus||serval||brachyurus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||78605||0|5|230|No|
+[TU]|726382||Leptailurus||serval||constantinus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||3132||0|5|230|No|
+[TU]|726383||Leptailurus||serval||faradjius||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119218||0|5|230|No|
+[TU]|726384||Leptailurus||serval||ferrarii||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||82219||0|5|230|No|
+[TU]|726385||Leptailurus||serval||hamiltoni||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||115043||0|5|230|No|
+[TU]|726386||Leptailurus||serval||hindei||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119217||0|5|230|No|
+[TU]|726387||Leptailurus||serval||kempi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119217||0|5|230|No|
+[TU]|726388||Leptailurus||serval||kivuensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119219||0|5|230|No|
+[TU]|726389||Leptailurus||serval||lipostictus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||77739||0|5|230|No|
+[TU]|726390||Leptailurus||serval||lonnbergi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119220||0|5|230|No|
+[TU]|726391||Leptailurus||serval||mababiensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||106458||0|5|230|No|
+[TU]|726392||Leptailurus||serval||pantastictus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||77739||0|5|230|No|
+[TU]|726393||Leptailurus||serval||phillipsi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119221||0|5|230|No|
+[TU]|726394||Leptailurus||serval||pococki||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119220||0|5|230|No|
+[TU]|726395||Leptailurus||serval||robertsi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||119222||0|5|230|No|
+[TU]|726396||Leptailurus||serval||togoensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552766||68827||0|5|230|No|
+[TU]|726397||Lynx||canadensis||canadensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180585||20387||0|5|230|No|
+[TU]|726398||Lynx||canadensis||mollipilosus||||valid||TWG standards met|||0|2007-08-15 10:52:47|180585||119223||0|5|230|No|
+[TU]|726399||Lynx||canadensis||subsolanus||||valid||TWG standards met|||0|2007-08-15 10:52:47|180585||115090||0|5|230|No|
+[TU]|726400||Lynx||lynx||lynx||||valid||TWG standards met|||0|2007-08-15 10:52:47|180584||5656||0|5|230|No|
+[TU]|726401||Lynx||lynx||isabellinus||||valid||TWG standards met|||0|2007-08-15 10:52:47|180584||73221||0|5|230|No|
+[TU]|726402||Lynx||lynx||kozlovi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180584||119224||0|5|230|No|
+[TU]|726403||Lynx||lynx||sardiniae||||valid||TWG standards met|||0|2007-08-15 10:52:47|180584||119225||0|5|230|No|
+[TU]|726404||Lynx||lynx||stroganovi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180584||18697||0|5|230|No|
+[TU]|726405||Lynx||rufus||baileyi||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||23142||0|5|230|No|
+[TU]|726406||Lynx||rufus||californicus||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||119226||0|5|230|No|
+[TU]|726407||Lynx||rufus||fasciatus||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||25686||0|5|230|No|
+[TU]|726408||Lynx||rufus||floridanus||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||25686||0|5|230|No|
+[TU]|726409||Lynx||rufus||gigas||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||115090||0|5|230|No|
+[TU]|726410||Lynx||rufus||oaxacensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||119227||0|5|230|No|
+[TU]|726411||Lynx||rufus||pallescens||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||23149||0|5|230|No|
+[TU]|726412||Lynx||rufus||peninsularis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||29104||0|5|230|No|
+[TU]|726413||Lynx||rufus||superiorensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||119228||0|5|230|No|
+[TU]|726414||Lynx||rufus||texensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180582||19643||0|5|230|No|
+[TU]|726415||Pardofelis||marmorata||marmorata||||valid||TWG standards met|||0|2007-08-15 10:52:47|621872||90374||0|5|230|No|
+[TU]|726416||Pardofelis||marmorata||charltonii||||valid||TWG standards met|||0|2007-08-15 10:52:47|621872||3638||0|5|230|No|
+[TU]|726417||Prionailurus||bengalensis||alleni||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||119229||0|5|230|No|
+[TU]|726418||Prionailurus||bengalensis||borneoensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||119230||0|5|230|No|
+[TU]|726419||Prionailurus||bengalensis||chinensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||70850||0|5|230|No|
+[TU]|726420||Prionailurus||bengalensis||euptilurus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||71526||0|5|230|No|
+[TU]|726421||Prionailurus||bengalensis||heaneyi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||119231||0|5|230|No|
+[TU]|726422||Prionailurus||bengalensis||horsfieldii||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||3634||0|5|230|No|
+[TU]|726423||Prionailurus||bengalensis||javanensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||81894||0|5|230|No|
+[TU]|726424||Prionailurus||bengalensis||rabori||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||119231||0|5|230|No|
+[TU]|726425||Prionailurus||bengalensis||sumatranus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||4436||0|5|230|No|
+[TU]|726426||Prionailurus||bengalensis||trevelyani||||valid||TWG standards met|||0|2007-08-15 10:52:47|552763||119191||0|5|230|No|
+[TU]|726427||Prionailurus||rubiginosus||rubiginosus||||valid||TWG standards met|||0|2007-08-15 10:52:47|552774||70989||0|5|230|No|
+[TU]|726428||Prionailurus||rubiginosus||phillipsi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552774||119191||0|5|230|No|
+[TU]|726429||Profelis||aurata||aurata||||valid||TWG standards met|||0|2007-08-15 10:52:47|621874||71630||0|5|230|No|
+[TU]|726430||Profelis||aurata||cottoni||||valid||TWG standards met|||0|2007-08-15 10:52:47|621874||119232||0|5|230|No|
+[TU]|726431||Puma||concolor||anthonyi||||valid||TWG standards met|||0|2007-08-15 10:52:47|552479||70998||0|5|230|No|
+[TU]|726432||Puma||concolor||cabrerae||||valid||TWG standards met|||0|2007-08-15 10:52:47|552479||90471||0|5|230|No|
+[TU]|726433||Puma||concolor||puma||||valid||TWG standards met|||0|2007-08-15 10:52:47|552479||6447||0|5|230|No|
+[TU]|726434||Puma||yagouaroundi||yagouaroundi||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||86743||0|5|230|No|
+[TU]|726435||Puma||yagouaroundi||ameghinoi||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||119233||0|5|230|No|
+[TU]|726436||Puma||yagouaroundi||cacomitli||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||70999||0|5|230|No|
+[TU]|726437||Puma||yagouaroundi||eyra||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||81946||0|5|230|No|
+[TU]|726438||Puma||yagouaroundi||fossata||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||71000||0|5|230|No|
+[TU]|726439||Puma||yagouaroundi||melantho||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||9028||0|5|230|No|
+[TU]|726440||Puma||yagouaroundi||panamensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||71001||0|5|230|No|
+[TU]|726441||Puma||yagouaroundi||tolteca||||valid||TWG standards met|||0|2007-08-15 10:52:47|726257||70723||0|5|230|No|
+[TU]|726442||Neofelis||nebulosa||nebulosa||||valid||TWG standards met|||0|2007-08-15 10:52:47|183809||70930||0|5|230|No|
+[TU]|726443||Neofelis||nebulosa||brachyura||||valid||TWG standards met|||0|2007-08-15 10:52:47|183809||119234||0|5|230|No|
+[TU]|726444||Neofelis||nebulosa||diardi||||invalid|subsequent name/combination|TWG standards met|||0|2007-08-15 10:52:47|0||119235||0|5|230|No|
+[TU]|726445||Neofelis||nebulosa||macrosceloides||||valid||TWG standards met|||0|2007-08-15 10:52:47|183809||119236||0|5|230|No|
+[TU]|726446||Panthera||leo||azandica||||valid||TWG standards met|||0|2007-08-15 10:52:47|183803||119237||0|5|230|No|
+[TU]|726447||Panthera||leo||bleyenberghi||||valid||TWG standards met|||0|2007-08-15 10:52:47|183803||119238||0|5|230|No|
+[TU]|726448||Panthera||leo||hollisteri||||invalid|junior synonym|TWG standards met|||0|2007-08-15 10:52:47|0||119237||0|5|230|No|
+[TU]|726449||Panthera||leo||kamptzi||||invalid|junior synonym|TWG standards met|||0|2007-08-15 10:52:47|0||78474||0|5|230|No|
+[TU]|726450||Panthera||leo||krugeri||||valid||TWG standards met|||0|2007-08-15 10:52:47|183803||71472||0|5|230|No|
+[TU]|726451||Panthera||leo||massaica||||invalid|junior synonym|TWG standards met|||0|2007-08-15 10:52:47|0||106085||0|5|230|No|
+[TU]|726452||Panthera||leo||melanochaita||||valid||TWG standards met|||0|2007-08-15 10:52:47|183803||119239||0|5|230|No|
+[TU]|726453||Panthera||leo||nyanzae||||invalid|junior synonym|TWG standards met|||0|2007-08-15 10:52:47|0||119240||0|5|230|No|
+[TU]|726454||Panthera||leo||senegalensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|183803||119242||0|5|230|No|
+[TU]|726455||Panthera||onca||onca||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||5656||0|5|230|No|
+[TU]|726456||Panthera||onca||arizonensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||119243||0|5|230|No|
+[TU]|726457||Panthera||onca||centralis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||71000||0|5|230|No|
+[TU]|726458||Panthera||onca||goldmani||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||71000||0|5|230|No|
+[TU]|726459||Panthera||onca||hernandesii||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||119244||0|5|230|No|
+[TU]|726460||Panthera||onca||palustris||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||119245||0|5|230|No|
+[TU]|726461||Panthera||onca||paraguensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||114935||0|5|230|No|
+[TU]|726462||Panthera||onca||peruviana||||valid||TWG standards met|||0|2007-08-15 10:52:47|180593||119246||0|5|230|No|
+[TU]|726463||Panthera||onca||veraecruscis||||invalid|unavailable, literature misspelling|TWG standards met|||0|2007-08-15 10:52:47|0||119247||0|5|230|No|
+[TU]|726464||Panthera||pardus||pardus||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||5656||0|5|230|No|
+[TU]|726465||Panthera||pardus||delacouri||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||119248||0|5|230|No|
+[TU]|726466||Panthera||pardus||fusca||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||119249||0|5|230|No|
+[TU]|726467||Panthera||pardus||japonensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||119250||0|5|230|No|
+[TU]|726468||Panthera||pardus||kotiya||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||119251||0|5|230|No|
+[TU]|726469||Panthera||pardus||melas||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||119565||0|5|230|No|
+[TU]|726470||Panthera||pardus||nimr||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||90401||0|5|230|No|
+[TU]|726471||Panthera||pardus||orientalis||||valid||TWG standards met|||0|2007-08-15 10:52:47|183804||119252||0|5|230|No|
+[TU]|726472||Panthera||tigris||altaica||||valid||TWG standards met|||0|2007-08-15 10:52:47|183805||82257||0|5|230|No|
+[TU]|726473||Panthera||tigris||amoyensis||||valid||TWG standards met|||0|2007-08-15 10:52:47|183805||119253||0|5|230|No|
+[TU]|726474||Panthera||tigris||balica||||valid||TWG standards met|||0|2007-08-15 10:52:47|183805||119254||0|5|230|No|
+[TU]|726475||Panthera||tigris||corbetti||||valid||TWG standards met|||0|2007-08-15 10:52:47|183805||119255||0|5|230|No|
+[TU]|726476||Panthera||tigris||sondaica||||valid||TWG standards met|||0|2007-08-15 10:52:47|183805||82257||0|5|230|No|
+[TU]|726477||Panthera||tigris||sumatrae||||valid||TWG standards met|||0|2007-08-15 10:52:47|183805||90421||0|5|230|No|
+[TU]|726478||Panthera||tigris||virgata||||valid||TWG standards met|||0|2007-08-15 10:52:47|183805||70920||0|5|230|No|
+[TU]|727487||Felis||catus||domestica||||invalid|junior synonym|TWG standards met|||0|2007-08-15 10:52:47|0||15769||0|5|230|No|
+[TU]|914154||Bilateria||||||||valid||TWG standards met|partial|2013|0|2013-11-04 14:31:11|202423||0||0|5|20|No|
+[TU]|914156||Deuterostomia||||||||valid||TWG standards met|partial|2013|0|2013-11-04 14:31:11|914154||0||0|5|25|No|
+[TU]|914179||Gnathostomata||||||||valid||TWG standards met|partial|2013|0|2013-11-04 14:31:16|331030||0||0|5|45|No|
+[TU]|914181||Tetrapoda||||||||valid||TWG standards met|partial|2013|0|2013-11-04 14:31:16|914179||0||0|5|50|No|
+[TU]|933419||Neofelis||diardi||||||valid||TWG standards met|||0|2014-02-03 15:16:32|183808||119235||0|5|220|No|
+[TU]|933420||Panthera||uncia|||||N|invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:33|||8207||0|5|220|No|
+[TU]|933421||Leopardus||guttulus|||||N|valid||TWG standards met|||0|2014-02-03 15:16:33|552371||70750||0|5|220|No|
+[TU]|933422||Felis||concolor||cougar||||invalid|unavailable, literature misspelling|TWG standards met|||0|2014-02-03 15:16:38|||20387||0|5|230|No|
+[TU]|933423||Caracal||caracal||michaelis||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:39|||172389||0|5|230|No|
+[TU]|933424||Panthera||leo||nubica||||valid||TWG standards met|||0|2014-02-03 15:16:39|183803||119246||0|5|230|No|
+[TU]|933425||Panthera||onca||veraecrucis||||valid||TWG standards met|||0|2014-02-03 15:16:39|180593||119247||0|5|230|No|
+[TU]|933426||Felis||onca||coxi||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:39|||165449||0|5|230|No|
+[TU]|933427||Felis||onca||milleri||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:39|||165449||0|5|230|No|
+[TU]|933428||Felis||onca||paulensis||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:39|||165449||0|5|230|No|
+[TU]|933429||Felis||onca||boliviensis|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:39|||165449||0|5|230|No|
+[TU]|933430||Felis||onca||ucayalae|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:39|||165449||0|5|230|No|
+[TU]|933431||Panthera||pardus||saxicolor|||N|valid||TWG standards met|||0|2014-02-03 15:16:40|183804||70925||0|5|230|No|
+[TU]|933432||Puma||concolor||acrocodia||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:40|||71007||0|5|230|No|
+[TU]|933433||Puma||concolor||borbensis||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:40|||119247||0|5|230|No|
+[TU]|933434||Puma||concolor||capricornensis||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:40|||172390||0|5|230|No|
+[TU]|933435||Puma||concolor||greeni||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:40|||70998||0|5|230|No|
+[TU]|933436||Puma||concolor||araucanus||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:40|||172391||0|5|230|No|
+[TU]|933437||Puma||concolor||patagonica|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:40|||70901||0|5|230|No|
+[TU]|933438||Puma||concolor||pearsoni|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||93148||0|5|230|No|
+[TU]|933439||Puma||concolor||soderstromii|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||114958||0|5|230|No|
+[TU]|933440||Puma||concolor||osgoodi|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||71006||0|5|230|No|
+[TU]|933441||Puma||concolor||incarum||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||71006||0|5|230|No|
+[TU]|933442||Puma||concolor||bangsi||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||70901||0|5|230|No|
+[TU]|933443||Profelis||aurata||celidogaster|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||71630||0|5|230|No|
+[TU]|933444||Prionailurus||viverrinus||rhizophoreus|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||82158||0|5|230|No|
+[TU]|933445||Prionailurus||rubiginosus||koladivius|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:41|||119251||0|5|230|No|
+[TU]|933446||Felis||lynx||canadensis|||N|invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:42|||4967||0|5|230|No|
+[TU]|933447||Felis||lynx||sardiniae|||N|invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:42|||172392||0|5|230|No|
+[TU]|933448||Felis||lynx||subsolanus|||N|invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:42|||119438||0|5|230|No|
+[TU]|933449||Felis||concolor||olympus|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:42|||23148||0|5|230|No|
+[TU]|933450||Felis||concolor||capricornensis||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:42|||172390||0|5|230|No|
+[TU]|933451||Herpailurus||yagouaroundi||cacomitli|||N|invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:42|||70999||0|5|230|No|
+[TU]|933452||Herpailurus||yagouaroundi||fossata|||N|invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:42|||71000||0|5|230|No|
+[TU]|933453||Herpailurus||yagouaroundi||panamensis||||invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:42|||71001||0|5|230|No|
+[TU]|933454||Herpailurus||yagouaroundi||tolteca|||N|invalid|subsequent name/combination|TWG standards met|||0|2014-02-03 15:16:43|||70723||0|5|230|No|
+[TU]|933455||Felis||concolor||anthonyi||||invalid|original name/combination|TWG standards met|||0|2014-02-03 15:16:43|||24036||0|5|230|No|
+[TU]|933456||Felis||concolor||greeni||||invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:43|||24036||0|5|230|No|
+[TU]|933457||Felis||colocolo||crespoi|||N|invalid|junior synonym|TWG standards met|||0|2014-02-03 15:16:43|||172393||0|5|230|No|
+[TU]|933458||Lynchailurus||pajeros||steinbachi||||invalid|original name/combination|TWG standards met|||0|2014-02-03 15:16:43|||119216||0|5|230|No|
+[TU]|933459||Herpailurus||yagouarondi||yagouarondi||||invalid|other, see comments|TWG standards met|||0|2014-02-03 15:16:43|||90461||0|5|230|No|
+[SY]||180587|552479|
+[SY]||180588|552470|
+[SY]||180590|552469|
+[SY]||180591|726257|
+[SY]||183788|552775|
+[SY]||183790|726419|
+[SY]||183792|552766|
+[SY]||183793|552763|
+[SY]||183794|552774|
+[SY]||183795|552770|
+[SY]||183796|726255|
+[SY]||183797|726252|
+[SY]||183799|726338|
+[SY]||183807|726472|
+[SY]||183814|726288|
+[SY]||202391|552780|
+[SY]||202392|622093|
+[SY]||202393|622093|
+[SY]||202394|726434|
+[SY]||202395|726436|
+[SY]||203547|180582|
+[SY]||203548|622091|
+[SY]||203549|180583|
+[SY]||203551|622093|
+[SY]||203552|622093|
+[SY]||203553|622093|
+[SY]||203554|622093|
+[SY]||203555|622093|
+[SY]||203556|622093|
+[SY]||203557|622093|
+[SY]||203558|552782|
+[SY]||203559|552782|
+[SY]||203560|622093|
+[SY]||203561|622093|
+[SY]||203562|622093|
+[SY]||203563|622093|
+[SY]||203564|622093|
+[SY]||203565|622093|
+[SY]||203566|622093|
+[SY]||203567|622093|
+[SY]||203568|622093|
+[SY]||203569|622093|
+[SY]||203570|622093|
+[SY]||203571|622093|
+[SY]||203572|622093|
+[SY]||203573|622051|
+[SY]||203574|622051|
+[SY]||203575|622051|
+[SY]||203576|622051|
+[SY]||203577|726367|
+[SY]||203578|622051|
+[SY]||203579|552793|
+[SY]||203580|552793|
+[SY]||203581|552793|
+[SY]||203582|726364|
+[SY]||203583|726364|
+[SY]||203584|726364|
+[SY]||203585|552795|
+[SY]||203586|552796|
+[SY]||203587|552799|
+[SY]||203588|552806|
+[SY]||203589|726376|
+[SY]||203590|726376|
+[SY]||203591|552797|
+[SY]||203592|552797|
+[SY]||203593|622091|
+[SY]||203594|552798|
+[SY]||203595|552798|
+[SY]||203596|726377|
+[SY]||203597|726377|
+[SY]||203598|726379|
+[SY]||203599|726379|
+[SY]||203600|726436|
+[SY]||203601|726436|
+[SY]||203602|726441|
+[SY]||203603|726438|
+[SY]||203604|726438|
+[SY]||203605|726440|
+[SY]||203606|726440|
+[SY]||203607|180593|
+[SY]||552362|552363|
+[SY]||552373|552375|
+[SY]||552454|552371|
+[SY]||552455|180586|
+[SY]||552471|726257|
+[SY]||552764|726252|
+[SY]||552765|183791|
+[SY]||552769|726251|
+[SY]||552777|622093|
+[SY]||552778|622093|
+[SY]||552779|622093|
+[SY]||552781|622093|
+[SY]||552783|622093|
+[SY]||552784|622093|
+[SY]||552785|622093|
+[SY]||552786|622093|
+[SY]||552787|622093|
+[SY]||552788|622093|
+[SY]||552789|622093|
+[SY]||552790|622093|
+[SY]||552791|622093|
+[SY]||552792|622093|
+[SY]||552794|726364|
+[SY]||552800|726379|
+[SY]||552801|726436|
+[SY]||552802|726438|
+[SY]||552803|726440|
+[SY]||552804|726441|
+[SY]||552805|726434|
+[SY]||552808|622091|
+[SY]||552809|726376|
+[SY]||621779|552371|
+[SY]||621870|726253|
+[SY]||621871|726254|
+[SY]||622012|726254|
+[SY]||622015|621869|
+[SY]||622016|552775|
+[SY]||622029|726256|
+[SY]||622034|726382|
+[SY]||622089|622093|
+[SY]||622090|726440|
+[SY]||726248|552453|
+[SY]||726292|726290|
+[SY]||726371|933421|
+[SY]||726444|933419|
+[SY]||726448|933424|
+[SY]||726449|726454|
+[SY]||726451|933424|
+[SY]||726453|933424|
+[SY]||726463|933425|
+[SY]||727487|183798|
+[SY]||933420|183811|
+[SY]||933422|622093|
+[SY]||933423|726301|
+[SY]||933426|180593|
+[SY]||933427|726461|
+[SY]||933428|726461|
+[SY]||933429|180593|
+[SY]||933430|180593|
+[SY]||933432|726431|
+[SY]||933433|726431|
+[SY]||933434|726431|
+[SY]||933435|726431|
+[SY]||933436|726433|
+[SY]||933437|726433|
+[SY]||933438|726433|
+[SY]||933439|552780|
+[SY]||933440|552780|
+[SY]||933441|552780|
+[SY]||933442|552780|
+[SY]||933443|726429|
+[SY]||933444|552770|
+[SY]||933445|726428|
+[SY]||933446|180585|
+[SY]||933447|726403|
+[SY]||933448|726399|
+[SY]||933449|622093|
+[SY]||933450|726431|
+[SY]||933451|726436|
+[SY]||933452|726438|
+[SY]||933453|726440|
+[SY]||933454|726441|
+[SY]||933455|726431|
+[SY]||933456|726431|
+[SY]||933457|726360|
+[SY]||933458|726362|
+[SY]||933459|726434|
+[TA]|106085|(Neumann, 1900)|5|
+[TA]|106458|Roberts, 1932|5|
+[TA]|114935|(Hollister, 1914)|5|
+[TA]|114958|(Lönnberg, 1913)|5|
+[TA]|115043|Roberts, 1931|5|
+[TA]|115090|Bangs, 1897|5|
+[TA]|11513|Bennett, 1833|5|
+[TA]|11599|Berlandier, 1859|5|
+[TA]|116287|Lavauden, 1929|5|
+[TA]|119183|Fischer de Waldheim, 1817|5|
+[TA]|119184|Hilzheimer, 1913|5|
+[TA]|119185|Heller, 1913|5|
+[TA]|119186|(Rochebrune, 1885)|5|
+[TA]|119187|(J. B. Fischer, 1829)|5|
+[TA]|119188|Thomas and Hinton, 1921|5|
+[TA]|119189|(Matschie, 1912)|5|
+[TA]|119190|(Sclater, 1898)|5|
+[TA]|119191|Pocock, 1939|5|
+[TA]|119192|Pearson, 1832|5|
+[TA]|119193|Zukowsky, 1915|5|
+[TA]|119194|Pocock, 1951|5|
+[TA]|119195|Hemmer, Grubb and Groves, 1976|5|
+[TA]|119196|Pocock, 1938|5|
+[TA]|119197|(Ognev, 1927)|5|
+[TA]|119198|Shortridge, 1931|5|
+[TA]|119199|Birula, 1916|5|
+[TA]|119200|Haltenorth, 1953|5|
+[TA]|119201|Pocock, 1944|5|
+[TA]|119202|Harrison, 1968|5|
+[TA]|119203|Cheesman, 1921|5|
+[TA]|119204|Schwarz, 1930|5|
+[TA]|119205|Schwann, 1904|5|
+[TA]|119206|Pocock, 1943|5|
+[TA]|119207|(Ximenez, 1961)|5|
+[TA]|119208|(García-Perea, 1994)|5|
+[TA]|119209|(Pocock, 1940)|5|
+[TA]|119210|(Schinz, 1844)|5|
+[TA]|119211|(Mearns, 1903)|5|
+[TA]|119212|(Ball, 1844)|5|
+[TA]|119213|(F. G. Cuvier, 1820)|5|
+[TA]|119214|(Boitard, 1842)|5|
+[TA]|119215|(Cabrera, 1917)|5|
+[TA]|119216|Pocock, 1941|5|
+[TA]|119217|(Wroughton, 1910)|5|
+[TA]|119218|J. A. Allen, 1924|5|
+[TA]|119219|(Lönnberg, 1919)|5|
+[TA]|119220|(Cabrera, 1910)|5|
+[TA]|119221|(G. M. Allen, 1914)|5|
+[TA]|119222|Ellerman, Morrison-Scott and Hayman, 1953|5|
+[TA]|119223|Stone, 1900|5|
+[TA]|119224|Fetisov, 1950|5|
+[TA]|119225|Mola, 1908|5|
+[TA]|119226|Mearns, 1897|5|
+[TA]|119227|Goodwin, 1963|5|
+[TA]|119228|Peterson and Downing, 1952|5|
+[TA]|119229|Sody, 1949|5|
+[TA]|119230|Brongersma, 1936|5|
+[TA]|119231|Groves, 1997|5|
+[TA]|119232|(Lydekker, 1907)|5|
+[TA]|119233|(Holmberg, 1898)|5|
+[TA]|119234|(Swinhoe, 1862)|5|
+[TA]|119235|(G. Cuvier, 1823)|5|
+[TA]|119236|(Hodgson, 1853)|5|
+[TA]|119237|(J. A. Allen, 1924)|5|
+[TA]|119238|(Lönnberg, 1914)|5|
+[TA]|119239|(C. E. H. Smith, 1858)|5|
+[TA]|119240|(Heller, 1913)|5|
+[TA]|119241|(Meyer, 1826)|5|
+[TA]|119242|(J. N. von Meyer, 1826)|5|
+[TA]|119243|(Goldman, 1932)|5|
+[TA]|119244|(J. E. Gray, 1857)|5|
+[TA]|119245|(Ameghino, 1888)|5|
+[TA]|119246|(de Blainville, 1843)|5|
+[TA]|119247|(Nelson and Goldman, 1933)|5|
+[TA]|119248|Pocock, 1930|5|
+[TA]|119249|(Meyer, 1794)|5|
+[TA]|119250|(J. E. Gray, 1862)|5|
+[TA]|119251|Deraniyagala, 1956|5|
+[TA]|119252|(Schlegel, 1857)|5|
+[TA]|119253|(Hilzheimer, 1905)|5|
+[TA]|119254|Schwarz, 1912|5|
+[TA]|119255|Mazak, 1968|5|
+[TA]|119282|J. B. Fischer, 1829|5|
+[TA]|119438|(Bangs, 1897)|5|
+[TA]|119563|(Fitzinger, 1868)|5|
+[TA]|119565|(G. Cuvier, 1809)|5|
+[TA]|119566|(Imaizumi, 1967)|5|
+[TA]|119567|Mearns, 1902|5|
+[TA]|12088|Boitard, 1842|5|
+[TA]|12655|Brookes, 1828|5|
+[TA]|13011|Cabrera, 1940|5|
+[TA]|14964|Desmarest, 1822|5|
+[TA]|15769|Erxleben, 1777|5|
+[TA]|165449|Nelson and Goldman, 1933|5|
+[TA]|17126|Gill, 1872|5|
+[TA]|17220|Gmelin, 1791|5|
+[TA]|172389|Hepter, 1945|5|
+[TA]|172390|(Goldman, 1946)|5|
+[TA]|172391|(Osgood, 1943)|5|
+[TA]|172392|(Mola, 1908)|5|
+[TA]|172393|Cabrera, 1957|5|
+[TA]|17272|Goldman, 1914|5|
+[TA]|17273|Goldman, 1925|5|
+[TA]|17274|Goldman, 1938|5|
+[TA]|17275|Goldman, 1943|5|
+[TA]|17475|Gray, 1830|5|
+[TA]|17477|Gray, 1832|5|
+[TA]|17486|Gray, 1842|5|
+[TA]|17487|Gray, 1843|5|
+[TA]|17498|Gray, 1854|5|
+[TA]|17508|Gray, 1867|5|
+[TA]|1859|(Cope, 1889)|5|
+[TA]|18697|Heptner, 1969|5|
+[TA]|19643|J. A. Allen, 1895|5|
+[TA]|19644|J. A. Allen, 1903|5|
+[TA]|19645|J. A. Allen, 1904|5|
+[TA]|19648|J. A. Allen, 1919|5|
+[TA]|19761|Jackson, 1955|5|
+[TA]|20387|Kerr, 1792|5|
+[TA]|21812|Link, 1795|5|
+[TA]|21823|Linnaeus, 1758|5|
+[TA]|21830|Linnaeus, 1771|5|
+[TA]|22749|May, 1896|5|
+[TA]|22968|Mearns, 1901|5|
+[TA]|23142|Merriam, 1890|5|
+[TA]|23148|Merriam, 1897|5|
+[TA]|23149|Merriam, 1899|5|
+[TA]|23151|Merriam, 1901|5|
+[TA]|23153|Merriam, 1903|5|
+[TA]|23320|Miller, 1907|5|
+[TA]|24036|Nelson and Goldman, 1931|5|
+[TA]|24037|Nelson and Goldman, 1932|5|
+[TA]|24403|Oken, 1816|5|
+[TA]|24701|Pallas, 1776|5|
+[TA]|25162|Phillips, 1912|5|
+[TA]|25576|Pucheran, 1855|5|
+[TA]|25686|Rafinesque, 1817|5|
+[TA]|25694|Rafinesque, 1832|5|
+[TA]|27045|Schinz, 1821|5|
+[TA]|27223|Schreber, 1776|5|
+[TA]|27224|Schreber, 1777|5|
+[TA]|28790|Swainson, 1838|5|
+[TA]|29014|Temminck, 1824|5|
+[TA]|29104|Thomas, 1898|5|
+[TA]|29105|Thomas, 1903|5|
+[TA]|30888|Wilson, 1860|5|
+[TA]|3132|(Forster, 1780)|5|
+[TA]|3634|(Gray, 1842)|5|
+[TA]|3638|(Gray, 1846)|5|
+[TA]|4436|(Horsfield, 1821)|5|
+[TA]|4612|(J. A. Allen, 1919)|5|
+[TA]|4967|(Kerr, 1792)|5|
+[TA]|5656|(Linnaeus, 1758)|5|
+[TA]|5665|(Linnaeus, 1771)|5|
+[TA]|6306|(Merriam, 1897)|5|
+[TA]|6447|(Molina, 1782)|5|
+[TA]|68827|(Matschie, 1893)|5|
+[TA]|7018|(Pallas, 1776)|5|
+[TA]|70673|Severtzov, 1858|5|
+[TA]|70675|(Schreber, 1777)|5|
+[TA]|70676|Jardine, 1834|5|
+[TA]|70723|(Thomas, 1898)|5|
+[TA]|70741|(Thomas, 1904)|5|
+[TA]|70750|(Hensel, 1872)|5|
+[TA]|70850|(Gray, 1837)|5|
+[TA]|70901|(Merriam, 1901)|5|
+[TA]|70920|(Illiger, 1815)|5|
+[TA]|70924|Pocock, 1917|5|
+[TA]|70925|Pocock, 1927|5|
+[TA]|70926|Milne-Edwards, 1892|5|
+[TA]|70927|Loche, 1858|5|
+[TA]|70928|Burchell, 1824|5|
+[TA]|70930|(Griffith, 1821)|5|
+[TA]|70931|(d'Orbigny and Gervais, 1844)|5|
+[TA]|70932|d'Orbigny and Gervais, 1844|5|
+[TA]|70933|Brandt, 1842|5|
+[TA]|70972|Forster, 1780|5|
+[TA]|70973|Desmarest, 1816|5|
+[TA]|70975|(Bennett, 1833)|5|
+[TA]|70988|Temminck, 1827|5|
+[TA]|70989|(I. Geoffroy Saint-Hilaire, 1831)|5|
+[TA]|70990|I. Geoffroy Saint-Hilaire, 1831|5|
+[TA]|70995|Nelson and Goldman, 1929|5|
+[TA]|70996|(Rafinesque, 1832)|5|
+[TA]|70997|(Goldman, 1914)|5|
+[TA]|70998|(Nelson and Goldman, 1931)|5|
+[TA]|70999|(Berlandier, 1859)|5|
+[TA]|71000|(Mearns, 1901)|5|
+[TA]|71001|(J. A. Allen, 1904)|5|
+[TA]|71002|(Merriam, 1903)|5|
+[TA]|71003|(May, 1896)|5|
+[TA]|71005|(Phillips, 1912)|5|
+[TA]|71006|(Nelson and Goldman, 1929)|5|
+[TA]|71007|(Goldman, 1943)|5|
+[TA]|71008|(Jackson, 1955)|5|
+[TA]|71010|(Nelson and Goldman, 1932)|5|
+[TA]|71011|(Pucheran, 1855)|5|
+[TA]|71012|(Goldman, 1925)|5|
+[TA]|71019|(Thomas, 1903)|5|
+[TA]|71029|Parker and Haswell, 1897|5|
+[TA]|71031|Bowdich, 1821|5|
+[TA]|71385|(Gray, 1867)|5|
+[TA]|71472|(Roberts, 1929)|5|
+[TA]|71526|(Elliot, 1871)|5|
+[TA]|71630|(Temminck, 1827)|5|
+[TA]|72065|(Roberts, 1926)|5|
+[TA]|72173|Bangs, 1899|5|
+[TA]|73184|(Bangs, 1899)|5|
+[TA]|73221|(Blyth, 1847)|5|
+[TA]|7325|(Pocock, 1941)|5|
+[TA]|74283|Hodgson, 1842|5|
+[TA]|77739|(Pocock, 1907)|5|
+[TA]|78474|(Matschie, 1900)|5|
+[TA]|78605|(Wagner, 1841)|5|
+[TA]|8123|(Schinz, 1821)|5|
+[TA]|81894|(Desmarest, 1816)|5|
+[TA]|81907|Thomas, 1926|5|
+[TA]|81946|(G. Fischer, 1814)|5|
+[TA]|8207|(Schreber, 1775)|5|
+[TA]|8208|(Schreber, 1776)|5|
+[TA]|82158|Sody, 1936|5|
+[TA]|82219|(de Beaux, 1924)|5|
+[TA]|82257|Temminck, 1844|5|
+[TA]|86743|(É. Geoffroy Saint-Hilaire, 1803)|5|
+[TA]|86744|É. Geoffroy Saint-Hilaire, 1803|5|
+[TA]|87814|Gray, 1874|5|
+[TA]|87822|(Gray, 1874)|5|
+[TA]|9028|(Thomas, 1914)|5|
+[TA]|90372|(Vigors and Horsfield, 1827)|5|
+[TA]|90373|(Cornalia, 1865)|5|
+[TA]|90374|(Martin, 1837)|5|
+[TA]|90401|(Hemprich and Ehrenberg, 1833)|5|
+[TA]|90421|Pocock, 1929|5|
+[TA]|90443|Kretzoi, 1945|5|
+[TA]|90446|Cornalia, 1865|5|
+[TA]|90447|Imaizumi, 1967|5|
+[TA]|90460|Lacépède, 1809|5|
+[TA]|90461|(Lacépède, 1809)|5|
+[TA]|90462|Hemmer, 1974|5|
+[TA]|90465|(Goldman, 1938)|5|
+[TA]|90471|Pocock, 1940|5|
+[TA]|91905|(Fitzinger, 1855)|5|
+[TA]|91961|Thomas, 1929|5|
+[TA]|93148|(Thomas, 1901)|5|
+[TA]|93384|(Milne-Edwards, 1872)|5|
+[TA]|93491|Satunin, 1905|5|
+[TA]|93736|de Winton, 1898|5|
+[TA]|93739|Ognev, 1928|5|
+[NO]3399        |202423||
+[NO]8388        |158852||
+[NO]92          |179913||
+[NO]9203        |179916||
+[NO]9206        |179925||
+[NO]9220        |180539||
+[NO]922004      |180580||
+[NO]92200401    |180581||
+[NO]9220040101  |180582||
+[NO]9220040101  |203547||
+[NO]9220040101  |203548||
+[NO]922004010101|180583||
+[NO]922004010101|203549||
+[NO]922004010102|203550||
+[NO]9220040102  |180584||
+[NO]9220040103  |180585||
+[NO]9220040104  |183788||
+[NO]92200402    |180586||
+[NO]9220040201  |180587||
+[NO]922004020101|202391||
+[NO]922004020102|202392||
+[NO]922004020102|203551||
+[NO]922004020103|202393||
+[NO]922004020104|203552||
+[NO]922004020104|203553||
+[NO]922004020105|203554||
+[NO]922004020105|203555||
+[NO]922004020106|203556||
+[NO]922004020106|203557||
+[NO]922004020107|203558||
+[NO]922004020107|203559||
+[NO]922004020108|203560||
+[NO]922004020108|203561||
+[NO]922004020109|203562||
+[NO]922004020109|203563||
+[NO]922004020110|203564||
+[NO]922004020111|203565||
+[NO]922004020112|203566||
+[NO]922004020113|203567||
+[NO]922004020113|203568||
+[NO]922004020113|203569||
+[NO]922004020114|203570||
+[NO]922004020115|203571||
+[NO]922004020116|203572||
+[NO]9220040202  |180588||
+[NO]9220040202  |203573||
+[NO]9220040202  |203574||
+[NO]9220040202  |203575||
+[NO]9220040202  |203576||
+[NO]9220040202  |203577||
+[NO]9220040202  |203578||
+[NO]922004020201|203579||
+[NO]922004020201|203580||
+[NO]922004020201|203581||
+[NO]922004020202|203582||
+[NO]922004020202|203583||
+[NO]922004020202|203584||
+[NO]922004020203|203585||
+[NO]922004020204|203586||
+[NO]9220040203  |180589||
+[NO]9220040203  |183798||
+[NO]9220040204  |180590||
+[NO]922004020401|203587||
+[NO]922004020402|203588||
+[NO]922004020403|203589||
+[NO]922004020403|203590||
+[NO]922004020404|203591||
+[NO]922004020404|203592||
+[NO]922004020404|203593||
+[NO]922004020405|203594||
+[NO]922004020405|203595||
+[NO]922004020406|203596||
+[NO]922004020406|203597||
+[NO]922004020407|203598||
+[NO]922004020407|203599||
+[NO]9220040205  |180591||
+[NO]922004020501|202394||
+[NO]922004020502|202395||
+[NO]922004020502|203600||
+[NO]922004020502|203601||
+[NO]922004020503|203602||
+[NO]922004020504|203603||
+[NO]922004020504|203604||
+[NO]922004020505|203605||
+[NO]922004020505|203606||
+[NO]9220040206  |183789||
+[NO]9220040207  |183790||
+[NO]9220040208  |183791||
+[NO]9220040209  |183792||
+[NO]9220040210  |183793||
+[NO]9220040211  |183794||
+[NO]9220040212  |183795||
+[NO]9220040213  |183796||
+[NO]9220040214  |183797||
+[NO]9220040216  |183799||
+[NO]9220040217  |183800||
+[NO]9220040218  |183801||
+[NO]9220040219  |183802||
+[NO]92200403    |180592||
+[NO]9220040301  |180593||
+[NO]9220040301  |203607||
+[NO]9220040302  |183803||
+[NO]9220040303  |183804||
+[NO]9220040304  |183805||
+[NO]922004030401|183806||
+[NO]922004030402|183807||
+[NO]92200404    |183808||
+[NO]9220040401  |183809||
+[NO]92200405    |183810||
+[NO]9220040501  |183811||
+[NO]92200406    |183812||
+[NO]9220040601  |183813||
+[NO]9220040602  |183814||
+[VR]||111776|Cheetah|183813|English|N|
+[VR]||111777|Caracal|552775|English|N|
+[VR]||111778|Bay Cat|621866|English|N|
+[VR]||111779|Asian Golden Cat|621867|English|N|
+[VR]||111780|Chinese Mountain Cat|183789|English|N|
+[VR]||111781|Domestic Cat|183798|English|N|
+[VR]||111782|Jungle Cat|183802|English|N|
+[VR]||111783|Pallas's Cat|183791|English|N|
+[VR]||111784|Sand Cat|183801|English|N|
+[VR]||111785|Black-footed Cat|183800|English|N|
+[VR]||111786|Wildcat|180589|English|N|
+[VR]||111787|Pantanal Cat|726250|English|N|
+[VR]||111788|Colocolo|726251|English|N|
+[VR]||111789|Geoffroy's Cat|726252|English|N|
+[VR]||111790|Kodkod|726253|English|N|
+[VR]||111791|Andean Mountain Cat|726254|English|N|
+[VR]||111792|Pampas cat|726255|English|N|
+[VR]||111793|Ocelot|552470|English|N|
+[VR]||111794|Oncilla|621868|English|N|
+[VR]||111795|Margay|552469|English|N|
+[VR]||111796|Serval|552766|English|N|
+[VR]||111797|Canadian Lynx|180585|English|N|
+[VR]||111798|Eurasian Lynx|180584|English|N|
+[VR]||111799|Iberian Lynx|621869|English|N|
+[VR]||111800|Bobcat|180582|English|N|
+[VR]||111801|Marbled Cat|621872|English|N|
+[VR]||111802|Leopard Cat|552763|English|N|
+[VR]||111803|Iriomote Cat|726256|English|N|
+[VR]||111804|Flat-headed Cat|621873|English|N|
+[VR]||111805|Rusty-Spotted Cat|552774|English|N|
+[VR]||111806|Fishing Cat|552770|English|N|
+[VR]||111807|African Golden Cat|621874|English|N|
+[VR]||111808|Cougar|552479|English|N|
+[VR]||111809|Jaguarundi|726257|English|N|
+[VR]||111810|Clouded Leopard|183809|English|N|
+[VR]||111811|Lion|183803|English|N|
+[VR]||111812|Jaguar|180593|English|N|
+[VR]||111813|Leopard|183804|English|N|
+[VR]||111814|Tiger|183805|English|N|
+[VR]||111815|Snow leopard|183811|English|N|
+[VR]||112063|North African Serval|726382|English|N|
+[VR]||112066|Siberian tiger|726472|English|N|
+[VR]||112067|Amur tiger|726472|English|N|
+[VR]||112068|Caspian tiger|726478|English|N|
+[VR]||112069|Bali tiger|726474|English|N|
+[VR]||112070|Javan tiger|726476|English|N|
+[VR]||112071|South China tiger|726473|English|N|
+[VR]||112072|Sumatran tiger|726477|English|N|
+[VR]||112073|Indo-Chinese tiger|726475|English|N|
+[VR]||112074|Bengal tiger|183806|English|N|
+[VR]||112075|Indochinese tiger|726475|English|N|
+[VR]||112076|Balinese tiger|726474|English|N|
+[VR]||112077|Corbett's tiger|726475|English|N|
+[VR]||112079|cat-like carnivores|552304|English|N|
+[VR]||155023|Barbary lion|622059|English|N|
+[VR]||155024|Atlas lion|622059|English|N|
+[VR]||155025|South African Cape Lion|726452|English|N|
+[VR]||155026|Northeastern Jaguar|933425|English|N|
+[VR]||155027|East Brazilian Jaguar|726455|English|N|
+[VR]||155028|Paraguay Jaguar|726461|English|N|
+[VR]||155029|Peruvian Jaguar|726462|English|N|
+[VR]||155030|Central American Jaguar|726457|English|N|
+[VR]||155031|Yucatan Peninsula Jaguar|726458|English|N|
+[VR]||155032|West Mexican Jaguar|726459|English|N|
+[VR]||155033|Arizona Jaguar|726456|English|N|
+[VR]||155034|Sao Paula Puma|933450|English|N|
+[VR]||155035|Kaibab Mountain Lion|203564|English|N|
+[VR]||155036|Venezuelan Puma|933455|English|N|
+[VR]||155037|East Brazilian Puma|933456|English|N|
+[VR]||155038|Oaxaca Long-tailed Tiger Cat|203593|English|N|
+[VR]||155039|Oaxaca Long-tailed Tiger Cat|622091|English|N|
+[VR]||155040|Yucatan Long-tailed Tiger Cat|203599|English|N|
+[VR]||155041|Yucatan Long-tailed Tiger Cat|726379|English|N|
+[VR]||20582|mammals|179913|English|N|
+[VR]||20688|carnivores|180539|English|N|
+[VR]||20754|cats|180580|English|N|
+[VR]||20756|small cats|180586|English|N|
+[VR]||20757|leopard cat|183793|English|N|
+[VR]||20758|Chinese desert cat|183789|English|N|
+[VR]||20760|mountain lion|180587|English|N|
+[VR]||20761|Geoffroy's cat|183797|English|N|
+[VR]||20762|African wild cat|183799|English|N|
+[VR]||20763|steppe cat|183791|English|N|
+[VR]||20765|Philippine cat|183790|English|N|
+[VR]||20767|Pampas cat|183796|English|N|
+[VR]||20768|ocelot|180588|English|N|
+[VR]||20769|rusty-spotted cat|183794|English|N|
+[VR]||20770|serval|183792|English|N|
+[VR]||20773|fishing cat|183795|English|N|
+[VR]||20774|margay|180590|English|N|
+[VR]||20775|jaguarundi|180591|English|N|
+[VR]||20776|bobcats|180581|English|N|
+[VR]||20777|lynxes|180581|English|N|
+[VR]||20778|lynx|180585|English|N|
+[VR]||20781|roaring cats|180592|English|N|
+[VR]||60177|jaguarundis|552373|English|N|
+[VR]||60178|jaguarundi|552471|English|N|
+[VR]||60179|American spotted cats|552371|English|N|
+[VR]||60182|pumas|552375|English|N|
+[VR]||60183|mountain lion|552479|English|N|
+[VR]||60416|Geoffroy's cat|552764|English|N|
+[VR]||60417|Pallas' cat|552765|English|N|
+[VR]||60464|Pampas cat|552769|English|N|
+[VR]||60493|Pallas' cat|183791|English|N|
+[VR]||61450|vertebrates|331030|English|N|
+[VR]||61451|chordates|158852|English|N|
+[VR]||78738|animals|202423|English|N|
+[VR]||80855|Jaguarundi|552471|Spanish|N|
+[VR]||80868|Margay|552469|Spanish|N|
+[VR]||80869|Ocelote|552470|Spanish|N|
+[VR]||80878|Lince americano|180582|Spanish|N|
+[VR]||80930|Jaguar|180593|Spanish|N|
+[VR]||80959|Puma|552479|Spanish|N|
+[VR]||84195|eastern cougar|202392|English|N|
+[VR]||84196|couguar|202392|French|N|
+[VR]||84477|lynx du Canada|180585|French|N|
+[VR]||84478|lynx roux|180582|French|N|
+[VR]||85484|cordado|158852|Portuguese|N|
+[VR]||85512|mamífero|179913|Portuguese|N|
+[VR]||85528|cachorro do mato|180539|Portuguese|N|
+[VR]||85529|carnívoro|180539|Portuguese|N|
+[VR]||85530|gato do mato|180539|Portuguese|N|
+[VR]||85531|lontra|180539|Portuguese|N|
+[VR]||85537|Animal|202423|Portuguese|N|
+[VR]||85539|vertebrado|331030|Portuguese|N|
+[VR]||85840|cordés|158852|French|N|
+[VR]||86025|mammifères|179913|French|N|
+[VR]||86039|carnivores|180539|French|N|
+[VR]||86042|animaux|202423|French|N|
+[VR]||86045|vertébrés|331030|French|N|
+[VR]||86272|Asiatic golden cat|621867|English|N|
+[VR]||86273|Temminck's golden cat|621867|English|N|
+[VR]||86274|wild cat|180589|English|N|
+[VR]||86275|little spotted cat|621868|English|N|
+[VR]||86276|tiger cat|621868|English|N|
+[VR]||86277|Canada lynx|180585|English|N|
+[VR]||86278|Spanish lynx|621869|English|N|
+[VR]||86279|kodkod|621870|English|N|
+[VR]||86280|Andean cat|621871|English|N|
+[VR]||86281|Pallas's cat|552765|English|N|
+[VR]||86286|Puma|552479|English|N|
+[VR]||86473|mountain lion|202391|English|N|
+[VR]||86474|Florida panther|202393|English|N|
+[VR]||86475|margay|203587|English|N|
+[VR]||86476|jaguarundi|202395|English|N|
+[VR]||86477|eastern puma|622093|English|N|
+[VR]||86478|Gulf Coast jaguarundi|552801|English|N|
+[VR]||86479|jaguarundi|552801|English|N|
+[VR]||86480|Guatemalan jaguarundi|552802|English|N|
+[VR]||86481|Panamanian jaguarundi|552803|English|N|
+[VR]||86482|Sinaloan jaguarundi|552804|English|N|
+[VR]||86483|margay|552799|English|N|
+[VR]||86484|Mexican bobcat|203550|English|N|
+[VR]||86485|bobcat|180583|English|N|
+[VR]||86486|Siberian tiger|183807|English|N|
+[VR]||86488|mountain lion|552780|English|N|
+[VR]||86489|puma|552780|English|N|
+[VR]||86490|Florida panther|552781|English|N|
+[VR]||86491|Costa Rican puma|552782|English|N|
+[VR]||86502|Asiatic lion|622026|English|N|
+[VR]||86504|Andean cat|622012|English|N|
+[VR]||86505|leopard cat|622028|English|N|
+[VR]||86506|Iriomote cat|622029|English|N|
+[VR]||86508|Barbary serval|622034|English|N|
+[VR]||86515|Spanish lynx|622015|English|N|
+[VR]||86532|eastern cougar|622093|English|N|
+[JR]|Alaska|Native|180585|
+[JR]|Canada|Introduced|180589|
+[JR]|Canada|Native|180582|
+[JR]|Canada|Native|180585|
+[JR]|Canada|Native|552479|
+[JR]|Canada|Native|552784|
+[JR]|Canada|Native|552788|
+[JR]|Canada|Native|552789|
+[JR]|Canada|Native|552790|
+[JR]|Canada|Native|552792|
+[JR]|Canada|Native|622093|
+[JR]|Continental US|Introduced|180589|
+[JR]|Continental US|Native & Extirpated|180593|
+[JR]|Continental US|Native & Introduced|552471|
+[JR]|Continental US|Native|180582|
+[JR]|Continental US|Native|180585|
+[JR]|Continental US|Native|552469|
+[JR]|Continental US|Native|552470|
+[JR]|Continental US|Native|552479|
+[JR]|Continental US|Native|552784|
+[JR]|Continental US|Native|552785|
+[JR]|Continental US|Native|552786|
+[JR]|Continental US|Native|552788|
+[JR]|Continental US|Native|552789|
+[JR]|Continental US|Native|552790|
+[JR]|Continental US|Native|552791|
+[JR]|Continental US|Native|552793|
+[JR]|Continental US|Native|552796|
+[JR]|Continental US|Native|622093|
+[JR]|Mexico|Native|180582|
+[JR]|Mexico|Native|180593|
+[JR]|Mexico|Native|552469|
+[JR]|Mexico|Native|552470|
+[JR]|Mexico|Native|552471|
+[JR]|Mexico|Native|552479|
+[CL]||179925|25210|
+[CL]||180539|17727|
+[CL]||180580|17728|
+[CL]||180580|18235|
+[CL]||180581|17774|
+[CL]||180582|18547|
+[CL]||180582|18548|
+[CL]||180584|17747|
+[CL]||180584|17777|
+[CL]||180585|17775|
+[CL]||180585|17776|
+[CL]||180586|17739|
+[CL]||180587|9833|
+[CL]||180589|17752|
+[CL]||180589|17753|
+[CL]||180589|18217|
+[CL]||180591|18201|
+[CL]||180591|27269|
+[CL]||180592|17803|
+[CL]||180593|17806|
+[CL]||180593|17807|
+[CL]||183789|17740|
+[CL]||183789|17741|
+[CL]||183791|17747|
+[CL]||183791|17748|
+[CL]||183798|17742|
+[CL]||183798|17743|
+[CL]||183798|18217|
+[CL]||183800|16070|
+[CL]||183800|17751|
+[CL]||183801|17749|
+[CL]||183801|17750|
+[CL]||183802|17744|
+[CL]||183802|17745|
+[CL]||183803|17804|
+[CL]||183803|17805|
+[CL]||183804|17808|
+[CL]||183804|17809|
+[CL]||183805|17810|
+[CL]||183805|17811|
+[CL]||183808|17801|
+[CL]||183809|16070|
+[CL]||183809|17802|
+[CL]||183810|17812|
+[CL]||183811|16022|
+[CL]||183811|17813|
+[CL]||183811|27267|
+[CL]||183812|17730|
+[CL]||183813|17731|
+[CL]||183813|17732|
+[CL]||202394|18201|
+[CL]||203550|9814|
+[CL]||203553|18213|
+[CL]||203584|18203|
+[CL]||203597|18212|
+[CL]||203605|18202|
+[CL]||552363|17729|
+[CL]||552364|17800|
+[CL]||552371|17754|
+[CL]||552375|17795|
+[CL]||552453|17784|
+[CL]||552455|27272|
+[CL]||552456|17771|
+[CL]||552459|17733|
+[CL]||552469|17769|
+[CL]||552469|17770|
+[CL]||552470|17765|
+[CL]||552470|17766|
+[CL]||552471|18201|
+[CL]||552479|17796|
+[CL]||552479|17797|
+[CL]||552763|17785|
+[CL]||552763|17786|
+[CL]||552766|17772|
+[CL]||552766|17773|
+[CL]||552770|17740|
+[CL]||552770|17792|
+[CL]||552774|17790|
+[CL]||552774|17791|
+[CL]||552775|17734|
+[CL]||552775|17735|
+[CL]||552781|9815|
+[CL]||552783|9847|
+[CL]||552800|18212|
+[CL]||552805|18201|
+[CL]||552808|18211|
+[CL]||552809|18212|
+[CL]||621778|17736|
+[CL]||621780|17782|
+[CL]||621781|17793|
+[CL]||621866|15843|
+[CL]||621866|17737|
+[CL]||621867|16070|
+[CL]||621867|17738|
+[CL]||621868|17767|
+[CL]||621868|17768|
+[CL]||621869|17778|
+[CL]||621869|17779|
+[CL]||621871|18200|
+[CL]||621872|16070|
+[CL]||621872|17783|
+[CL]||621873|16070|
+[CL]||621873|17789|
+[CL]||621874|17740|
+[CL]||621874|17794|
+[CL]||622026|18238|
+[CL]||622029|9770|
+[CL]||622034|17046|
+[CL]||622050|18236|
+[CL]||622059|27265|
+[CL]||726250|15840|
+[CL]||726250|17755|
+[CL]||726251|17756|
+[CL]||726251|17757|
+[CL]||726252|17758|
+[CL]||726252|17759|
+[CL]||726253|17760|
+[CL]||726253|17761|
+[CL]||726254|17762|
+[CL]||726254|17763|
+[CL]||726255|15840|
+[CL]||726255|17764|
+[CL]||726256|17787|
+[CL]||726256|17788|
+[CL]||726257|17798|
+[CL]||726257|17799|
+[CL]||726309|17746|
+[CL]||726443|27264|
+[CL]||726452|27266|
+[CL]||726474|18245|
+[CL]||726476|18245|
+[CL]||726478|18245|
+[CL]||933422|27271|
+[CL]||933450|27268|
+[CL]||933459|18201|
+[CL]||933459|27270|
+[CM]|15840|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II|2006-11-28 18:04:58|
+[CM]|15843|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; IUCN - Endangered|2006-11-28 18:04:58|
+[CM]|16022|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered; IUCN - Endangered|2006-11-28 18:04:58|
+[CM]|16070|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered; IUCN - Vulnerable|2006-11-28 18:04:58|
+[CM]|17046|David Nicolson - ITIS Data Development Coordinator|Mandatory correction for gender concordance|2007-01-23 12:46:21|
+[CM]|17727|Wilson & Reeder, eds. (2005)|Comments: Higher taxonomic arrangement follows that of McKenna and Bell (1997), except that Ailuridae, Eupleridae, Mephitidae, and Odobenidae are raised to Family rank|2007-08-15 10:57:25|
+[CM]|17728|Wilson & Reeder, eds. (2005)|Comments: Revised by Pocock (1917a, b, 1951), Weigel (1961), de Beaumont (1964), Hemmer (1978), Král and Zima (1980), Kratochvíl (1982c), Groves (1982a), Collier and O'Brien (1985), Salles (1992), Johnson and O'Brien (1997), McKenna and Bell (1997), Bininda-Emonds et al. (1999), and Mattern and McLennan (2000). Some (Honacki et al., 1982; McKenna and Bell, 1997; Van Gelder, 1977b) have followed Simpson (1945) and placed the majority of taxa in Felis, except for the large cats (i.e., Panthera and Acin...|2007-08-15 10:57:25|
+[CM]|17729|Wilson & Reeder, eds. (2005)|Comments: A comparison of four recent phylogenetic analyses of the non-pantherine cats shows little consensus at branch points other than those that might be recognized as genera. For this reason all non-pantherine cats are tentatively grouped together in the Felinae. Synonyms allocated according to McKenna and Bell (1997)|2007-08-15 10:57:25|
+[CM]|17730|Wilson & Reeder, eds. (2005)|Comments: Wozencraft (1993) placed Acinonyx in the monophyletic subfamily Acinonychinae. Salles (1992), Johnson and O'Brien (1997), Bininda-Emonds et al. (1999), and Mattern and McLennan (2000) considered Acinonyx, Puma concolor, and Puma (= Herpailurus) yagouaroundi to represent close sister groups. Synonyms allocated according to McKenna and Bell (1997)|2007-08-15 10:57:25|
+[CM]|17731|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered; IUCN - Critically Endangered as A. j. venaticus, Endangered as A. j. hecki, otherwise Vulnerable|2007-08-15 10:57:25|
+[CM]|17732|Wilson & Reeder, eds. (2005)|Comments: Placed in Acinonyx by Pocock (1917b), Weigel (1961), Hemmer (1978), Král and Zima (1980), Kratochvíl (1982c), and Groves (1982a). Subspecies and their synonyms allocated according to G. M. Allen (1939) and Ellerman et al. (1953)|2007-08-15 10:57:25|
+[CM]|17733|Wilson & Reeder, eds. (2005)|Comments: Recent studies (Groves, 1982a; Král and Zima, 1980) emphasized the closeness of this taxon to Felis and the separation of it from Lynx (sensu Simpson, 1945). Weigel (1961), Hemmer (1978), and Werdelin (1981) placed caracal Schreber in the monotypic Caracal followed here (placed in Urolynchus by Kratochvíl, 1982c). Bininda-Emonds et al. (1999) and Mattern and McLennan (2000) considered Caracal the sister taxon to Leptailurus serval. However Mattern and McLennan then considered this pair rela...|2007-08-15 10:57:25|
+[CM]|17734|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I (Asian population); otherwise, Appendix II; IUCN - Least Concern|2007-08-15 10:57:25|
+[CM]|17735|Wilson & Reeder, eds. (2005)|Comments: J. A. Allen (1924) discussed the authority. Subspecies allocated according to G. M. Allen (1939), Ellerman et al. (1953), and Smithers (1971)|2007-08-15 10:57:25|
+[CM]|17736|Wilson & Reeder, eds. (2005)|Comments: Catopuma is the sister group to Profelis aurata according to Bininda-Emonds et al. (1999); however, Mattern and McLennan (2000) placed it next to more typical Felis. McKenna and Bell (1997) placed it in Felis (Profelis). Bininda-Emonds et al. (1999) and Mattern and McLennan (2000) demonstrated that C. badia and C. temmincki are sister taxa|2007-08-15 10:57:25|
+[CM]|17737|Wilson & Reeder, eds. (2005)|Comments: Placed in Catopuma by Hemmer (1978) and Groves (1982a). Placed in the monotypic Badiofelis by Pocock (1932d), and followed by Weigel (1961), and Johnson and O'Brien (1997)|2007-08-15 10:57:25|
+[CM]|17738|Wilson & Reeder, eds. (2005)|Comments: Placed in Catopuma by Hemmer (1978) and Groves (1982a). Placed in Profelis by Pocock (1932d), followed by Weigel (1961), Král and Zima (1980), Kratochvíl (1982c), and Johnson and O'Brien (1997). Includes tristis after Pocock (1932d). Subspecies allocated according to Ellerman et al. (1953)|2007-08-15 10:57:25|
+[CM]|17739|Wilson & Reeder, eds. (2005)|Comments: Revised by Schwangart (1943), Pocock (1951), and Haltenorth (1953). Subspecies allocated according to McKenna and Bell (1997) and Kitchener (pers. comm.). Opinion 91 (1926) and Direction 24 (1955b) of the International Commission on Zoological Nomenclature declared the type of Felis to be Felis catus Linnaeus, 1758|2007-08-15 10:57:25|
+[CM]|17740|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; IUCN - Vulnerable|2007-08-15 10:57:25|
+[CM]|17741|Wilson & Reeder, eds. (2005)|Comments: Haltenorth (1953) suggested chutuchta and vellerosa belonged in silvestris (followed here). F. bieti, margarita, nigripes, and chaus are considered closely related by Hemmer (1978), Collier and O'Brien (1985), Salles (1992), and Bininda-Emonds et al. (1999)|2007-08-15 10:57:25|
+[CM]|17742|Wilson & Reeder, eds. (2005)|Status: CITES - specifically excluded from protection|2007-08-15 10:57:25|
+[CM]|17743|Wilson & Reeder, eds. (2005)|Comments: Also see comments under Felis and Felis silvestris. Synonyms allocated according to Pocock (1951) and should be considered provisional. There has been almost universal use of F. catus for the domestic cat and silvestris for wild cats. Several authors have treated the domestic cat as separate from the wildcats (Corbet and Hill, 1991; Daniels et al., 1998; A. C. Kitchener, 1991; Mattern and McLennan, 2000; Nowak, 1999; Pocock, 1951; Wiseman et al., 2000); however also see Randi and Ragni (198...|2007-08-15 10:57:25|
+[CM]|17744|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; IUCN - Least Concern|2007-08-15 10:57:25|
+[CM]|17745|Wilson & Reeder, eds. (2005)|Comments: F. chaus Güldenstädt, 1776, is invalid (J. A. Allen, 1920). Subspecies allocated according to Pocock (1951) and Ellerman and Morrison-Scott (1951)|2007-08-15 10:57:25|
+[CM]|17746|Wilson & Reeder, eds. (2005)|Comments: Based on Felis chaus Kelaart (1852)|2007-08-15 10:57:25|
+[CM]|17747|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; IUCN - Near Threatened|2007-08-15 10:57:25|
+[CM]|17748|Wilson & Reeder, eds. (2005)|Comments: Revised by Pocock (1907a), Birula (1913, 1916), Ognev (1935), and Schwangart (1936). Most consider F. manul to be included with Felis (Felis) and separation into Otocolobus following Wozencraft (1993) would make Felis paraphyletic (Bininda-Emonds et al., 1999; Collier and O'Brien, 1985; Hemmer, 1978; Mattern and McLennan, 2000; Salles, 1992; Weigel, 1961). McKenna and Bell (1997) placed in Felis (Otocolobus). Subspecies allocated according to Pocock (1951) and Ellerman and Morrison-Scott (1...|2007-08-15 10:57:25|
+[CM]|17749|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; U.S. ESA - Endangered as F. margarita scheffeli; IUCN - Near Threatened|2007-08-15 10:57:25|
+[CM]|17750|Wilson & Reeder, eds. (2005)|Comments: Revised by Schauenberg (1974) and Hemmer et al. (1976). Pocock (1951) and Schauenberg (1974) included Eremaelurus thinobia, which was recognized as separate by Haltenorth (1953) and Weigel (1961), but see discussion by Hemmer et al. (1976). Král and Zima (1980) suggested this species was closely related to F. manul. Subspecies allocated according to G. M. Allen (1939), Pocock (1951), Ellerman and Morrison-Scott (1951), Schauenberg (1974), and Hemmer et al. (1976)|2007-08-15 10:57:25|
+[CM]|17751|Wilson & Reeder, eds. (2005)|Comments: Král and Zima (1980) noted a distinctly different karotype from other Felis. McKenna and Bell (1997) placed in Felis (Microfelis)|2007-08-15 10:57:25|
+[CM]|17752|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; IUCN - Vulnerable as F. s. grampia, otherwise Least Concern|2007-08-15 10:57:25|
+[CM]|17753|Wilson & Reeder, eds. (2005)|Comments: Also see comments under Felis catus. There is some confusion as to the correct species name. Schreber (1775) illustrated a plate as 'Felis Catus ferus', and in 1777 the text listed 'Felis (Catus) silvestris' and 'Felis Catus (domestica).' Opinion 465 of the International Commission on Zoological Nomenclature (1957f) declared silvestris as the specific name for the European wild cat (with the understanding that F. catus and F. silvestris are usually considered conspecific). Revised by Ragni ...|2007-08-15 10:57:25|
+[CM]|17754|Wilson & Reeder, eds. (2005)|Comments: There has been almost unanimous agreement that this group is monophyletic (Bininda-Emonds et al., 1999; Herrington, 1986; Johnson and O'Brien, 1997; Johnson et al., 1998; Mattern and McLennan, 2000; Pocock, 1917a; Salles, 1992; Weigel, 1961). However, the relationships within this genus are unclear. Most recognize wiedii and pardalis as a monophyletic group, however there is considerable controversy on the arrangement of the remaining species. Under phylogenies put forward by some recent ge...|2007-08-15 10:57:25|
+[CM]|17755|Wilson & Reeder, eds. (2005)|Comments: See comments under genus|2007-08-15 10:57:25|
+[CM]|17756|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II, ; IUCN - Near Threatened as Oncifelis colocolo|2007-08-15 10:57:25|
+[CM]|17757|Wilson & Reeder, eds. (2005)|Comments: The validity of colocolo was questioned by Osgood (1943) however, Wolffsohn (1908) and Cabrera (1940, 1958) defended the original description. Some have placed it in Oncifelis (but see comments under genus). Subspecies allocated according to Pocock (1941b) and García-Perea (1994)|2007-08-15 10:57:25|
+[CM]|17758|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I as Oncifelis geoffroyi; IUCN - Near Threatened as Oncifelis geoffroyi|2007-08-15 10:57:25|
+[CM]|17759|Wilson & Reeder, eds. (2005)|Comments: Subspecies allocated according to Cabrera (1958). Revised by Pocock (1940c) and reviewed by Ximenez (1975). Placed in Oncifelis by J. A. Allen (1919a), Weigel (1961), Hemmer (1978), Král and Zima (1980), and Kratochvíl (1982c). Ximeñez (1975) followed Cabrera (1957), and placed geoffroyi in Felis (Leopardus). Includes F. pardoides (Cabrera, 1957)|2007-08-15 10:57:25|
+[CM]|17760|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; IUCN - Vulnerable as Oncifelis guigna|2007-08-15 10:57:25|
+[CM]|17761|Wilson & Reeder, eds. (2005)|Comments: Placed in Oncifelis by Weigel (1961) and Hemmer (1978). Placed in subgenus Leopardus of Felis by Cabrera (1958). Synonyms allocated according to Cabrera (1957)|2007-08-15 10:57:25|
+[CM]|17762|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I as Oreailurus jacobitus; U. S. ESA - Endangered as Felis jacobitus; IUCN - Endangered as Oreailurus jacobita (sic)|2007-08-15 10:57:25|
+[CM]|17763|Wilson & Reeder, eds. (2005)|Comments: Reviewed by García-Perea (2002), Yensen and Seymour (2000), and Gray (1867b). Placed in Oreailurus by Cabrera (1940), Weigel (1961), and Hemmer (1978). Later, Cabrera (1958) reconsidered Oreailurus as a subgenus of Felis|2007-08-15 10:57:25|
+[CM]|17764|Wilson & Reeder, eds. (2005)|Comments: See comments under genus, see also García-Perea (1994)|2007-08-15 10:57:25|
+[CM]|17765|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U. S. ESA - Endangered; IUCN - Endangered as L. p. albescens, otherwise Least Concern|2007-08-15 10:57:25|
+[CM]|17766|Wilson & Reeder, eds. (2005)|Comments: Placed in Leopardus by J. A. Allen (1919b), Weigel (1961), Hemmer (1978), and Kratochvíl (1982c). Reviewed by Murray and Gardner (1997). Synonyms allocated according to Cabrera (1958b), Hall (1981), and Murray and Gardner (1997)|2007-08-15 10:57:25|
+[CM]|17767|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered; IUCN - Near Threatened|2007-08-15 10:57:25|
+[CM]|17768|Wilson & Reeder, eds. (2005)|Comments: Placed in Leopardus by J. A. Allen (1919b), Weigel (1961), and Kratochvíl (1982c); placed in Oncifelis (with guigna and geoffroyi) by Hemmer (1978). L. tigrinus shares a derived chromosomal number with pardalis and wiedii (Wurster-Hill, 1973). Includes Felis pardinoides after Cabrera (1958); however, see J. A. Allen (1919b) and Weigel (1961) who considered pardinoides as distinct, but closely related to tigrinus. Synonyms allocated according to Pocock (1941c), Cabrera (1957), and Hall (1981)|2007-08-15 10:57:25|
+[CM]|17769|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered (from Mexico southward); IUCN - Least Concern|2007-08-15 10:57:25|
+[CM]|17770|Wilson & Reeder, eds. (2005)|Comments: Placed in Leopardus by Weigel (1961), Hemmer (1978), and Kratochvíl (1982c). Allen (1919b) and Weigel (1961) suggested that wiedii (in part) may be conspecific with tigrinus; however, Hemmer (1978) considered differences between wiedii and tigrinus to warrant generic distinction. Synonyms allocated according to Pocock (1941d), Cabrera (1957), Hall (1981), and Oliveira (1998a)|2007-08-15 10:57:25|
+[CM]|17771|Wilson & Reeder, eds. (2005)|Comments: Placed as a subgenus of Felis by McKenna and Bell (1997). There appears to be little agreement on the relationship of Leptailurus to other cats. Pocock (1917a) placed it with Leopardus; whereas Weigel (1961), Hemmer (1978), and Bininda-Emonds et al. (1999) placed with Felis, Lynx, and Caracal. Salles (1992) grouped it with Prionailurus bengalensis, and Johnson and O'Brien (1997) and Mattern and McLennan (2000) with Caracal and Profelis. Severtzov (1858), Groves (1982a), and McKenna and Bell...|2007-08-15 10:57:25|
+[CM]|17772|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; U.S. ESA - Endangered as L. s. constantina [sic]; IUCN - Endangered as L. s. constantinus, otherwise Least Concern|2007-08-15 10:57:25|
+[CM]|17773|Wilson & Reeder, eds. (2005)|Comments: Synonyms allocated according to Smithers (1971)|2007-08-15 10:57:25|
+[CM]|17774|Wilson & Reeder, eds. (2005)|Comments: Revised by Matyushkin (1979), Werdelin (1981), and García-Perea (1992), who recognized the generic status of Lynx. Groves (1982a), Hemmer (1978), and McKenna and Bell (1997) considered Lynx a subgenus of Felis|2007-08-15 10:57:25|
+[CM]|17775|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; U.S. ESA - Threatened; IUCN - Least Concern|2007-08-15 10:57:25|
+[CM]|17776|Wilson & Reeder, eds. (2005)|Comments: Considered distinct from L. lynx by Kurtén and Anderson (1980), Matyushkin (1979), Werdelin (1981), and García-Perea (1992). Reviewed in part by Tumlison (1987) as Felis lynx|2007-08-15 10:57:25|
+[CM]|17777|Wilson & Reeder, eds. (2005)|Comments: Does not include L. canadensis or L. pardinus, following Pocock (1917a), Hemmer (1978), Matyushkin (1979), García-Perea (1992), Werdelin (1981), Salles (1992), Johnson and O'Brien (1997), Bininda-Emonds et al. (1999), and Mattern and McLennan (2000). Includes isabellinus (Gao, 1987). Reviewed in part by Tumlison (1987) as Felis lynx. Synonyms allocated according to Ellerman and Morrison-Scott (1951) and Tumlison (1987)|2007-08-15 10:57:25|
+[CM]|17778|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered as Felis pardina; IUCN - Critically Endangered|2007-08-15 10:57:25|
+[CM]|17779|Wilson & Reeder, eds. (2005)|Comments: Given specific status by Matyushkin (1979), Werdelin (1981) and García-Perea (1992); however Weigel (1961) and Tumlison (1987) considered pardinus conspecific with L. lynx|2007-08-15 10:57:25|
+[CM]|17782|Wilson & Reeder, eds. (2005)|Comments: There is considerable controversy over the correct placement of this genus. Hemmer (1978), Král and Zima (1980), Groves (1982a), Kratochvíl (1982c), Collier and O'Brien (1985), and Bininda-Emonds et al. (1999) placed it as the first outgroup to the Pantherines. Pocock (1932d), Weigel (1961), Salles (1992), and Mattern and McLennan (2000) suggested a relationship with felines while recognizing similarities with Panthera. McKenna and Bell (1997) placed it as a subgenus of Felis. It perhaps sh...|2007-08-15 10:57:25|
+[CM]|17783|Wilson & Reeder, eds. (2005)|Comments: Revised by Pocock (1932d). Placed in Pardofelis by Pocock (1932d), Weigel (1961), Král and Zima (1980), Kratochvíl (1982c), Hemmer (1978), and Groves (1982a). Synonyms allocated according to Ellerman and Morrison-Scott (1951)|2007-08-15 10:57:25|
+[CM]|17784|Wilson & Reeder, eds. (2005)|Comments: Weigel (1961), Hemmer (1978), Groves (1982a), Kratochvil (1982c), Collier and O'Brien (1985), and Bininda-Emonds et al. (1999), considered bengalensis, planiceps, iriomotenisis, rubiginosus, and viverrinus a monophyletic group. McKenna and Bell (1997) included bengalensis, iriomotensis, rubiginosus, and viverrinus. Salles (1992), Johnson and O'Brien (1997), and Mattern and McLennan (2000) separated rubiginosus, although there is no agreement nor consensus as to its correct placement. It is ...|2007-08-15 10:57:25|
+[CM]|17785|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I as P. b. bengalensis (populations of India, Bangladesh, and Thailand); otherwise Appendix II; U.S. ESA - Endangered as P. b. bengalensis; IUCN - Least Concern|2007-08-15 10:57:25|
+[CM]|17786|Wilson & Reeder, eds. (2005)|Comments: Includes euptilurus following G. M. Allen (1939) and Gao (1987). Heptner (1971) and Gromov and Baranova (1981) considered euptilurus a distinct species; however, Gao (1987) pointed out that Heptner compared Russian specimens with those from SE Asia, whereas when intervening Chinese populations are included, his distinctions do not hold. Includes minuta following Chasen (1940). Excludes iriomotensis (see comments below). Synonyms allocated according to Ellerman and Morrison-Scott (1951) and ...|2007-08-15 10:57:25|
+[CM]|17787|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; U.S. ESA and IUCN - Endangered as P. bengalensis iriomotensis|2007-08-15 10:57:25|
+[CM]|17788|Wilson & Reeder, eds. (2005)|Comments: Petzsch (1970), Glass and Todd (1977), Hemmer (1978), Groves (1982a), Herrington (1986), and Johnson et al. (1999) argued that differences only warranted subspecific status and separation of iriomotensis from bengalensis may make some populations of bengalensis paraphyletic. Suzuki et al. (1994a), Masuda et al. (1994), and Leyhausen and Pfleiderer (1994, 1999) presented evidence that it should be considered distinct from other bengalensis. It should probably be best considered incertae sedis|2007-08-15 10:57:25|
+[CM]|17789|Wilson & Reeder, eds. (2005)|Comments: Ellerman and Morrison-Scott (1951) listed this taxon as incertae sedis, but placed it with Felis viverrina. Grouped with Prionailurus by Weigel (1961), Hemmer (1978), Kratochvíl (1982c), Groves (1982a), Johnson and O'Brien (1997), Bininda-Emonds et al. (1999), and Mattern and McLennan (2000)|2007-08-15 10:57:25|
+[CM]|17790|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I (Indian population), otherwise Appendix II; IUCN - Vulnerable|2007-08-15 10:57:25|
+[CM]|17791|Wilson & Reeder, eds. (2005)|Comments: Placed in Prionailurus by Pocock (1917a), Weigel (1961), Hemmer (1978), Kratochvíl (1982c), and Groves (1982a). Herrington (1986), Salles (1992), Johnson and O'Brien (1997), and Mattern and McLennan (2000) all considered rubiginosus distant from other Prionailurus, although there is little agreement where it should be placed. See comments under genus|2007-08-15 10:57:25|
+[CM]|17792|Wilson & Reeder, eds. (2005)|Comments: Grouped with Prionailurus by Weigel (1961), Hemmer (1978), Kratochvíl (1982c), Groves (1982a), Salles (1992), Johnson and O'Brien (1997), Bininda-Emonds et al. (1999), and Mattern and McLennan (2000). Synonyms allocated according to Ellerman and Morrison-Scott (1951)|2007-08-15 10:57:25|
+[CM]|17793|Wilson & Reeder, eds. (2005)|Comments: Placed as a subgenus of Felis by McKenna and Bell (1997). There is considerable controversy with the relationship of Profelis to other cats. Some follow Pocock (1917a) and unite it with Catopuma (Bininda-Emonds et al., 1999; Collier and O'Brien, 1985; Herrington, 1986; Weigel, 1961). Others consider Profelis closely related to Caracal (Johnson and O'Brien, 1997; Mattern and McLennan, 2000)|2007-08-15 10:57:25|
+[CM]|17794|Wilson & Reeder, eds. (2005)|Comments: Revised by Van Mensch and Van Bree (1969). Placed in Profelis by Pocock (1917a), Weigel (1961), Hemmer (1978), Kratochvíl (1982c), and Groves (1982a). Král and Zima (1980) placed it in Felis. Synonyms allocated according to G. M. Allen (1939)|2007-08-15 10:57:25|
+[CM]|17795|Wilson & Reeder, eds. (2005)|Comments: Placed as a subgenus in Felis by McKenna and Bell (1997) who separated yagouaroundi into Felis (Herpailurus). Salles (1992), Johnson and O'Brien (1997), Bininda-Emonds et al. (1999), and Mattern and McLennan (2000) considered concolor and yagouaroundi monophyletic, with Acinonyx as the sister group|2007-08-15 10:57:25|
+[CM]|17796|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I as F. c. coryi, F. c. costaricensis, and F. c. couguar; otherwise Appendix II; U.S. ESA - Endangered as F. c. coryi, F. c. costaricensis, and F. c. couguar; U.S. ESA - Similarity of Appearance to a Threatened Taxa (Florida); IUCN - ...|2007-08-15 10:57:25|
+[CM]|17797|Wilson & Reeder, eds. (2005)|Comments: Reviewed by Currier (1983) as Felis concolor. Placed in Puma by Pocock (1917a), Weigel (1961), Hemmer (1978), and Kratochvíl (1982c). Synonyms allocated according to Culver et al. (2000)|2007-08-15 10:57:25|
+[CM]|17798|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I as Herpailurus jagouaroundi (North and Central American populations); otherwise Appendix II. U.S. ESA - Endangered as H. y. cacomitli, H. y. fossata, H. y. panamensis, and H. y. tolteca; IUCN - Endangered as Herpailurus yagouaroundi...|2007-08-15 10:57:25|
+[CM]|17799|Wilson & Reeder, eds. (2005)|Comments: Others have used yaguaroundi Lacépède, 1809, or yagouaroundi Desmarest, 1816, however, the former is invalid and the latter is a junior synonym. Placed in Herpailurus by Weigel (1961), Hemmer (1978), and Kratochvíl (1982c). See comments under genus for its inclusion here. Reviewed by Oliveira (1998b). Synonyms allocated according to Cabrera (1957) and Oliveira (1998b)|2007-08-15 10:57:25|
+[CM]|17800|Wilson & Reeder, eds. (2005)|Comments: Pocock's (1917a) original classification for this subfamily placed Neofelis in the Felinae. Most recent studies have considered these taxa as a monophyletic group (Bininda-Emonds et al., 1999; Hemmer, 1978; Herrington, 1986; Johnson and O'Brien, 1997; Mattern and McLennan, 2000; Salles, 1992; Weigel, 1961). Janczewski et al. (1995) argued that separation of Neofelis and Uncia made Panthera paraphytletic|2007-08-15 10:57:25|
+[CM]|17801|Wilson & Reeder, eds. (2005)|Comments: Placed in Pantherinae by Hemmer (1978) and Weigel (1961). Placed in Neofelinae by Kratochvíl (1982c). Pocock (1917a), Weigel (1961), Collier and O'Brien (1985), Bininda-Emonds et al. (1999), and Mattern and McLennan (2000) considered Neofelis either as the most primitive member of the Pantherinae, or as the first outgroup. Placed in Felinae by McKenna and Bell (1997). Considered a synonym of Pardofelis by Corbet and Hill (1992)|2007-08-15 10:57:25|
+[CM]|17802|Wilson & Reeder, eds. (2005)|Comments: Placed in Neofelis by Pocock (1917a), Weigel (1961), Hemmer (1978), and Kratochvíl (1982c). Groves (1982a) placed in Panthera. Synonyms allocated according to Ellerman and Morrison-Scott (1951)|2007-08-15 10:57:25|
+[CM]|17803|Wilson & Reeder, eds. (2005)|Comments: Synonyms allocated according to McKenna and Bell (1997). Revised by Hemmer (1966, 1968, 1974). Panthera Oken, 1816, has been ruled available (International Commission on Zoological Nomenclature, 1985c). Includes Tigris following Pocock (1916b, 1929). Van Gelder (1977b) included Panthera as a synonym of Felis|2007-08-15 10:57:25|
+[CM]|17804|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I as P. l. persica; otherwise Appendix II; U.S. ESA - Endangered as P. l. persica; IUCN - Critically Endangered as P. l. persica, otherwise Vulnerable|2007-08-15 10:57:25|
+[CM]|17805|Wilson & Reeder, eds. (2005)|Comments: Synonyms allocated according to Ellerman and Morrison-Scott (1951); G. M. Allen (1939). Revised by Pocock (1930c). Placed in Panthera by Pocock (1930c), Weigel (1961), Hemmer (1978), Kratochvíl (1982c), and Groves (1982a)|2007-08-15 10:57:25|
+[CM]|17806|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U. S. ESA - Endangered; IUCN - Near Threatened|2007-08-15 10:57:25|
+[CM]|17807|Wilson & Reeder, eds. (2005)|Comments: Synonyms allocated according to Hall (1981), Seymour (1989) and Cabrera (1957). Revised by Nelson and Goldman (1933a), Pocock (1939b), and Larson (1997). Placed in Panthera by Pocock (1939b), Weigel (1961), Hemmer (1978), Kratochvíl (1982c), and Groves (1982a). Reviewed by Seymour (1989). A multivariate analysis of skull morphology could not discriminate among subspecies (Larson, 1997)|2007-08-15 10:57:25|
+[CM]|17808|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered (except in Africa, in the wild, south of, and including Gabon, Republic of Congo, Dem. Rep. Congo, Uganda, and Kenya, where this species is Threatened). IUCN - Critically Endangered as P. p. nimr, P. p. orient...|2007-08-15 10:57:25|
+[CM]|17809|Wilson & Reeder, eds. (2005)|Comments: Placed in Panthera by Pocock (1930a, b), Weigel (1961), Hemmer (1978), Kratochvíl (1982c), and Groves (1982a). Revised by Pocock (1930a, b, 1932c) and Miththapala et al. (1996). Synonyms allocated according to Miththapala et al. (1996)|2007-08-15 10:57:25|
+[CM]|17810|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix I; U.S. ESA - Endangered; IUCN - Extict as P. t. balica, P. t. sondaica, and P. t. virgata, Critically Endangered as P. t. altaica, P. t. amoyensis, and P. t. sumatrae, otherwise Endangered|2007-08-15 10:57:25|
+[CM]|17811|Wilson & Reeder, eds. (2005)|Comments: Synonyms allocated according to Mazák (1981). Revised by Pocock (1929) and Mazák (1979, 1981). Placed in Panthera by Pocock (1929), Weigel (1961), Hemmer (1978), Kratochvíl (1982c), and Groves (1982a)|2007-08-15 10:57:25|
+[CM]|17812|Wilson & Reeder, eds. (2005)|Comments: Revised by Pocock (1916b). N. Yu et al. (1996) considered Uncia congeneric with Panthera|2007-08-15 10:57:25|
+[CM]|17813|Wilson & Reeder, eds. (2005)|Comments: Revised by Pocock (1930a, b). Placed in Uncia by Pocock (1930a, b), Weigel (1961), Kratochvíl (1982c), and Heptner et al. (1967a). Placed in Uncia and reviewed by Hemmer (1972). Status of proposed subspecies baikalensisromanii needs evaluation, see Medvedev (2000)|2007-08-15 10:57:25|
+[CM]|18200|David Nicolson - ITIS Data Development Coordinator|See comments under Leopardus jacobitus (Cornalia 1865), where it is suggested that Orealurus jacobitus would be the appropriate formulation of that combination, rather than O. jacobita|2007-08-15 10:57:25|
+[CM]|18201|David Nicolson - ITIS Data Development Coordinator|See comments under Puma yagouaroundi concerning the appropriate authorship for the taxon|2007-08-15 10:57:25|
+[CM]|18202|David Nicolson - ITIS Data Development Coordinator|Delete: database artifact, see TSN 622090|2007-08-15 10:57:25|
+[CM]|18203|David Nicolson - ITIS Data Development Coordinator|Hall (1981) notes that Felis pardalis minimus Wilson 1860 was "based on a kitten which was lost; if based on an ocelot, this name may apply to the subspecies for which we now use the name F[elis] p[ardalis] mearnsi" (mearnsi was subsequently moved to the genus Leopardus, where it is now considered a junior synonym to L. pardalis aequatorialis)|2007-08-15 10:57:25|
+[CM]|18211|David Nicolson - ITIS Data Development Coordinator|Delete: database artifact, see TSN 622091|2007-08-15 10:57:25|
+[CM]|18212|David Nicolson - ITIS Data Development Coordinator|Mandatory correction for gender, since Leopardus is masculine|2007-08-15 10:57:25|
+[CM]|18213|David Nicolson - ITIS Data Development Coordinator|Delete: database artifact, see TSN 622089|2007-08-15 10:57:25|
+[CM]|18217|David Nicolson - ITIS Data Development Coordinator|Wilson & Reeder (eds., 2005) note that some consider catus and sylvestris (and lybica/libyca) to be conspecific. If this view were followed, "there would be a problem with the continued use of the name Felis sylvestris"|2007-08-15 10:57:25|
+[CM]|18235|W. Christopher Wozencraft|Status: All Felidae on CITES - Appendix II except species included in Appendix I (and domesticated forms)|2007-08-15 10:57:25|
+[CM]|18236|W. Christopher Wozencraft|Status: CITES - Appendix II; U.S. ESA - Endangered; IUCN - Lower Risk|2007-08-15 10:57:25|
+[CM]|18238|W. Christopher Wozencraft|Status: CITES - Appendix I; U.S. ESA - Endangered; IUCN - Critically Endangered|2007-08-15 10:57:25|
+[CM]|18245|Wilson & Reeder, eds. (2005)|Status: IUCN - Extict|2007-08-15 10:57:25|
+[CM]|18547|Wilson & Reeder, eds. (2005)|Status: CITES - Appendix II; U.S. ESA - Endangered as L. rufus escuinapae. IUCN - Least Concern|2007-08-20 15:06:38|
+[CM]|18548|Wilson & Reeder, eds. (2005)|Comments: Reviewed by Larivière and Walton (1997). Mattern and McLennan (2000) demonstrated that a rufus-lynx clade would be paraphyletic. Synonyms allocated according to Hall (1981) and Larivière and Walton (1997)|2007-08-20 15:06:38|
+[CM]|25210|David Nicolson - ITIS Data Development Coordinator|Mammal infraclass Eutheria Gill, 1872 (TSN 179925) is 'pseudohomonym' of (same kingdom but rank not covered by Nomenclatural Code, same name as) beetle genus Eutheria Spaeth, 1909 (TSN 837961)|2012-12-21 08:37:23|
+[CM]|27264|S.N. Alexander, ITIS Data Development Specialist|Neofelis nebulosa brachyura (Swinhoe, 1862) may be extinct (Christiansen, 2006), (Buckley Beason et al., 2006)|2014-02-03 15:16:48|
+[CM]|27265|S.N. Alexander, ITIS Data Development Specialist|Panthera leo leo Linnaeus 1758 (TSN 622059) became extinct in the wild around 1942, although descendents are believed to still exist in captivity and are the subjects of conservation efforts (Burger and Hemmer, 2006)|2014-02-03 15:16:48|
+[CM]|27266|S.N. Alexander, ITIS Data Development Specialist|Panthera leo melanochaita (C. E. H. Smith, 1858) (TSN 726452) is extinct in the wild, but as it has been exhibited in captivity its genes may still be present in captive lions (Barnett et al., 2006)|2014-02-03 15:16:48|
+[CM]|27267|S.N. Alexander, ITIS Data Development Specialist|Uncia uncia (Schreber, 1775) (TSN 183811) is treated in the genus Panthera by some experts|2014-02-03 15:16:48|
+[CM]|27268|S.N. Alexander, ITIS Data Development Specialist|The Mammal Species of the World treatment of Felis concolor lists the author for F. concolor capricornensis incorrectly. The correct citation is not Nelson and Goldman, 1929, but Goldman in Young and Goldman, 1946|2014-02-03 15:16:48|
+[CM]|27269|S.N. Alexander, ITIS Data Development Specialist|Main text viewable at http://hdl.handle.net/2027/mdp.39015013753242?urlappend=%3Bseq=333 where name appears as 'le yaguarundi.' Name usually attributed to plate 10 from the accompanying atlas (not seen) as Felis yaguaroundi (Wilson and Reeder, eds., 2005: 545) or Felis yaguarondi (Cabrera, 1957: 295)|2014-02-03 15:16:48|
+[CM]|27270|S.N. Alexander, ITIS Data Development Specialist|'Yagouarondi' is the spelling used by Lacépède on plate 10 of the Atlas accompanying Azara's 4-volume publication (Azara, 1809), though spelling 'yaguarundi' is used within the text|2014-02-03 15:16:48|
+[CM]|27271|David Nicolson - ITIS Data Development Coordinator|Wozencraft, in Wilson & Reeder (1993), attributes to the IUCN Appendix II the spelling 'F. c. cougar'|2014-02-03 15:16:48|
+[CM]|27272|David Nicolson - ITIS Data Development Coordinator|Otocolobus Brandt, 1842 (TSN 552455), a felid, should not be confused with 'Otocolobus' (TSN 930229), an apparent lapsus for Colobotis Brandt, 1844 (TSN 930227), a sciurid|2014-02-03 15:16:48|
+[CM]|9770|W. Christopher Wozencraft|Status: IUCN - Endangered|2003-10-28 14:33:50|
+[CM]|9814|W. Christopher Wozencraft|Status: U.S. ESA - Endangered|2003-10-28 14:33:50|
+[CM]|9815|W. Christopher Wozencraft|Status: CITES - Appendix I; U.S. ESA - Endangered; IUCN - Endangered|2003-10-28 14:33:50|
+[CM]|9833|W. Christopher Wozencraft|Felis concolor Jardine, 1834 is listed as a type species by original designation of Puma Jardine, 1834 in the Mammal Species of the World|2003-10-28 14:33:50|
+[CM]|9847|David Nicolson - ITIS Data Development Coordinator|Wozencraft, in Wilson & Reeder (1993), attributes to the IUCN Appendix II the epithet spelling in "F. c. cougar"|2003-10-28 14:33:50|
+[RF]|||158852|SRC|7|N|N|0||
+[RF]|||158852|SRC|983|N|N|0||
+[RF]|||179913|EXP|103|N|N|0||
+[RF]|||179913|EXP|55|N|N|0||
+[RF]|||179913|PUB|1191|N|N|0||
+[RF]|||179913|PUB|1419|N|N|0||
+[RF]|||179913|PUB|1422|N|N|0||
+[RF]|||179913|PUB|172|N|N|0||
+[RF]|||179913|PUB|5099|N|N|0||
+[RF]|||179913|SRC|7|N|N|0||
+[RF]|||179913|SRC|983|N|N|0||
+[RF]|||179916|EXP|103|N|N|0||
+[RF]|||179916|EXP|55|N|N|0||
+[RF]|||179916|PUB|949|N|N|0||
+[RF]|||179916|SRC|7|N|N|0||
+[RF]|||179916|SRC|983|N|N|0||
+[RF]|||179925|EXP|103|N|N|0||
+[RF]|||179925|EXP|55|N|N|0||
+[RF]|||179925|PUB|12247|N|N|0||
+[RF]|||179925|PUB|949|N|N|0||
+[RF]|||179925|SRC|7|N|N|0||
+[RF]|||180539|EXP|102|N|N|0||
+[RF]|||180539|EXP|103|N|N|0||
+[RF]|||180539|PUB|1422|N|N|0||
+[RF]|||180539|PUB|5099|N|N|0||
+[RF]|||180539|SRC|7|N|N|0||
+[RF]|||180580|EXP|102|N|N|0||
+[RF]|||180580|EXP|103|N|N|0||
+[RF]|||180580|PUB|1422|N|N|0||
+[RF]|||180580|PUB|5099|N|N|0||
+[RF]|||180580|PUB|706|N|N|0||
+[RF]|||180580|SRC|7|N|N|0||
+[RF]|||180581|EXP|102|N|N|0||
+[RF]|||180581|EXP|103|N|N|0||
+[RF]|||180581|PUB|1422|N|N|0||
+[RF]|||180581|PUB|5099|N|N|0||
+[RF]|||180581|PUB|706|N|N|0||
+[RF]|||180581|SRC|7|N|N|0||
+[RF]|||180582|EXP|102|N|N|0||
+[RF]|||180582|EXP|103|N|N|0||
+[RF]|||180582|PUB|10751|N|N|0||
+[RF]|||180582|PUB|1419|N|N|0||
+[RF]|||180582|PUB|1422|N|N|0||
+[RF]|||180582|PUB|5099|N|N|0||
+[RF]|||180582|PUB|706|N|N|0||
+[RF]|||180582|SRC|7|N|N|0||
+[RF]|||180583|EXP|103|N|N|0||
+[RF]|||180583|PUB|1191|N|N|0||
+[RF]|||180583|PUB|5099|N|N|0||
+[RF]|||180583|SRC|7|N|N|0||
+[RF]|||180584|EXP|102|N|N|0||
+[RF]|||180584|EXP|103|N|N|0||
+[RF]|||180584|PUB|1419|N|N|0||
+[RF]|||180584|PUB|1422|N|N|0||
+[RF]|||180584|PUB|5099|N|N|0||
+[RF]|||180584|SRC|7|N|N|0||
+[RF]|||180585|EXP|102|N|N|0||
+[RF]|||180585|EXP|103|N|N|0||
+[RF]|||180585|PUB|1419|N|N|0||
+[RF]|||180585|PUB|1422|N|N|0||
+[RF]|||180585|PUB|5099|N|N|0||
+[RF]|||180585|PUB|706|N|N|0||
+[RF]|||180585|SRC|204|N|N|0||
+[RF]|||180585|SRC|7|N|N|0||
+[RF]|||180586|EXP|102|N|N|0||
+[RF]|||180586|EXP|103|N|N|0||
+[RF]|||180586|PUB|1422|N|N|0||
+[RF]|||180586|PUB|5099|N|N|0||
+[RF]|||180586|PUB|706|N|N|0||
+[RF]|||180586|SRC|7|N|N|0||
+[RF]|||180587|EXP|103|N|N|0||
+[RF]|||180587|PUB|1422|N|N|0||
+[RF]|||180587|PUB|5099|N|N|0||
+[RF]|||180587|PUB|706|N|N|0||
+[RF]|||180587|SRC|7|N|N|0||
+[RF]|||180588|EXP|103|N|N|0||
+[RF]|||180588|PUB|1422|N|N|0||
+[RF]|||180588|PUB|5099|N|N|0||
+[RF]|||180588|PUB|706|N|N|0||
+[RF]|||180588|SRC|7|N|N|0||
+[RF]|||180589|EXP|102|N|N|0||
+[RF]|||180589|EXP|103|N|N|0||
+[RF]|||180589|PUB|1419|N|N|0||
+[RF]|||180589|PUB|1422|N|N|0||
+[RF]|||180589|PUB|5099|N|N|0||
+[RF]|||180589|PUB|706|N|N|0||
+[RF]|||180589|SRC|7|N|N|0||
+[RF]|||180590|EXP|103|N|N|0||
+[RF]|||180590|PUB|1422|N|N|0||
+[RF]|||180590|PUB|5099|N|N|0||
+[RF]|||180590|PUB|706|N|N|0||
+[RF]|||180590|SRC|7|N|N|0||
+[RF]|||180591|EXP|103|N|N|0||
+[RF]|||180591|PUB|1422|N|N|0||
+[RF]|||180591|PUB|5099|N|N|0||
+[RF]|||180591|PUB|706|N|N|0||
+[RF]|||180591|SRC|7|N|N|0||
+[RF]|||180592|EXP|102|N|N|0||
+[RF]|||180592|EXP|103|N|N|0||
+[RF]|||180592|EXP|217|N|N|0||
+[RF]|||180592|PUB|1422|N|N|0||
+[RF]|||180592|PUB|5099|N|N|0||
+[RF]|||180592|PUB|706|N|N|0||
+[RF]|||180592|SRC|7|N|N|0||
+[RF]|||180593|EXP|102|N|N|0||
+[RF]|||180593|EXP|103|N|N|0||
+[RF]|||180593|PUB|1419|N|N|0||
+[RF]|||180593|PUB|1422|N|N|0||
+[RF]|||180593|PUB|5099|N|N|0||
+[RF]|||180593|PUB|706|N|N|0||
+[RF]|||180593|SRC|204|N|N|0||
+[RF]|||180593|SRC|7|N|N|0||
+[RF]|||183788|EXP|103|N|N|0||
+[RF]|||183788|PUB|1422|N|N|0||
+[RF]|||183788|PUB|5099|N|N|0||
+[RF]|||183788|SRC|7|N|N|0||
+[RF]|||183789|EXP|102|N|N|0||
+[RF]|||183789|EXP|103|N|N|0||
+[RF]|||183789|PUB|1419|N|N|0||
+[RF]|||183789|PUB|1422|N|N|0||
+[RF]|||183789|PUB|5099|N|N|0||
+[RF]|||183789|SRC|7|N|N|0||
+[RF]|||183790|EXP|103|N|N|0||
+[RF]|||183790|PUB|1422|N|N|0||
+[RF]|||183790|PUB|5099|N|N|0||
+[RF]|||183790|SRC|7|N|N|0||
+[RF]|||183791|EXP|102|N|N|0||
+[RF]|||183791|EXP|103|N|N|0||
+[RF]|||183791|PUB|1422|N|N|0||
+[RF]|||183791|PUB|5099|N|N|0||
+[RF]|||183791|SRC|7|N|N|0||
+[RF]|||183792|EXP|103|N|N|0||
+[RF]|||183792|PUB|1422|N|N|0||
+[RF]|||183792|PUB|5099|N|N|0||
+[RF]|||183792|SRC|7|N|N|0||
+[RF]|||183793|EXP|102|N|N|0||
+[RF]|||183793|EXP|103|N|N|0||
+[RF]|||183793|PUB|1422|N|N|0||
+[RF]|||183793|PUB|5099|N|N|0||
+[RF]|||183793|SRC|7|N|N|0||
+[RF]|||183794|EXP|103|N|N|0||
+[RF]|||183794|PUB|1422|N|N|0||
+[RF]|||183794|PUB|5099|N|N|0||
+[RF]|||183794|SRC|7|N|N|0||
+[RF]|||183795|EXP|103|N|N|0||
+[RF]|||183795|PUB|1422|N|N|0||
+[RF]|||183795|PUB|5099|N|N|0||
+[RF]|||183795|SRC|7|N|N|0||
+[RF]|||183796|EXP|103|N|N|0||
+[RF]|||183796|PUB|1422|N|N|0||
+[RF]|||183796|PUB|5099|N|N|0||
+[RF]|||183796|SRC|7|N|N|0||
+[RF]|||183797|EXP|102|N|N|0||
+[RF]|||183797|EXP|103|N|N|0||
+[RF]|||183797|PUB|1422|N|N|0||
+[RF]|||183797|PUB|5099|N|N|0||
+[RF]|||183797|SRC|7|N|N|0||
+[RF]|||183798|EXP|103|N|N|0||
+[RF]|||183798|PUB|1422|N|N|0||
+[RF]|||183798|PUB|5099|N|N|0||
+[RF]|||183798|SRC|7|N|N|0||
+[RF]|||183799|EXP|103|N|N|0||
+[RF]|||183799|PUB|1422|N|N|0||
+[RF]|||183799|PUB|5099|N|N|0||
+[RF]|||183799|SRC|7|N|N|0||
+[RF]|||183800|EXP|102|N|N|0||
+[RF]|||183800|EXP|103|N|N|0||
+[RF]|||183800|PUB|1419|N|N|0||
+[RF]|||183800|PUB|1422|N|N|0||
+[RF]|||183800|PUB|5099|N|N|0||
+[RF]|||183800|SRC|204|N|N|0||
+[RF]|||183800|SRC|7|N|N|0||
+[RF]|||183801|EXP|102|N|N|0||
+[RF]|||183801|EXP|103|N|N|0||
+[RF]|||183801|PUB|1419|N|N|0||
+[RF]|||183801|PUB|1422|N|N|0||
+[RF]|||183801|PUB|5099|N|N|0||
+[RF]|||183801|SRC|7|N|N|0||
+[RF]|||183802|EXP|102|N|N|0||
+[RF]|||183802|EXP|103|N|N|0||
+[RF]|||183802|PUB|1419|N|N|0||
+[RF]|||183802|PUB|1422|N|N|0||
+[RF]|||183802|PUB|5099|N|N|0||
+[RF]|||183802|SRC|7|N|N|0||
+[RF]|||183803|EXP|102|N|N|0||
+[RF]|||183803|EXP|103|N|N|0||
+[RF]|||183803|PUB|10742|N|N|0||
+[RF]|||183803|PUB|10748|N|N|0||
+[RF]|||183803|PUB|1419|N|N|0||
+[RF]|||183803|PUB|1422|N|N|0||
+[RF]|||183803|PUB|5099|N|N|0||
+[RF]|||183803|SRC|7|N|N|0||
+[RF]|||183804|EXP|102|N|N|0||
+[RF]|||183804|EXP|103|N|N|0||
+[RF]|||183804|PUB|1419|N|N|0||
+[RF]|||183804|PUB|1422|N|N|0||
+[RF]|||183804|PUB|5099|N|N|0||
+[RF]|||183804|SRC|204|N|N|0||
+[RF]|||183804|SRC|7|N|N|0||
+[RF]|||183805|EXP|102|N|N|0||
+[RF]|||183805|EXP|103|N|N|0||
+[RF]|||183805|PUB|1419|N|N|0||
+[RF]|||183805|PUB|1422|N|N|0||
+[RF]|||183805|PUB|5099|N|N|0||
+[RF]|||183805|SRC|204|N|N|0||
+[RF]|||183805|SRC|7|N|N|0||
+[RF]|||183806|EXP|102|N|N|0||
+[RF]|||183806|EXP|103|N|N|0||
+[RF]|||183806|PUB|1422|N|N|0||
+[RF]|||183806|PUB|1669|N|N|0||
+[RF]|||183806|PUB|5099|N|N|0||
+[RF]|||183806|SRC|7|N|N|0||
+[RF]|||183807|EXP|103|N|N|0||
+[RF]|||183807|PUB|1422|N|N|0||
+[RF]|||183807|PUB|1669|N|N|0||
+[RF]|||183807|PUB|5099|N|N|0||
+[RF]|||183807|SRC|7|N|N|0||
+[RF]|||183808|EXP|102|N|N|0||
+[RF]|||183808|EXP|103|N|N|0||
+[RF]|||183808|PUB|1422|N|N|0||
+[RF]|||183808|PUB|5099|N|N|0||
+[RF]|||183808|SRC|7|N|N|0||
+[RF]|||183809|EXP|102|N|N|0||
+[RF]|||183809|EXP|103|N|N|0||
+[RF]|||183809|PUB|10744|N|N|0||
+[RF]|||183809|PUB|10745|N|N|0||
+[RF]|||183809|PUB|1419|N|N|0||
+[RF]|||183809|PUB|1422|N|N|0||
+[RF]|||183809|PUB|5099|N|N|0||
+[RF]|||183809|SRC|204|N|N|0||
+[RF]|||183809|SRC|7|N|N|0||
+[RF]|||183810|EXP|102|N|N|0||
+[RF]|||183810|EXP|103|N|N|0||
+[RF]|||183810|PUB|1422|N|N|0||
+[RF]|||183810|PUB|5099|N|N|0||
+[RF]|||183810|SRC|7|N|N|0||
+[RF]|||183811|EXP|102|N|N|0||
+[RF]|||183811|EXP|103|N|N|0||
+[RF]|||183811|PUB|1419|N|N|0||
+[RF]|||183811|PUB|1422|N|N|0||
+[RF]|||183811|PUB|5099|N|N|0||
+[RF]|||183811|SRC|204|N|N|0||
+[RF]|||183811|SRC|7|N|N|0||
+[RF]|||183812|EXP|102|N|N|0||
+[RF]|||183812|EXP|103|N|N|0||
+[RF]|||183812|PUB|1422|N|N|0||
+[RF]|||183812|PUB|5099|N|N|0||
+[RF]|||183812|SRC|7|N|N|0||
+[RF]|||183813|EXP|102|N|N|0||
+[RF]|||183813|EXP|103|N|N|0||
+[RF]|||183813|PUB|10741|N|N|0||
+[RF]|||183813|PUB|1419|N|N|0||
+[RF]|||183813|PUB|1422|N|N|0||
+[RF]|||183813|PUB|5099|N|N|0||
+[RF]|||183813|SRC|204|N|N|0||
+[RF]|||183813|SRC|7|N|N|0||
+[RF]|||183814|EXP|103|N|N|0||
+[RF]|||183814|PUB|1422|N|N|0||
+[RF]|||183814|PUB|5099|N|N|0||
+[RF]|||183814|SRC|7|N|N|0||
+[RF]|||202391|EXP|102|N|N|0||
+[RF]|||202391|EXP|103|N|N|0||
+[RF]|||202391|PUB|10752|N|N|0||
+[RF]|||202391|PUB|1191|N|N|0||
+[RF]|||202391|PUB|5099|N|N|0||
+[RF]|||202391|PUB|706|N|N|0||
+[RF]|||202391|SRC|7|N|N|0||
+[RF]|||202392|EXP|102|N|N|0||
+[RF]|||202392|EXP|103|N|N|0||
+[RF]|||202392|PUB|10752|N|N|0||
+[RF]|||202392|PUB|1191|N|N|0||
+[RF]|||202392|PUB|1422|N|N|0||
+[RF]|||202392|PUB|5099|N|N|0||
+[RF]|||202392|SRC|61|N|N|0||
+[RF]|||202392|SRC|7|N|N|0||
+[RF]|||202393|EXP|102|N|N|0||
+[RF]|||202393|EXP|103|N|N|0||
+[RF]|||202393|PUB|10752|N|N|0||
+[RF]|||202393|PUB|1191|N|N|0||
+[RF]|||202393|PUB|1422|N|N|0||
+[RF]|||202393|PUB|5099|N|N|0||
+[RF]|||202393|SRC|61|N|N|0||
+[RF]|||202393|SRC|7|N|N|0||
+[RF]|||202394|EXP|103|N|N|0||
+[RF]|||202394|PUB|1191|N|N|0||
+[RF]|||202394|PUB|1422|N|N|0||
+[RF]|||202394|PUB|5099|N|N|0||
+[RF]|||202394|SRC|7|N|N|0||
+[RF]|||202395|EXP|103|N|N|0||
+[RF]|||202395|PUB|1191|N|N|0||
+[RF]|||202395|PUB|1422|N|N|0||
+[RF]|||202395|PUB|5099|N|N|0||
+[RF]|||202395|SRC|7|N|N|0||
+[RF]|||202423|SRC|7|N|N|0||
+[RF]|||202423|SRC|983|N|N|0||
+[RF]|||203547|EXP|103|N|N|0||
+[RF]|||203547|PUB|1422|N|N|0||
+[RF]|||203547|PUB|5099|N|N|0||
+[RF]|||203547|SRC|7|N|N|0||
+[RF]|||203548|EXP|103|N|N|0||
+[RF]|||203548|PUB|1191|N|N|0||
+[RF]|||203548|PUB|5099|N|N|0||
+[RF]|||203548|SRC|7|N|N|0||
+[RF]|||203549|EXP|103|N|N|0||
+[RF]|||203549|PUB|1422|N|N|0||
+[RF]|||203549|SRC|7|N|N|0||
+[RF]|||203550|EXP|102|N|N|0||
+[RF]|||203550|EXP|103|N|N|0||
+[RF]|||203550|PUB|1191|N|N|0||
+[RF]|||203550|PUB|1423|N|N|0||
+[RF]|||203550|PUB|5099|N|N|0||
+[RF]|||203550|SRC|204|N|N|0||
+[RF]|||203550|SRC|7|N|N|0||
+[RF]|||203551|EXP|103|N|N|0||
+[RF]|||203551|PUB|1191|N|N|0||
+[RF]|||203551|PUB|1422|N|N|0||
+[RF]|||203551|PUB|5099|N|N|0||
+[RF]|||203551|SRC|7|N|N|0||
+[RF]|||203552|EXP|103|N|N|0||
+[RF]|||203552|PUB|10752|N|N|0||
+[RF]|||203552|PUB|1191|N|N|0||
+[RF]|||203552|PUB|5099|N|N|0||
+[RF]|||203552|SRC|7|N|N|0||
+[RF]|||203553|SRC|7|N|N|0||
+[RF]|||203554|EXP|103|N|N|0||
+[RF]|||203554|PUB|10752|N|N|0||
+[RF]|||203554|PUB|1191|N|N|0||
+[RF]|||203554|PUB|5099|N|N|0||
+[RF]|||203554|SRC|7|N|N|0||
+[RF]|||203555|EXP|103|N|N|0||
+[RF]|||203555|PUB|1191|N|N|0||
+[RF]|||203555|PUB|1422|N|N|0||
+[RF]|||203555|PUB|5099|N|N|0||
+[RF]|||203555|SRC|7|N|N|0||
+[RF]|||203556|EXP|103|N|N|0||
+[RF]|||203556|PUB|10752|N|N|0||
+[RF]|||203556|PUB|1191|N|N|0||
+[RF]|||203556|PUB|5099|N|N|0||
+[RF]|||203556|SRC|7|N|N|0||
+[RF]|||203557|EXP|103|N|N|0||
+[RF]|||203557|PUB|1191|N|N|0||
+[RF]|||203557|PUB|1422|N|N|0||
+[RF]|||203557|PUB|5099|N|N|0||
+[RF]|||203557|SRC|7|N|N|0||
+[RF]|||203558|EXP|103|N|N|0||
+[RF]|||203558|PUB|10752|N|N|0||
+[RF]|||203558|PUB|1191|N|N|0||
+[RF]|||203558|PUB|1422|N|N|0||
+[RF]|||203558|PUB|5099|N|N|0||
+[RF]|||203558|SRC|7|N|N|0||
+[RF]|||203559|EXP|103|N|N|0||
+[RF]|||203559|PUB|1191|N|N|0||
+[RF]|||203559|PUB|1422|N|N|0||
+[RF]|||203559|PUB|5099|N|N|0||
+[RF]|||203559|SRC|7|N|N|0||
+[RF]|||203560|EXP|103|N|N|0||
+[RF]|||203560|PUB|10752|N|N|0||
+[RF]|||203560|PUB|1191|N|N|0||
+[RF]|||203560|PUB|5099|N|N|0||
+[RF]|||203560|SRC|7|N|N|0||
+[RF]|||203561|EXP|103|N|N|0||
+[RF]|||203561|PUB|1191|N|N|0||
+[RF]|||203561|PUB|1422|N|N|0||
+[RF]|||203561|PUB|5099|N|N|0||
+[RF]|||203561|SRC|7|N|N|0||
+[RF]|||203562|EXP|103|N|N|0||
+[RF]|||203562|PUB|10752|N|N|0||
+[RF]|||203562|PUB|1191|N|N|0||
+[RF]|||203562|PUB|5099|N|N|0||
+[RF]|||203562|SRC|7|N|N|0||
+[RF]|||203563|EXP|103|N|N|0||
+[RF]|||203563|PUB|1191|N|N|0||
+[RF]|||203563|PUB|1422|N|N|0||
+[RF]|||203563|PUB|5099|N|N|0||
+[RF]|||203563|SRC|7|N|N|0||
+[RF]|||203564|EXP|103|N|N|0||
+[RF]|||203564|PUB|10752|N|N|0||
+[RF]|||203564|PUB|10753|N|N|0||
+[RF]|||203564|PUB|1191|N|N|0||
+[RF]|||203564|PUB|5099|N|N|0||
+[RF]|||203564|SRC|7|N|N|0||
+[RF]|||203565|EXP|103|N|N|0||
+[RF]|||203565|PUB|10752|N|N|0||
+[RF]|||203565|PUB|1191|N|N|0||
+[RF]|||203565|PUB|5099|N|N|0||
+[RF]|||203565|SRC|7|N|N|0||
+[RF]|||203566|EXP|103|N|N|0||
+[RF]|||203566|PUB|10752|N|N|0||
+[RF]|||203566|PUB|1191|N|N|0||
+[RF]|||203566|PUB|5099|N|N|0||
+[RF]|||203566|SRC|7|N|N|0||
+[RF]|||203567|EXP|103|N|N|0||
+[RF]|||203567|PUB|10752|N|N|0||
+[RF]|||203567|PUB|1191|N|N|0||
+[RF]|||203567|PUB|5099|N|N|0||
+[RF]|||203567|SRC|7|N|N|0||
+[RF]|||203568|EXP|103|N|N|0||
+[RF]|||203568|PUB|1191|N|N|0||
+[RF]|||203568|PUB|1422|N|N|0||
+[RF]|||203568|PUB|5099|N|N|0||
+[RF]|||203568|SRC|7|N|N|0||
+[RF]|||203569|EXP|103|N|N|0||
+[RF]|||203569|PUB|1191|N|N|0||
+[RF]|||203569|PUB|5099|N|N|0||
+[RF]|||203569|SRC|7|N|N|0||
+[RF]|||203570|EXP|103|N|N|0||
+[RF]|||203570|PUB|1191|N|N|0||
+[RF]|||203570|PUB|5099|N|N|0||
+[RF]|||203570|SRC|7|N|N|0||
+[RF]|||203571|EXP|103|N|N|0||
+[RF]|||203571|PUB|10752|N|N|0||
+[RF]|||203571|PUB|1191|N|N|0||
+[RF]|||203571|PUB|5099|N|N|0||
+[RF]|||203571|SRC|7|N|N|0||
+[RF]|||203572|EXP|103|N|N|0||
+[RF]|||203572|PUB|10752|N|N|0||
+[RF]|||203572|PUB|1191|N|N|0||
+[RF]|||203572|PUB|5099|N|N|0||
+[RF]|||203572|SRC|7|N|N|0||
+[RF]|||203573|EXP|103|N|N|0||
+[RF]|||203573|PUB|1422|N|N|0||
+[RF]|||203573|PUB|5099|N|N|0||
+[RF]|||203573|SRC|7|N|N|0||
+[RF]|||203574|EXP|103|N|N|0||
+[RF]|||203574|PUB|1422|N|N|0||
+[RF]|||203574|PUB|5099|N|N|0||
+[RF]|||203574|SRC|7|N|N|0||
+[RF]|||203575|EXP|103|N|N|0||
+[RF]|||203575|PUB|1422|N|N|0||
+[RF]|||203575|PUB|5099|N|N|0||
+[RF]|||203575|SRC|7|N|N|0||
+[RF]|||203576|EXP|103|N|N|0||
+[RF]|||203576|PUB|1422|N|N|0||
+[RF]|||203576|PUB|5099|N|N|0||
+[RF]|||203576|SRC|7|N|N|0||
+[RF]|||203577|EXP|103|N|N|0||
+[RF]|||203577|PUB|1422|N|N|0||
+[RF]|||203577|PUB|5099|N|N|0||
+[RF]|||203577|SRC|7|N|N|0||
+[RF]|||203578|EXP|103|N|N|0||
+[RF]|||203578|PUB|1422|N|N|0||
+[RF]|||203578|PUB|5099|N|N|0||
+[RF]|||203578|SRC|7|N|N|0||
+[RF]|||203579|EXP|103|N|N|0||
+[RF]|||203579|PUB|1191|N|N|0||
+[RF]|||203579|PUB|5099|N|N|0||
+[RF]|||203579|SRC|7|N|N|0||
+[RF]|||203580|EXP|103|N|N|0||
+[RF]|||203580|PUB|1191|N|N|0||
+[RF]|||203580|PUB|1422|N|N|0||
+[RF]|||203580|PUB|5099|N|N|0||
+[RF]|||203580|SRC|7|N|N|0||
+[RF]|||203581|EXP|103|N|N|0||
+[RF]|||203581|PUB|1191|N|N|0||
+[RF]|||203581|PUB|1422|N|N|0||
+[RF]|||203581|PUB|5099|N|N|0||
+[RF]|||203581|SRC|7|N|N|0||
+[RF]|||203582|EXP|103|N|N|0||
+[RF]|||203582|PUB|1191|N|N|0||
+[RF]|||203582|PUB|5099|N|N|0||
+[RF]|||203582|SRC|7|N|N|0||
+[RF]|||203583|EXP|103|N|N|0||
+[RF]|||203583|PUB|1191|N|N|0||
+[RF]|||203583|PUB|1422|N|N|0||
+[RF]|||203583|PUB|5099|N|N|0||
+[RF]|||203583|SRC|7|N|N|0||
+[RF]|||203584|EXP|103|N|N|0||
+[RF]|||203584|PUB|1191|N|N|0||
+[RF]|||203584|PUB|5099|N|N|0||
+[RF]|||203584|SRC|7|N|N|0||
+[RF]|||203585|EXP|103|N|N|0||
+[RF]|||203585|PUB|1191|N|N|0||
+[RF]|||203585|PUB|5099|N|N|0||
+[RF]|||203585|SRC|7|N|N|0||
+[RF]|||203586|EXP|103|N|N|0||
+[RF]|||203586|PUB|1191|N|N|0||
+[RF]|||203586|PUB|5099|N|N|0||
+[RF]|||203586|SRC|7|N|N|0||
+[RF]|||203587|EXP|103|N|N|0||
+[RF]|||203587|PUB|1191|N|N|0||
+[RF]|||203587|SRC|7|N|N|0||
+[RF]|||203588|EXP|103|N|N|0||
+[RF]|||203588|PUB|1191|N|N|0||
+[RF]|||203588|PUB|5099|N|N|0||
+[RF]|||203588|SRC|7|N|N|0||
+[RF]|||203589|EXP|103|N|N|0||
+[RF]|||203589|PUB|1191|N|N|0||
+[RF]|||203589|PUB|5099|N|N|0||
+[RF]|||203589|SRC|7|N|N|0||
+[RF]|||203590|EXP|103|N|N|0||
+[RF]|||203590|PUB|1191|N|N|0||
+[RF]|||203590|PUB|1422|N|N|0||
+[RF]|||203590|PUB|5099|N|N|0||
+[RF]|||203590|SRC|7|N|N|0||
+[RF]|||203591|EXP|103|N|N|0||
+[RF]|||203591|PUB|1191|N|N|0||
+[RF]|||203591|PUB|5099|N|N|0||
+[RF]|||203591|SRC|7|N|N|0||
+[RF]|||203592|EXP|103|N|N|0||
+[RF]|||203592|PUB|1191|N|N|0||
+[RF]|||203592|PUB|1422|N|N|0||
+[RF]|||203592|PUB|5099|N|N|0||
+[RF]|||203592|SRC|7|N|N|0||
+[RF]|||203593|EXP|103|N|N|0||
+[RF]|||203593|PUB|10757|Y|N|0||
+[RF]|||203593|PUB|1191|N|N|0||
+[RF]|||203593|PUB|5099|N|N|0||
+[RF]|||203593|SRC|7|N|N|0||
+[RF]|||203594|EXP|103|N|N|0||
+[RF]|||203594|PUB|1191|N|N|0||
+[RF]|||203594|PUB|5099|N|N|0||
+[RF]|||203594|SRC|7|N|N|0||
+[RF]|||203595|EXP|103|N|N|0||
+[RF]|||203595|PUB|1191|N|N|0||
+[RF]|||203595|PUB|1422|N|N|0||
+[RF]|||203595|PUB|5099|N|N|0||
+[RF]|||203595|SRC|7|N|N|0||
+[RF]|||203596|EXP|103|N|N|0||
+[RF]|||203596|PUB|1191|N|N|0||
+[RF]|||203596|SRC|7|N|N|0||
+[RF]|||203597|EXP|103|N|N|0||
+[RF]|||203597|PUB|10756|Y|N|0||
+[RF]|||203597|PUB|1191|N|N|0||
+[RF]|||203597|PUB|5099|N|N|0||
+[RF]|||203597|SRC|7|N|N|0||
+[RF]|||203598|EXP|103|N|N|0||
+[RF]|||203598|PUB|1191|N|N|0||
+[RF]|||203598|PUB|1422|N|N|0||
+[RF]|||203598|PUB|5099|N|N|0||
+[RF]|||203598|SRC|7|N|N|0||
+[RF]|||203599|EXP|103|N|N|0||
+[RF]|||203599|PUB|10757|Y|N|0||
+[RF]|||203599|PUB|1191|N|N|0||
+[RF]|||203599|PUB|1422|N|N|0||
+[RF]|||203599|PUB|5099|N|N|0||
+[RF]|||203599|SRC|7|N|N|0||
+[RF]|||203600|EXP|103|N|N|0||
+[RF]|||203600|PUB|1191|N|N|0||
+[RF]|||203600|PUB|1422|N|N|0||
+[RF]|||203600|PUB|5099|N|N|0||
+[RF]|||203600|SRC|7|N|N|0||
+[RF]|||203601|EXP|103|N|N|0||
+[RF]|||203601|PUB|1191|N|N|0||
+[RF]|||203601|PUB|1422|N|N|0||
+[RF]|||203601|PUB|5099|N|N|0||
+[RF]|||203601|SRC|7|N|N|0||
+[RF]|||203602|EXP|103|N|N|0||
+[RF]|||203602|PUB|1191|N|N|0||
+[RF]|||203602|PUB|5099|N|N|0||
+[RF]|||203602|SRC|7|N|N|0||
+[RF]|||203603|EXP|103|N|N|0||
+[RF]|||203603|PUB|1191|N|N|0||
+[RF]|||203603|PUB|5099|N|N|0||
+[RF]|||203603|SRC|7|N|N|0||
+[RF]|||203604|EXP|103|N|N|0||
+[RF]|||203604|PUB|1191|N|N|0||
+[RF]|||203604|PUB|1422|N|N|0||
+[RF]|||203604|PUB|5099|N|N|0||
+[RF]|||203604|SRC|7|N|N|0||
+[RF]|||203605|SRC|7|N|N|0||
+[RF]|||203606|EXP|103|N|N|0||
+[RF]|||203606|PUB|1191|N|N|0||
+[RF]|||203606|PUB|1422|N|N|0||
+[RF]|||203606|PUB|5099|N|N|0||
+[RF]|||203606|SRC|7|N|N|0||
+[RF]|||203607|EXP|103|N|N|0||
+[RF]|||203607|PUB|1191|N|N|0||
+[RF]|||203607|PUB|1422|N|N|0||
+[RF]|||203607|PUB|5099|N|N|0||
+[RF]|||203607|SRC|7|N|N|0||
+[RF]|||331030|SRC|7|N|N|0||
+[RF]|||331030|SRC|983|N|N|0||
+[RF]|||552304|EXP|103|N|N|0||
+[RF]|||552304|PUB|1422|N|N|0||
+[RF]|||552304|PUB|1670|N|N|0||
+[RF]|||552304|PUB|5099|N|N|0||
+[RF]|||552362|EXP|102|N|N|0||
+[RF]|||552362|EXP|103|N|N|0||
+[RF]|||552362|PUB|1422|N|N|0||
+[RF]|||552362|PUB|5099|N|N|0||
+[RF]|||552363|EXP|102|N|N|0||
+[RF]|||552363|EXP|103|N|N|0||
+[RF]|||552363|PUB|1422|N|N|0||
+[RF]|||552363|PUB|5099|N|N|0||
+[RF]|||552364|EXP|102|N|N|0||
+[RF]|||552364|EXP|103|N|N|0||
+[RF]|||552364|PUB|1422|N|N|0||
+[RF]|||552364|PUB|5099|N|N|0||
+[RF]|||552371|EXP|102|N|N|0||
+[RF]|||552371|EXP|103|N|N|0||
+[RF]|||552371|PUB|1422|N|N|0||
+[RF]|||552371|PUB|5099|N|N|0||
+[RF]|||552373|EXP|102|N|N|0||
+[RF]|||552373|EXP|103|N|N|0||
+[RF]|||552373|PUB|1422|N|N|0||
+[RF]|||552373|PUB|5099|N|N|0||
+[RF]|||552375|EXP|102|N|N|0||
+[RF]|||552375|EXP|103|N|N|0||
+[RF]|||552375|PUB|1422|N|N|0||
+[RF]|||552375|PUB|5099|N|N|0||
+[RF]|||552453|EXP|102|N|N|0||
+[RF]|||552453|EXP|103|N|N|0||
+[RF]|||552453|PUB|1422|N|N|0||
+[RF]|||552453|PUB|5099|N|N|0||
+[RF]|||552454|EXP|102|N|N|0||
+[RF]|||552454|EXP|103|N|N|0||
+[RF]|||552454|PUB|1422|N|N|0||
+[RF]|||552454|PUB|5099|N|N|0||
+[RF]|||552455|EXP|102|N|N|0||
+[RF]|||552455|EXP|103|N|N|0||
+[RF]|||552455|PUB|1422|N|N|0||
+[RF]|||552455|PUB|5099|N|N|0||
+[RF]|||552456|EXP|102|N|N|0||
+[RF]|||552456|EXP|103|N|N|0||
+[RF]|||552456|PUB|1422|N|N|0||
+[RF]|||552456|PUB|5099|N|N|0||
+[RF]|||552459|EXP|102|N|N|0||
+[RF]|||552459|EXP|103|N|N|0||
+[RF]|||552459|PUB|1422|N|N|0||
+[RF]|||552459|PUB|5099|N|N|0||
+[RF]|||552469|EXP|102|N|N|0||
+[RF]|||552469|EXP|103|N|N|0||
+[RF]|||552469|PUB|1419|N|N|0||
+[RF]|||552469|PUB|1422|N|N|0||
+[RF]|||552469|PUB|5099|N|N|0||
+[RF]|||552469|SRC|204|N|N|0||
+[RF]|||552470|EXP|102|N|N|0||
+[RF]|||552470|EXP|103|N|N|0||
+[RF]|||552470|PUB|1419|N|N|0||
+[RF]|||552470|PUB|1422|N|N|0||
+[RF]|||552470|PUB|1423|N|N|0||
+[RF]|||552470|PUB|5099|N|N|0||
+[RF]|||552470|SRC|204|N|N|0||
+[RF]|||552471|EXP|102|N|N|0||
+[RF]|||552471|EXP|103|N|N|0||
+[RF]|||552471|PUB|1419|N|N|0||
+[RF]|||552471|PUB|1422|N|N|0||
+[RF]|||552471|PUB|5099|N|N|0||
+[RF]|||552479|EXP|102|N|N|0||
+[RF]|||552479|EXP|103|N|N|0||
+[RF]|||552479|PUB|1419|N|N|0||
+[RF]|||552479|PUB|1422|N|N|0||
+[RF]|||552479|PUB|1423|N|N|0||
+[RF]|||552479|PUB|5099|N|N|0||
+[RF]|||552479|SRC|204|N|N|0||
+[RF]|||552763|EXP|102|N|N|0||
+[RF]|||552763|EXP|103|N|N|0||
+[RF]|||552763|PUB|1419|N|N|0||
+[RF]|||552763|PUB|1422|N|N|0||
+[RF]|||552763|PUB|5099|N|N|0||
+[RF]|||552764|EXP|102|N|N|0||
+[RF]|||552764|EXP|103|N|N|0||
+[RF]|||552764|PUB|1419|N|N|0||
+[RF]|||552764|PUB|1422|N|N|0||
+[RF]|||552764|PUB|5099|N|N|0||
+[RF]|||552765|EXP|102|N|N|0||
+[RF]|||552765|EXP|103|N|N|0||
+[RF]|||552765|PUB|1419|N|N|0||
+[RF]|||552765|PUB|1422|N|N|0||
+[RF]|||552765|PUB|5099|N|N|0||
+[RF]|||552766|EXP|102|N|N|0||
+[RF]|||552766|EXP|103|N|N|0||
+[RF]|||552766|PUB|1419|N|N|0||
+[RF]|||552766|PUB|1422|N|N|0||
+[RF]|||552766|PUB|5099|N|N|0||
+[RF]|||552769|EXP|102|N|N|0||
+[RF]|||552769|EXP|103|N|N|0||
+[RF]|||552769|PUB|1419|N|N|0||
+[RF]|||552769|PUB|1422|N|N|0||
+[RF]|||552769|PUB|5099|N|N|0||
+[RF]|||552770|EXP|102|N|N|0||
+[RF]|||552770|EXP|103|N|N|0||
+[RF]|||552770|PUB|1419|N|N|0||
+[RF]|||552770|PUB|1422|N|N|0||
+[RF]|||552770|PUB|5099|N|N|0||
+[RF]|||552774|EXP|102|N|N|0||
+[RF]|||552774|EXP|103|N|N|0||
+[RF]|||552774|PUB|1419|N|N|0||
+[RF]|||552774|PUB|1422|N|N|0||
+[RF]|||552774|PUB|5099|N|N|0||
+[RF]|||552775|EXP|102|N|N|0||
+[RF]|||552775|EXP|103|N|N|0||
+[RF]|||552775|PUB|1419|N|N|0||
+[RF]|||552775|PUB|1422|N|N|0||
+[RF]|||552775|PUB|5099|N|N|0||
+[RF]|||552777|EXP|103|N|N|0||
+[RF]|||552777|PUB|10752|N|N|0||
+[RF]|||552777|PUB|1191|N|N|0||
+[RF]|||552777|PUB|1422|N|N|0||
+[RF]|||552777|PUB|1423|N|N|0||
+[RF]|||552777|PUB|5099|N|N|0||
+[RF]|||552778|EXP|103|N|N|0||
+[RF]|||552778|PUB|10752|N|N|0||
+[RF]|||552778|PUB|1191|N|N|0||
+[RF]|||552778|PUB|1422|N|N|0||
+[RF]|||552778|PUB|5099|N|N|0||
+[RF]|||552779|EXP|103|N|N|0||
+[RF]|||552779|PUB|10752|N|N|0||
+[RF]|||552779|PUB|1191|N|N|0||
+[RF]|||552779|PUB|1422|N|N|0||
+[RF]|||552779|PUB|1423|N|N|0||
+[RF]|||552779|PUB|5099|N|N|0||
+[RF]|||552780|EXP|102|N|N|0||
+[RF]|||552780|EXP|103|N|N|0||
+[RF]|||552780|PUB|10752|N|N|0||
+[RF]|||552780|PUB|1191|N|N|0||
+[RF]|||552780|PUB|1422|N|N|0||
+[RF]|||552780|PUB|5099|N|N|0||
+[RF]|||552781|EXP|102|N|N|0||
+[RF]|||552781|EXP|103|N|N|0||
+[RF]|||552781|PUB|10752|N|N|0||
+[RF]|||552781|PUB|1191|N|N|0||
+[RF]|||552781|PUB|1422|N|N|0||
+[RF]|||552781|PUB|1423|N|N|0||
+[RF]|||552781|PUB|5099|N|N|0||
+[RF]|||552781|SRC|204|N|N|0||
+[RF]|||552782|EXP|102|N|N|0||
+[RF]|||552782|EXP|103|N|N|0||
+[RF]|||552782|PUB|10752|N|N|0||
+[RF]|||552782|PUB|1191|N|N|0||
+[RF]|||552782|PUB|1422|N|N|0||
+[RF]|||552782|PUB|1423|N|N|0||
+[RF]|||552782|PUB|5099|N|N|0||
+[RF]|||552782|SRC|204|N|N|0||
+[RF]|||552783|EXP|102|N|N|0||
+[RF]|||552783|PUB|1422|N|N|0||
+[RF]|||552784|EXP|103|N|N|0||
+[RF]|||552784|PUB|10752|N|N|0||
+[RF]|||552784|PUB|1191|N|N|0||
+[RF]|||552784|PUB|1422|N|N|0||
+[RF]|||552784|PUB|1423|N|N|0||
+[RF]|||552784|PUB|5099|N|N|0||
+[RF]|||552785|EXP|103|N|N|0||
+[RF]|||552785|PUB|10752|N|N|0||
+[RF]|||552785|PUB|1191|N|N|0||
+[RF]|||552785|PUB|1422|N|N|0||
+[RF]|||552785|PUB|1423|N|N|0||
+[RF]|||552785|PUB|5099|N|N|0||
+[RF]|||552786|EXP|103|N|N|0||
+[RF]|||552786|PUB|10752|N|N|0||
+[RF]|||552786|PUB|1191|N|N|0||
+[RF]|||552786|PUB|1422|N|N|0||
+[RF]|||552786|PUB|1423|N|N|0||
+[RF]|||552786|PUB|5099|N|N|0||
+[RF]|||552787|EXP|103|N|N|0||
+[RF]|||552787|PUB|10752|N|N|0||
+[RF]|||552787|PUB|1191|N|N|0||
+[RF]|||552787|PUB|1422|N|N|0||
+[RF]|||552787|PUB|1423|N|N|0||
+[RF]|||552787|PUB|5099|N|N|0||
+[RF]|||552788|EXP|103|N|N|0||
+[RF]|||552788|PUB|10752|N|N|0||
+[RF]|||552788|PUB|1191|N|N|0||
+[RF]|||552788|PUB|1422|N|N|0||
+[RF]|||552788|PUB|1423|N|N|0||
+[RF]|||552788|PUB|5099|N|N|0||
+[RF]|||552789|EXP|103|N|N|0||
+[RF]|||552789|PUB|1191|N|N|0||
+[RF]|||552789|PUB|1422|N|N|0||
+[RF]|||552789|PUB|1423|N|N|0||
+[RF]|||552789|PUB|5099|N|N|0||
+[RF]|||552790|EXP|103|N|N|0||
+[RF]|||552790|PUB|1191|N|N|0||
+[RF]|||552790|PUB|1422|N|N|0||
+[RF]|||552790|PUB|1423|N|N|0||
+[RF]|||552790|PUB|5099|N|N|0||
+[RF]|||552791|EXP|103|N|N|0||
+[RF]|||552791|PUB|1191|N|N|0||
+[RF]|||552791|PUB|1422|N|N|0||
+[RF]|||552791|PUB|1423|N|N|0||
+[RF]|||552791|PUB|5099|N|N|0||
+[RF]|||552792|EXP|103|N|N|0||
+[RF]|||552792|PUB|1191|N|N|0||
+[RF]|||552792|PUB|1422|N|N|0||
+[RF]|||552792|PUB|1423|N|N|0||
+[RF]|||552792|PUB|5099|N|N|0||
+[RF]|||552793|EXP|103|N|N|0||
+[RF]|||552793|PUB|1191|N|N|0||
+[RF]|||552793|PUB|1423|N|N|0||
+[RF]|||552793|PUB|5099|N|N|0||
+[RF]|||552794|EXP|103|N|N|0||
+[RF]|||552794|PUB|1191|N|N|0||
+[RF]|||552794|PUB|1423|N|N|0||
+[RF]|||552794|PUB|5099|N|N|0||
+[RF]|||552795|EXP|103|N|N|0||
+[RF]|||552795|PUB|1191|N|N|0||
+[RF]|||552795|PUB|1423|N|N|0||
+[RF]|||552795|PUB|5099|N|N|0||
+[RF]|||552796|EXP|103|N|N|0||
+[RF]|||552796|PUB|1191|N|N|0||
+[RF]|||552796|PUB|1423|N|N|0||
+[RF]|||552796|PUB|5099|N|N|0||
+[RF]|||552797|EXP|103|N|N|0||
+[RF]|||552797|PUB|1191|N|N|0||
+[RF]|||552797|PUB|1423|N|N|0||
+[RF]|||552797|PUB|5099|N|N|0||
+[RF]|||552798|EXP|103|N|N|0||
+[RF]|||552798|PUB|1191|N|N|0||
+[RF]|||552798|PUB|5099|N|N|0||
+[RF]|||552799|EXP|103|N|N|0||
+[RF]|||552799|PUB|1191|N|N|0||
+[RF]|||552799|PUB|5099|N|N|0||
+[RF]|||552800|EXP|103|N|N|0||
+[RF]|||552800|PUB|1191|N|N|0||
+[RF]|||552800|PUB|1422|N|N|0||
+[RF]|||552800|PUB|5099|N|N|0||
+[RF]|||552801|EXP|102|N|N|0||
+[RF]|||552801|EXP|103|N|N|0||
+[RF]|||552801|PUB|1191|N|N|0||
+[RF]|||552801|PUB|1422|N|N|0||
+[RF]|||552801|PUB|1423|N|N|0||
+[RF]|||552801|PUB|5099|N|N|0||
+[RF]|||552801|SRC|204|N|N|0||
+[RF]|||552802|EXP|102|N|N|0||
+[RF]|||552802|EXP|103|N|N|0||
+[RF]|||552802|PUB|1191|N|N|0||
+[RF]|||552802|PUB|1422|N|N|0||
+[RF]|||552802|PUB|5099|N|N|0||
+[RF]|||552802|SRC|204|N|N|0||
+[RF]|||552803|EXP|102|N|N|0||
+[RF]|||552803|EXP|103|N|N|0||
+[RF]|||552803|PUB|1191|N|N|0||
+[RF]|||552803|PUB|1422|N|N|0||
+[RF]|||552803|PUB|5099|N|N|0||
+[RF]|||552803|SRC|204|N|N|0||
+[RF]|||552804|EXP|102|N|N|0||
+[RF]|||552804|EXP|103|N|N|0||
+[RF]|||552804|PUB|1191|N|N|0||
+[RF]|||552804|PUB|1422|N|N|0||
+[RF]|||552804|PUB|1423|N|N|0||
+[RF]|||552804|PUB|5099|N|N|0||
+[RF]|||552804|SRC|204|N|N|0||
+[RF]|||552805|EXP|103|N|N|0||
+[RF]|||552805|PUB|1191|N|N|0||
+[RF]|||552805|PUB|1422|N|N|0||
+[RF]|||552805|PUB|5099|N|N|0||
+[RF]|||552806|EXP|103|N|N|0||
+[RF]|||552806|PUB|1191|N|N|0||
+[RF]|||552806|PUB|5099|N|N|0||
+[RF]|||552808|SRC|182|N|N|0||
+[RF]|||552809|EXP|103|N|N|0||
+[RF]|||552809|PUB|1191|N|N|0||
+[RF]|||552809|PUB|1423|N|N|0||
+[RF]|||552809|PUB|5099|N|N|0||
+[RF]|||621778|EXP|102|N|N|0||
+[RF]|||621778|PUB|1422|N|N|0||
+[RF]|||621778|PUB|5099|N|N|0||
+[RF]|||621779|EXP|102|N|N|0||
+[RF]|||621779|PUB|1422|N|N|0||
+[RF]|||621779|PUB|5099|N|N|0||
+[RF]|||621780|EXP|102|N|N|0||
+[RF]|||621780|PUB|1422|N|N|0||
+[RF]|||621780|PUB|5099|N|N|0||
+[RF]|||621781|EXP|102|N|N|0||
+[RF]|||621781|PUB|1422|N|N|0||
+[RF]|||621781|PUB|5099|N|N|0||
+[RF]|||621866|EXP|102|N|N|0||
+[RF]|||621866|PUB|1419|N|N|0||
+[RF]|||621866|PUB|1422|N|N|0||
+[RF]|||621866|PUB|5099|N|N|0||
+[RF]|||621867|EXP|102|N|N|0||
+[RF]|||621867|PUB|1419|N|N|0||
+[RF]|||621867|PUB|1422|N|N|0||
+[RF]|||621867|PUB|5099|N|N|0||
+[RF]|||621867|SRC|204|N|N|0||
+[RF]|||621868|EXP|102|N|N|0||
+[RF]|||621868|PUB|10760|N|N|0||
+[RF]|||621868|PUB|1419|N|N|0||
+[RF]|||621868|PUB|1422|N|N|0||
+[RF]|||621868|PUB|5099|N|N|0||
+[RF]|||621868|SRC|204|N|N|0||
+[RF]|||621869|EXP|102|N|N|0||
+[RF]|||621869|PUB|1419|N|N|0||
+[RF]|||621869|PUB|1422|N|N|0||
+[RF]|||621869|PUB|5099|N|N|0||
+[RF]|||621870|EXP|102|N|N|0||
+[RF]|||621870|PUB|1419|N|N|0||
+[RF]|||621870|PUB|1422|N|N|0||
+[RF]|||621870|PUB|5099|N|N|0||
+[RF]|||621871|EXP|102|N|N|0||
+[RF]|||621871|PUB|1419|N|N|0||
+[RF]|||621871|PUB|1422|N|N|0||
+[RF]|||621871|PUB|5099|N|N|0||
+[RF]|||621872|EXP|102|N|N|0||
+[RF]|||621872|PUB|1419|N|N|0||
+[RF]|||621872|PUB|1422|N|N|0||
+[RF]|||621872|PUB|5099|N|N|0||
+[RF]|||621872|SRC|204|N|N|0||
+[RF]|||621873|EXP|102|N|N|0||
+[RF]|||621873|PUB|1419|N|N|0||
+[RF]|||621873|PUB|1422|N|N|0||
+[RF]|||621873|PUB|5099|N|N|0||
+[RF]|||621873|SRC|204|N|N|0||
+[RF]|||621874|EXP|102|N|N|0||
+[RF]|||621874|PUB|1419|N|N|0||
+[RF]|||621874|PUB|1422|N|N|0||
+[RF]|||621874|PUB|5099|N|N|0||
+[RF]|||622012|PUB|1422|N|N|0||
+[RF]|||622012|PUB|5099|N|N|0||
+[RF]|||622012|SRC|204|N|N|0||
+[RF]|||622015|EXP|102|N|N|0||
+[RF]|||622015|PUB|5099|N|N|0||
+[RF]|||622015|SRC|204|N|N|0||
+[RF]|||622016|EXP|102|N|N|0||
+[RF]|||622016|PUB|1422|N|N|0||
+[RF]|||622016|PUB|5099|N|N|0||
+[RF]|||622026|EXP|102|N|N|0||
+[RF]|||622026|PUB|1422|N|N|0||
+[RF]|||622026|PUB|5099|N|N|0||
+[RF]|||622026|SRC|204|N|N|0||
+[RF]|||622028|EXP|102|N|N|0||
+[RF]|||622028|PUB|1422|N|N|0||
+[RF]|||622028|PUB|5099|N|N|0||
+[RF]|||622028|SRC|204|N|N|0||
+[RF]|||622029|EXP|102|N|N|0||
+[RF]|||622029|PUB|1422|N|N|0||
+[RF]|||622029|PUB|5099|N|N|0||
+[RF]|||622029|SRC|204|N|N|0||
+[RF]|||622034|EXP|102|N|N|0||
+[RF]|||622034|PUB|1422|N|N|0||
+[RF]|||622034|PUB|5099|N|N|0||
+[RF]|||622034|SRC|204|N|N|0||
+[RF]|||622050|EXP|102|N|N|0||
+[RF]|||622050|PUB|1191|N|N|0||
+[RF]|||622050|PUB|1422|N|N|0||
+[RF]|||622050|PUB|5099|N|N|0||
+[RF]|||622050|SRC|204|N|N|0||
+[RF]|||622051|PUB|1422|N|N|0||
+[RF]|||622051|PUB|1423|N|N|0||
+[RF]|||622051|PUB|5099|N|N|0||
+[RF]|||622056|EXP|102|N|N|0||
+[RF]|||622056|PUB|1422|N|N|0||
+[RF]|||622056|PUB|5099|N|N|0||
+[RF]|||622059|EXP|102|N|N|0||
+[RF]|||622059|PUB|10746|N|N|0||
+[RF]|||622059|PUB|10747|N|N|0||
+[RF]|||622059|PUB|1422|N|N|0||
+[RF]|||622059|PUB|5099|N|N|0||
+[RF]|||622089|EXP|103|N|N|0||
+[RF]|||622089|PUB|1191|N|N|0||
+[RF]|||622089|PUB|1422|N|N|0||
+[RF]|||622089|PUB|5099|N|N|0||
+[RF]|||622090|EXP|103|N|N|0||
+[RF]|||622090|PUB|1191|N|N|0||
+[RF]|||622090|PUB|5099|N|N|0||
+[RF]|||622091|EXP|103|N|N|0||
+[RF]|||622091|PUB|10757|N|N|0||
+[RF]|||622091|PUB|1191|N|N|0||
+[RF]|||622091|PUB|5099|N|N|0||
+[RF]|||622093|EXP|102|N|N|0||
+[RF]|||622093|EXP|103|N|N|0||
+[RF]|||622093|PUB|10752|N|N|0||
+[RF]|||622093|PUB|1191|N|N|0||
+[RF]|||622093|PUB|1422|N|N|0||
+[RF]|||622093|PUB|1423|N|N|0||
+[RF]|||622093|PUB|5099|N|N|0||
+[RF]|||622093|SRC|204|N|N|0||
+[RF]|||726248|PUB|5099|N|N|0||
+[RF]|||726250|PUB|5099|N|N|0||
+[RF]|||726251|PUB|5099|N|N|0||
+[RF]|||726252|PUB|5099|N|N|0||
+[RF]|||726253|PUB|5099|N|N|0||
+[RF]|||726254|PUB|5099|N|N|0||
+[RF]|||726255|PUB|5099|N|N|0||
+[RF]|||726256|PUB|5099|N|N|0||
+[RF]|||726257|PUB|5099|N|N|0||
+[RF]|||726288|PUB|5099|N|N|0||
+[RF]|||726289|PUB|5099|N|N|0||
+[RF]|||726290|PUB|5099|N|N|0||
+[RF]|||726291|PUB|5099|N|N|0||
+[RF]|||726292|PUB|10741|N|N|0||
+[RF]|||726292|PUB|5099|N|N|0||
+[RF]|||726293|PUB|5099|N|N|0||
+[RF]|||726294|PUB|5099|N|N|0||
+[RF]|||726295|PUB|5099|N|N|0||
+[RF]|||726296|PUB|5099|N|N|0||
+[RF]|||726297|PUB|5099|N|N|0||
+[RF]|||726298|PUB|5099|N|N|0||
+[RF]|||726299|PUB|5099|N|N|0||
+[RF]|||726300|PUB|5099|N|N|0||
+[RF]|||726301|PUB|5099|N|N|0||
+[RF]|||726302|PUB|5099|N|N|0||
+[RF]|||726303|PUB|5099|N|N|0||
+[RF]|||726304|PUB|5099|N|N|0||
+[RF]|||726305|PUB|5099|N|N|0||
+[RF]|||726306|PUB|5099|N|N|0||
+[RF]|||726307|PUB|5099|N|N|0||
+[RF]|||726308|PUB|5099|N|N|0||
+[RF]|||726309|PUB|5099|N|N|0||
+[RF]|||726310|PUB|5099|N|N|0||
+[RF]|||726311|PUB|5099|N|N|0||
+[RF]|||726312|PUB|5099|N|N|0||
+[RF]|||726313|PUB|5099|N|N|0||
+[RF]|||726314|PUB|5099|N|N|0||
+[RF]|||726315|PUB|5099|N|N|0||
+[RF]|||726316|PUB|5099|N|N|0||
+[RF]|||726317|PUB|5099|N|N|0||
+[RF]|||726318|PUB|5099|N|N|0||
+[RF]|||726319|PUB|5099|N|N|0||
+[RF]|||726320|PUB|5099|N|N|0||
+[RF]|||726321|PUB|5099|N|N|0||
+[RF]|||726322|PUB|5099|N|N|0||
+[RF]|||726323|PUB|5099|N|N|0||
+[RF]|||726324|PUB|5099|N|N|0||
+[RF]|||726325|PUB|5099|N|N|0||
+[RF]|||726326|PUB|5099|N|N|0||
+[RF]|||726327|PUB|5099|N|N|0||
+[RF]|||726328|PUB|5099|N|N|0||
+[RF]|||726329|PUB|5099|N|N|0||
+[RF]|||726330|PUB|5099|N|N|0||
+[RF]|||726331|PUB|5099|N|N|0||
+[RF]|||726332|PUB|5099|N|N|0||
+[RF]|||726333|PUB|5099|N|N|0||
+[RF]|||726334|PUB|5099|N|N|0||
+[RF]|||726335|PUB|5099|N|N|0||
+[RF]|||726336|PUB|5099|N|N|0||
+[RF]|||726337|PUB|5099|N|N|0||
+[RF]|||726338|PUB|5099|N|N|0||
+[RF]|||726339|PUB|5099|N|N|0||
+[RF]|||726340|PUB|5099|N|N|0||
+[RF]|||726341|PUB|5099|N|N|0||
+[RF]|||726342|PUB|5099|N|N|0||
+[RF]|||726343|PUB|5099|N|N|0||
+[RF]|||726344|PUB|5099|N|N|0||
+[RF]|||726345|PUB|5099|N|N|0||
+[RF]|||726346|PUB|5099|N|N|0||
+[RF]|||726347|PUB|5099|N|N|0||
+[RF]|||726348|PUB|5099|N|N|0||
+[RF]|||726349|PUB|5099|N|N|0||
+[RF]|||726350|PUB|5099|N|N|0||
+[RF]|||726351|PUB|5099|N|N|0||
+[RF]|||726352|PUB|5099|N|N|0||
+[RF]|||726353|PUB|5099|N|N|0||
+[RF]|||726354|PUB|5099|N|N|0||
+[RF]|||726355|PUB|5099|N|N|0||
+[RF]|||726356|PUB|5099|N|N|0||
+[RF]|||726357|PUB|5099|N|N|0||
+[RF]|||726358|PUB|5099|N|N|0||
+[RF]|||726359|PUB|5099|N|N|0||
+[RF]|||726360|PUB|5099|N|N|0||
+[RF]|||726361|PUB|5099|N|N|0||
+[RF]|||726362|EXP|217|N|N|0||
+[RF]|||726362|PUB|5099|N|N|0||
+[RF]|||726363|PUB|5099|N|N|0||
+[RF]|||726364|PUB|5099|N|N|0||
+[RF]|||726365|PUB|5099|N|N|0||
+[RF]|||726366|PUB|5099|N|N|0||
+[RF]|||726367|PUB|5099|N|N|0||
+[RF]|||726368|PUB|5099|N|N|0||
+[RF]|||726369|EXP|217|N|N|0||
+[RF]|||726369|PUB|10756|Y|N|0||
+[RF]|||726369|PUB|5099|N|N|0||
+[RF]|||726370|PUB|5099|N|N|0||
+[RF]|||726371|PUB|10760|N|N|0||
+[RF]|||726371|PUB|5099|N|N|0||
+[RF]|||726372|PUB|5099|N|N|0||
+[RF]|||726373|PUB|5099|N|N|0||
+[RF]|||726374|PUB|5099|N|N|0||
+[RF]|||726375|PUB|10756|Y|N|0||
+[RF]|||726375|PUB|5099|N|N|0||
+[RF]|||726376|PUB|5099|N|N|0||
+[RF]|||726377|PUB|5099|N|N|0||
+[RF]|||726378|PUB|5099|N|N|0||
+[RF]|||726379|PUB|5099|N|N|0||
+[RF]|||726380|PUB|5099|N|N|0||
+[RF]|||726381|PUB|5099|N|N|0||
+[RF]|||726382|PUB|5099|N|N|0||
+[RF]|||726383|PUB|5099|N|N|0||
+[RF]|||726384|PUB|5099|N|N|0||
+[RF]|||726385|PUB|5099|N|N|0||
+[RF]|||726386|PUB|5099|N|N|0||
+[RF]|||726387|PUB|5099|N|N|0||
+[RF]|||726388|PUB|5099|N|N|0||
+[RF]|||726389|PUB|5099|N|N|0||
+[RF]|||726390|PUB|5099|N|N|0||
+[RF]|||726391|PUB|5099|N|N|0||
+[RF]|||726392|PUB|5099|N|N|0||
+[RF]|||726393|PUB|5099|N|N|0||
+[RF]|||726394|PUB|5099|N|N|0||
+[RF]|||726395|PUB|5099|N|N|0||
+[RF]|||726396|PUB|5099|N|N|0||
+[RF]|||726397|PUB|5099|N|N|0||
+[RF]|||726398|PUB|5099|N|N|0||
+[RF]|||726399|PUB|5099|N|N|0||
+[RF]|||726400|PUB|5099|N|N|0||
+[RF]|||726401|PUB|5099|N|N|0||
+[RF]|||726402|PUB|5099|N|N|0||
+[RF]|||726403|PUB|5099|N|N|0||
+[RF]|||726404|PUB|5099|N|N|0||
+[RF]|||726405|PUB|5099|N|N|0||
+[RF]|||726406|PUB|5099|N|N|0||
+[RF]|||726407|PUB|5099|N|N|0||
+[RF]|||726408|PUB|5099|N|N|0||
+[RF]|||726409|PUB|5099|N|N|0||
+[RF]|||726410|PUB|5099|N|N|0||
+[RF]|||726411|PUB|5099|N|N|0||
+[RF]|||726412|PUB|5099|N|N|0||
+[RF]|||726413|PUB|5099|N|N|0||
+[RF]|||726414|PUB|5099|N|N|0||
+[RF]|||726415|PUB|5099|N|N|0||
+[RF]|||726416|PUB|5099|N|N|0||
+[RF]|||726417|PUB|5099|N|N|0||
+[RF]|||726418|PUB|5099|N|N|0||
+[RF]|||726419|PUB|5099|N|N|0||
+[RF]|||726420|PUB|5099|N|N|0||
+[RF]|||726421|PUB|5099|N|N|0||
+[RF]|||726422|PUB|5099|N|N|0||
+[RF]|||726423|PUB|5099|N|N|0||
+[RF]|||726424|PUB|5099|N|N|0||
+[RF]|||726425|PUB|5099|N|N|0||
+[RF]|||726426|PUB|5099|N|N|0||
+[RF]|||726427|PUB|5099|N|N|0||
+[RF]|||726428|PUB|5099|N|N|0||
+[RF]|||726429|PUB|5099|N|N|0||
+[RF]|||726430|PUB|5099|N|N|0||
+[RF]|||726431|PUB|10752|N|N|0||
+[RF]|||726431|PUB|5099|N|N|0||
+[RF]|||726432|PUB|10752|N|N|0||
+[RF]|||726432|PUB|5099|N|N|0||
+[RF]|||726433|PUB|5099|N|N|0||
+[RF]|||726434|PUB|5099|N|N|0||
+[RF]|||726435|PUB|5099|N|N|0||
+[RF]|||726436|PUB|5099|N|N|0||
+[RF]|||726437|PUB|5099|N|N|0||
+[RF]|||726438|PUB|5099|N|N|0||
+[RF]|||726439|PUB|5099|N|N|0||
+[RF]|||726440|PUB|5099|N|N|0||
+[RF]|||726441|PUB|5099|N|N|0||
+[RF]|||726442|PUB|5099|N|N|0||
+[RF]|||726443|PUB|10744|N|N|0||
+[RF]|||726443|PUB|10745|N|N|0||
+[RF]|||726443|PUB|5099|N|N|0||
+[RF]|||726444|PUB|5099|N|N|0||
+[RF]|||726445|PUB|5099|N|N|0||
+[RF]|||726446|PUB|5099|N|N|0||
+[RF]|||726447|PUB|5099|N|N|0||
+[RF]|||726448|PUB|10745|N|N|0||
+[RF]|||726448|PUB|5099|N|N|0||
+[RF]|||726449|PUB|10748|N|N|0||
+[RF]|||726449|PUB|5099|N|N|0||
+[RF]|||726450|PUB|5099|N|N|0||
+[RF]|||726451|PUB|5099|N|N|0||
+[RF]|||726452|PUB|10747|N|N|0||
+[RF]|||726452|PUB|5099|N|N|0||
+[RF]|||726453|PUB|10748|N|N|0||
+[RF]|||726453|PUB|5099|N|N|0||
+[RF]|||726454|PUB|5099|N|N|0||
+[RF]|||726455|PUB|5099|N|N|0||
+[RF]|||726456|PUB|5099|N|N|0||
+[RF]|||726457|EXP|217|N|N|0||
+[RF]|||726457|PUB|5099|N|N|0||
+[RF]|||726458|PUB|5099|N|N|0||
+[RF]|||726459|PUB|5099|N|N|0||
+[RF]|||726460|PUB|5099|N|N|0||
+[RF]|||726461|PUB|5099|N|N|0||
+[RF]|||726462|PUB|5099|N|N|0||
+[RF]|||726463|PUB|5099|N|N|0||
+[RF]|||726464|PUB|5099|N|N|0||
+[RF]|||726465|PUB|5099|N|N|0||
+[RF]|||726466|PUB|5099|N|N|0||
+[RF]|||726467|PUB|5099|N|N|0||
+[RF]|||726468|PUB|5099|N|N|0||
+[RF]|||726469|EXP|217|N|N|0||
+[RF]|||726469|PUB|5099|N|N|0||
+[RF]|||726470|PUB|5099|N|N|0||
+[RF]|||726471|PUB|5099|N|N|0||
+[RF]|||726472|PUB|5099|N|N|0||
+[RF]|||726473|PUB|5099|N|N|0||
+[RF]|||726474|PUB|5099|N|N|0||
+[RF]|||726475|PUB|5099|N|N|0||
+[RF]|||726476|PUB|5099|N|N|0||
+[RF]|||726477|PUB|5099|N|N|0||
+[RF]|||726478|PUB|5099|N|N|0||
+[RF]|||727487|PUB|5099|N|N|0||
+[RF]|||914154|SRC|983|N|N|0||
+[RF]|||914156|SRC|983|N|N|0||
+[RF]|||914179|SRC|983|N|N|0||
+[RF]|||914181|SRC|983|N|N|0||
+[RF]|||933419|PUB|10743|N|N|0||
+[RF]|||933419|PUB|10744|N|N|0||
+[RF]|||933419|PUB|10745|N|N|0||
+[RF]|||933420|PUB|10742|N|N|0||
+[RF]|||933421|PUB|10760|N|N|0||
+[RF]|||933422|PUB|1422|N|N|0||
+[RF]|||933423|PUB|5099|N|N|0||
+[RF]|||933424|PUB|10742|N|N|0||
+[RF]|||933424|PUB|10748|N|N|0||
+[RF]|||933425|PUB|10749|N|N|0||
+[RF]|||933426|PUB|10749|N|N|0||
+[RF]|||933426|PUB|5099|N|N|0||
+[RF]|||933427|PUB|10749|N|N|0||
+[RF]|||933427|PUB|5099|N|N|0||
+[RF]|||933428|PUB|10749|N|N|0||
+[RF]|||933428|PUB|5099|N|N|0||
+[RF]|||933429|PUB|10749|Y|N|0||
+[RF]|||933429|PUB|5099|N|N|0||
+[RF]|||933430|PUB|10749|Y|N|0||
+[RF]|||933430|PUB|5099|N|N|0||
+[RF]|||933431|PUB|10750|N|N|0||
+[RF]|||933432|PUB|5099|N|N|0||
+[RF]|||933433|PUB|5099|N|N|0||
+[RF]|||933434|PUB|5099|N|N|0||
+[RF]|||933435|PUB|5099|N|N|0||
+[RF]|||933436|PUB|5099|N|N|0||
+[RF]|||933437|PUB|5099|N|N|0||
+[RF]|||933438|PUB|5099|N|N|0||
+[RF]|||933439|PUB|5099|N|N|0||
+[RF]|||933440|PUB|5099|N|N|0||
+[RF]|||933441|PUB|5099|N|N|0||
+[RF]|||933442|PUB|5099|N|N|0||
+[RF]|||933443|PUB|5099|N|N|0||
+[RF]|||933444|PUB|5099|N|N|0||
+[RF]|||933445|PUB|5099|N|N|0||
+[RF]|||933446|PUB|5099|N|N|0||
+[RF]|||933447|PUB|5099|N|N|0||
+[RF]|||933448|PUB|5099|N|N|0||
+[RF]|||933449|PUB|10752|N|N|0||
+[RF]|||933450|PUB|10754|Y|N|0||
+[RF]|||933451|PUB|5099|N|N|0||
+[RF]|||933452|PUB|5099|N|N|0||
+[RF]|||933453|PUB|5099|N|N|0||
+[RF]|||933454|PUB|5099|N|N|0||
+[RF]|||933455|PUB|10753|N|N|0||
+[RF]|||933456|PUB|10753|Y|N|0||
+[RF]|||933457|PUB|10755|N|N|0||
+[RF]|||933457|PUB|5099|N|N|0||
+[RF]|||933458|PUB|10758|Y|N|0||
+[RF]|||933459|PUB|10759|N|N|0||
+[VL]||111776|||183813|PUB|5099|
+[VL]||111777|||552775|PUB|5099|
+[VL]||111778|||621866|PUB|5099|
+[VL]||111779|||621867|PUB|5099|
+[VL]||111780|||183789|PUB|5099|
+[VL]||111781|||183798|PUB|5099|
+[VL]||111782|||183802|PUB|5099|
+[VL]||111783|||183791|PUB|5099|
+[VL]||111784|||183801|PUB|5099|
+[VL]||111785|||183800|PUB|5099|
+[VL]||111786|||180589|PUB|5099|
+[VL]||111787|||726250|PUB|5099|
+[VL]||111788|||726251|PUB|5099|
+[VL]||111789|||726252|PUB|5099|
+[VL]||111790|||726253|PUB|5099|
+[VL]||111791|||726254|PUB|5099|
+[VL]||111792|||726255|PUB|5099|
+[VL]||111793|||552470|PUB|5099|
+[VL]||111794|||621868|PUB|5099|
+[VL]||111795|||552469|PUB|5099|
+[VL]||111796|||552766|PUB|5099|
+[VL]||111797|||180585|PUB|5099|
+[VL]||111798|||180584|PUB|5099|
+[VL]||111799|||621869|PUB|5099|
+[VL]||111800|||180582|PUB|5099|
+[VL]||111800|||180582|SRC|184|
+[VL]||111801|||621872|PUB|5099|
+[VL]||111802|||552763|PUB|5099|
+[VL]||111803|||726256|PUB|5099|
+[VL]||111804|||621873|PUB|5099|
+[VL]||111805|||552774|PUB|5099|
+[VL]||111806|||552770|PUB|5099|
+[VL]||111807|||621874|PUB|5099|
+[VL]||111808|||552479|PUB|5099|
+[VL]||111809|||726257|PUB|5099|
+[VL]||111810|||183809|PUB|5099|
+[VL]||111811|||183803|PUB|5099|
+[VL]||111812|||180593|PUB|5099|
+[VL]||111813|||183804|PUB|5099|
+[VL]||111814|||183805|PUB|5099|
+[VL]||111815|||183811|PUB|5099|
+[VL]||155023|||622059|PUB|10746|
+[VL]||155024|||622059|PUB|10746|
+[VL]||155025|||726452|PUB|10747|
+[VL]||155026|||933425|PUB|10749|
+[VL]||155027|||726455|PUB|10749|
+[VL]||155028|||726461|PUB|10749|
+[VL]||155029|||726462|PUB|10749|
+[VL]||155030|||726457|PUB|10749|
+[VL]||155031|||726458|PUB|10749|
+[VL]||155032|||726459|PUB|10749|
+[VL]||155033|||726456|PUB|10749|
+[VL]||155034|||933450|PUB|10754|
+[VL]||155035|||203564|PUB|10753|
+[VL]||155037|||933456|PUB|10753|
+[VL]||155038|||203593|PUB|10757|
+[VL]||155040|||203599|PUB|10757|
+[VL]||155041|||726379|PUB|10757|
+[VL]||20760|||180587|SRC|184|
+[VL]||20778|||180585|SRC|184|
+[VL]||80855|||552471|SRC|167|
+[VL]||80868|||552469|SRC|167|
+[VL]||80869|||552470|SRC|167|
+[VL]||80878|||180582|SRC|167|
+[VL]||80930|||180593|SRC|167|
+[VL]||80959|||552479|SRC|167|
+[VL]||84195|||202392|SRC|184|
+[VL]||84196|||202392|SRC|184|
+[VL]||84477|||180585|SRC|184|
+[VL]||84478|||180582|SRC|184|
+[VL]||85484|||158852|SRC|185|
+[VL]||85512|||179913|SRC|185|
+[VL]||85528|||180539|SRC|185|
+[VL]||85529|||180539|SRC|185|
+[VL]||85530|||180539|SRC|185|
+[VL]||85531|||180539|SRC|185|
+[VL]||85537|||202423|SRC|185|
+[VL]||85539|||331030|SRC|185|
+[VL]||85840|||158852|SRC|186|
+[VL]||86025|||179913|SRC|186|
+[VL]||86039|||180539|SRC|186|
+[VL]||86042|||202423|SRC|186|
+[VL]||86045|||331030|SRC|186|
+[PB]PUB||10741|Krausman, Paul R., and Susana M. Morales|Acinonyx jubatus|Mammalian Species, no. 771|07/15/2005|07/15/2005||||1545-1410|1-6|Available online: http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/default.html|
+[PB]PUB||10742|Sunquist, M. E. and F. C. Sunquist / D. E. Wilson, ed.|Family Felidae (Cats)|Handbook of the Mammals of the World. Vol. 1: Carnivores|01/01/2009|01/01/2009|Lynx|Barcelona, Spain|978-84-96553-49||54-169||
+[PB]PUB||10743|Kitchener, Andrew C., Mark A. Beaumont, and Douglas Richardson|Geographical variation in the Clouded Leopard, Neofelis nebulosa, reveals two species|Current Biology, no. 16, no. 23|12/05/2006|12/05/2006||||0960-9822|2377-2383|Available online: http://www.sciencedirect.com/science/article/pii/S0960982206024912|
+[PB]PUB||10744|Christiansen, Per|Species distinction and evolutionary differences in the Clouded Leopard (Neofelis nebulosa) and Diard's Clouded Leopard (Neofelis diardi)|Journal of Mammalogy, vol. 89, no. 6|12/01/2008|12/01/2008||||0022-2372|1435-1446|Available online: http://www.jstor.org/stable/30224412|
+[PB]PUB||10745|Buckley-Beason, Valerie A., Warren E. Johnson, William G. Nash, Roscoe Stanyon, Joan C. Menninger...|Molecular evidence for species-level distinctions in Clouded Leopards|Current Biology, vol. 16, no. 23|12/01/2006|12/05/2006||||0960-9822|2371-2376|Available online: http://www.sciencedirect.com/science/article/pii/S0960982206021336|
+[PB]PUB||10746|Burger, Joachim, and Helmut Hemmer|Urgent call for further breeding of the relic zoo population of the critically endangered Barbary lion (Panthera leo leo Linnaeus 1758)|European Journal of Wildlife Research, vol. 52, no. 1|03/01/2006|03/01/2006||||1612-4642|54-58|Available online: http://www.uni-mainz.de/FB/Biologie/Anthropologie/MolA/Download/Burger%20Hemmer%202006.pdf|
+[PB]PUB||10747|Barnett, Ross, Nobuyuki Yamaguchi, Ian Barnes, and Alan Cooper|Lost populations and preserving genetic diversity in the lion Panthera leo: implications for its ex situ conservation|Conservation Genetics, vol. 7, no. 4|08/01/2006|08/01/2006||||1566-0621|507-514|Available online: http://link.springer.com/journal/10592/7/4/page/1|
+[PB]PUB||10748|Haas, Sarah K., Virginia Hayssen, and Paul R. Krausman|Panthera leo|Mammalian Species, no. 762|07/15/2005|07/15/2005||||1545-1410|1-11|Available online: http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/default.html|
+[PB]PUB||10749|Nelson, E. W., and E. A. Goldman|Revision of the jaguars|Journal of Mammalogy, vol. 14, no. 3|08/17/1933|08/17/1933||||0022-2372|221-240|Available online: http://www.jstor.org/stable/1373821|
+[PB]PUB||10750|Uphyrkina, Olga, Warren E. Johnson, Howard Quigley, Dale Miquelle, Laurie Marker, Mitchel Bush, ...|Phylogenetics, genome diversity and origin of modern leopard, Panthera pardus|Molecular Ecology, vol. 10, no. 11|12/21/2001|12/21/2001||||1365-294X|2617-2653||
+[PB]PUB||10751|Larivière, Serge, and Lyle R. Walton|Lynx rufus|Mammalian Species, no. 563|10/24/1997|10/24/1997||||1545-1410|1-8|Available online: http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/default.html|
+[PB]PUB||10752|Currier, Mary Jean P.|Felis concolor|Mammalian Species, no. 200|04/08/1983|04/08/1983||||1545-1410|1-7|Available online: http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/default.html|
+[PB]PUB||10753|Nelson, E. W., and E. A. Goldman|Three new pumas|Journal of the Washington Academy of Sciences, vol. 21|05/19/1931|05/19/1931|||||209-212|Available online: http://www.biodiversitylibrary.org/bibliography/2087|
+[PB]PUB||10754|Goldman, Edward A. / Stanley P. Young and Edward A. Goldman|Classification of the races of the Puma|The Puma, Mysterious American Cat, part. 2|01/01/1946|01/01/1946|American Wildlife Institute|Washington, DC, USA|||177-358||
+[PB]PUB||10755|Cabrera, Angel|Catálogo de los mamíferos de América del Sur. Revista del Museo Argentino de Ciencias Naturales "Bernardino Rivadavia"|Ciencias Zoológicas, vol. 4, no. 1|01/01/1957|01/01/1957|||||1-308||
+[PB]PUB||10756|Pocock, R. I.|Some new geographical races of Leopardus, commonly known as Ocelots and Margays|The Annals and Magazine of Natural History, ser. 11, vol. 8, no. 45|09/01/1941|09/01/1941||||0022-2933|234-239||
+[PB]PUB||10757|Nelson, E. W., and E. A. Goldman|New carnivores and rodents from Mexico|Journal of Mammalogy, vol. 12, no. 3|08/01/1931|08/01/1931||||0022-2372|302-306|Available online: http://www.jstor.org/stable/1373882|
+[PB]PUB||10758|Pocock, R. I.|The examples of the Colocolo and of the Pampas Cat in the British Museum|The Annals and Magazine of Natural History, 11th ser., vol. 7, no. 39|03/01/1941|03/01/1941|||||257-274||
+[PB]PUB||10759|Azara, Félix de||Voyages dans l'Amérique Méridionale, depuis 1781 jusqu'en 1801|01/01/1809|01/01/1809|Dentu|Paris, France|||||
+[PB]PUB||10760|Trigo, T. C., A. Schneider, T. G. de Oliveira, L. M. Lehugeur, L. Silveira, T. R. O. Freitas, et al.|Molecular data reveal complex hybridization and a cryptic species of Neotropical wild cat|Current Biology, vol. 23, issue 24|12/16/2013|12/16/2013||||0960-9822|2528-2533|DOI: 10.1016/j.cub.2013.10.046 ; Available online at http://www.sciencedirect.com/science/article/pii/S0960982213013213|
+[PB]PUB||1191|Hall, E. Raymond||The Mammals of North America, vols. I and II, 2nd ed.|04/03/1981|04/03/1981|John Wiley and Sons, Inc.|New York, New York, USA|||1181||
+[PB]PUB||12247|Szalay, Frederick S., Michael J. Novacek, Malcom C. McKenna||Mammal Phylogeny: Mesozoic Differentiation, Multituberculates, Monotremes, Early Therians, and Marsupials|01/01/1993|01/01/1993|Springer-Verlag|New York, New York, USA|9781-4613-9251-4||249|DOI: 10.1007/978-1-4613-9249-1|
+[PB]PUB||1419|Wilson, Don E., and F. Russell Cole||Common Names of Mammals of the World|01/01/2000|01/01/2000|Smithsonian Institution Press|Washington, DC, USA|1-56098-383-3||xiv + 204|With contributions by Bernadette N. Graham, Adam P. Potter, and Mariana M. Upmeyer|
+[PB]PUB||1422|Wilson, Don E., and DeeAnn M. Reeder, eds.||Mammal Species of the World: A Taxonomic and Geographic Reference, 2nd ed., 3rd printing|01/01/1992|01/01/1993|Smithsonian Institution Press|Washington, DC, USA|1-56098-217-9||xviii + 1207|Corrections were made to text at 3rd printing|
+[PB]PUB||1423|Wilson, Don E., and Sue Ruff, eds.||The Smithsonian Book of North American Mammals|01/01/1999|01/01/1999|Smithsonian Institution Press|Washington, DC, USA|1-56098-845-2||xxv + 750||
+[PB]PUB||1669|Ellerman, J. R., and T. C. S Morrison-Scott||Checklist of Palaearctic and Indian Mammals: 1758-1946, Second Edition|07/01/1966|07/01/1966|Trustees of the British Museum of Natural History|London, England|||||
+[PB]PUB||1670|McKenna, Malcolm C., and Susan K. Bell||Classification of mammals above the species level|01/01/1997|01/01/1997|Columbia University Press|New York, New York, USA|0-231-11012-X||631||
+[PB]PUB||172|Nowak, Ronald M.||Walker's Mammals of the World, vol. 1, 5th ed.|01/01/1991|01/01/1991|The Johns Hopkins UniversityPress|Baltimore and London|0-8018-3970-X||1629||
+[PB]PUB||5099|Wilson, Don E., and DeeAnn M. Reeder, eds.||Mammal Species of the World: A Taxonomic and Geographic Reference, 3rd ed., vols. 1 & 2|10/01/2005|10/01/2005|Johns Hopkins University Press|Baltimore, Maryland, USA|0-8018-8221-4||2142||
+[PB]PUB||706|Banks, R. C., R. W. McDiarmid, and A. L. Gardner|Checklist of Vertebrates of the United States, the U.S. Territories, and Canada|Resource Publication, no. 166|01/01/1987|01/01/1987|United States Department of the Interior Fish and Wildlife Service|Washington, D.C., USA|||79||
+[PB]PUB||949|Simpson, George Gaylord|The principles of classification and a classification of mammals|Bulletin of the American Museum of Natural History, vol. 85|05/10/1945|05/10/1945|American Museum of Natural History|New York, NY, USA|||xvi + 350||
+[EX]EXP||102|W. Christopher Wozencraft|Division of Natural Sciences, Bethel College, 1001 W. McKinley Ave., Mishawaka, IN 46545|
+[EX]EXP||103|Alfred L. Gardner|Curator of North American mammals and Chief of Mammal Section, National Biological Service, Smithsonian Institution, National Museum of Natural History, Washington, DC, USA|
+[EX]EXP||217|Graham J. Slater|Postdoctoral Fellow, Department of Paleobiology, National Museum of Natural History, MRC 121, PO Box 37012, Washington, DC 20013-7012, USA|
+[EX]EXP||55|Don E. Wilson|Smithsonian Institution, MRC 108 Washington DC 20560-0108|
+[OS]SRC||167|database|Comisión Nacional para el Conocimiento y Uso de la Biodiversidad|undefined|06/21/2001|CONABIO: (http://www.conabio.gob.mx/)|
+[OS]SRC||182|database|Integrated Taxonomic Information System|undefined|01/01/1996|Artifact of ITIS data processing|
+[OS]SRC||184|database|<a href="http://www.menv.gouv.qc.ca/biodiversite/centre.htm">CDP|1999|05/06/2003||
+[OS]SRC||185|website|<a href="http://www.cria.org.br/">CRIA-Brazil</a>|2002|05/06/2003||
+[OS]SRC||186|website|<a href="http://www.cbif.gc.ca/itisca/">ITIS*<sup>ca</sup></a>|2002|05/06/2003||
+[OS]SRC||204|website|U. S. Fish and Wildlife Service Endangered Species Program-03/01|undefined|03/22/2001|http://www.fws.gov/endangered/|
+[OS]SRC||61|database|U. S. Dept. Interior|1|07/29/1996||
+[OS]SRC||7|database|NODC Taxonomic Code|8.0|07/29/1996||
+[OS]SRC||983|document|ITIS & Species 2000 Catalogue of Life Management Hierarchy|Animalia|08/01/2013|M. Ruggiero & D. Gordon, eds. 2013. Consensus Management Hierarchy for the ITIS & Species2000 Catalogue of Life. Contributors: Nicolas Bailly, Thierry Bourgoin, Richard Brusca, Thomas Cavalier-Smith, Daphne Fautin, Dennis Gordon, Gerald Guala, Michael Guiry, Paul Kirk, Elliot Lefkowitz, David Mabberly, David Maddison, Alan Paton, Michael Ruggiero, Peter Stevens, and Brian Tyndall|
+[GD]|Africa|180589|
+[GD]|Africa|183800|
+[GD]|Africa|183801|
+[GD]|Africa|183802|
+[GD]|Africa|183803|
+[GD]|Africa|183804|
+[GD]|Africa|183813|
+[GD]|Africa|552766|
+[GD]|Africa|552775|
+[GD]|Africa|621874|
+[GD]|Australia|180589|
+[GD]|Europe & Northern Asia (excluding China)|180584|
+[GD]|Europe & Northern Asia (excluding China)|180589|
+[GD]|Europe & Northern Asia (excluding China)|183801|
+[GD]|Europe & Northern Asia (excluding China)|183802|
+[GD]|Europe & Northern Asia (excluding China)|183804|
+[GD]|Europe & Northern Asia (excluding China)|183805|
+[GD]|Europe & Northern Asia (excluding China)|183811|
+[GD]|Europe & Northern Asia (excluding China)|552763|
+[GD]|Europe & Northern Asia (excluding China)|552765|
+[GD]|Europe & Northern Asia (excluding China)|552775|
+[GD]|Europe & Northern Asia (excluding China)|621869|
+[GD]|Europe & Northern Asia (excluding China)|726472|
+[GD]|Europe & Northern Asia (excluding China)|726478|
+[GD]|Middle America|180582|
+[GD]|Middle America|180593|
+[GD]|Middle America|552469|
+[GD]|Middle America|552470|
+[GD]|Middle America|552471|
+[GD]|Middle America|552479|
+[GD]|Middle America|552782|
+[GD]|Middle America|552785|
+[GD]|Middle America|552787|
+[GD]|Middle America|552791|
+[GD]|Middle America|552793|
+[GD]|Middle America|552794|
+[GD]|Middle America|552795|
+[GD]|Middle America|621868|
+[GD]|North America|180582|
+[GD]|North America|180585|
+[GD]|North America|180589|
+[GD]|North America|180593|
+[GD]|North America|552469|
+[GD]|North America|552470|
+[GD]|North America|552471|
+[GD]|North America|552479|
+[GD]|North America|552784|
+[GD]|North America|552785|
+[GD]|North America|552786|
+[GD]|North America|552788|
+[GD]|North America|552789|
+[GD]|North America|552790|
+[GD]|North America|552791|
+[GD]|North America|552792|
+[GD]|North America|552793|
+[GD]|North America|552796|
+[GD]|North America|622093|
+[GD]|South America|180589|
+[GD]|South America|180593|
+[GD]|South America|552469|
+[GD]|South America|552470|
+[GD]|South America|552471|
+[GD]|South America|552479|
+[GD]|South America|552764|
+[GD]|South America|552769|
+[GD]|South America|621868|
+[GD]|South America|621870|
+[GD]|South America|621871|
+[GD]|South America|933421|
+[GD]|Southern Asia|180584|
+[GD]|Southern Asia|180589|
+[GD]|Southern Asia|183789|
+[GD]|Southern Asia|183801|
+[GD]|Southern Asia|183802|
+[GD]|Southern Asia|183803|
+[GD]|Southern Asia|183804|
+[GD]|Southern Asia|183805|
+[GD]|Southern Asia|183806|
+[GD]|Southern Asia|183809|
+[GD]|Southern Asia|183811|
+[GD]|Southern Asia|183813|
+[GD]|Southern Asia|552763|
+[GD]|Southern Asia|552765|
+[GD]|Southern Asia|552770|
+[GD]|Southern Asia|552774|
+[GD]|Southern Asia|552775|
+[GD]|Southern Asia|621866|
+[GD]|Southern Asia|621867|
+[GD]|Southern Asia|621872|
+[GD]|Southern Asia|621873|
+[GD]|Southern Asia|726473|
+[GD]|Southern Asia|726474|
+[GD]|Southern Asia|726475|
+[GD]|Southern Asia|726476|
+[GD]|Southern Asia|726477|
+[GD]|Southern Asia|726478|

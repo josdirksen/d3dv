@@ -1,0 +1,47 @@
+<html>
+<head>
+    <!-- generic stuff -->
+    <script src="../libs/d3.js"></script>
+    <script src="../libs/d3-scale-chromatic.v1.min.js"></script>
+    <script src="../libs/lodash.js"></script>
+    <link rel="stylesheet" href="../css/default.css">
+
+    <!-- specific stuff -->
+    <script src="./js/D03-03_grid.js"></script>
+    <link rel="stylesheet" href="./css/D03-03.css" type="text/css">
+</head>
+<body>
+
+<h1></h1>
+<div id="output" style="display: inline">
+    <svg class="chart1"></svg>
+</div>
+<div id="output" style="display: inline">
+    <svg class="chart2"></svg>
+</div>
+<div id="output" style="display: inline">
+    <svg class="chart3"></svg>
+</div>
+<div id="output" style="display: inline">
+    <svg class="chart4"></svg>
+</div>
+<div id="output" style="display: inline">
+    <svg class="chart5"></svg>
+</div>
+<div id="output" style="display: inline">
+    <svg class="chart6"></svg>
+</div>
+<script>
+    (function() {
+        show("chart1", d3.treemapBinary);
+        show("chart2", d3.treemapDice);
+        show("chart3", d3.treemapSlice);
+        show("chart4", d3.treemapSliceDice);
+        show("chart5", d3.treemapResquarify.ratio(1));
+        show("chart6", d3.treemapSquarify.ratio(2));
+    })();
+</script>
+
+
+</body>
+</html>
