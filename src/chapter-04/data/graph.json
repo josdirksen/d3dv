@@ -1,0 +1,583 @@
+{
+  "links": [
+    {
+      "source": "c_1",
+      "target": "l_2",
+      "value": 1
+    },
+    {
+      "source": "c_2",
+      "target": "l_2",
+      "value": 2
+    },
+    {
+      "source": "c_1",
+      "target": "l_4",
+      "value": 3
+    },
+    {
+      "source": "c_2",
+      "target": "l_4",
+      "value": 4
+    },
+    {
+      "source": "c_3",
+      "target": "l_4",
+      "value": 3
+    },
+    {
+      "source": "c_5",
+      "target": "l_4",
+      "value": 1
+    },
+    {
+      "source": "c_6",
+      "target": "l_4",
+      "value": 1
+    },
+    {
+      "source": "c_8",
+      "target": "l_4",
+      "value": 1
+    },
+    {
+      "source": "c_1",
+      "target": "l_5",
+      "value": 31
+    },
+    {
+      "source": "c_2",
+      "target": "l_5",
+      "value": 42
+    },
+    {
+      "source": "c_8",
+      "target": "l_5",
+      "value": 19
+    },
+    {
+      "source": "c_9",
+      "target": "l_5",
+      "value": 20
+    },
+    {
+      "source": "c_10",
+      "target": "l_5",
+      "value": 16
+    },
+    {
+      "source": "c_11",
+      "target": "l_5",
+      "value": 2
+    },
+    {
+      "source": "c_22",
+      "target": "l_5",
+      "value": 8
+    },
+    {
+      "source": "c_29",
+      "target": "l_5",
+      "value": 1
+    },
+    {
+      "source": "c_30",
+      "target": "l_5",
+      "value": 1
+    },
+    {
+      "source": "c_31",
+      "target": "l_5",
+      "value": 2
+    },
+    {
+      "source": "c_1",
+      "target": "l_6",
+      "value": 4
+    },
+    {
+      "source": "c_2",
+      "target": "l_6",
+      "value": 2
+    },
+    {
+      "source": "c_8",
+      "target": "l_6",
+      "value": 1
+    },
+    {
+      "source": "c_9",
+      "target": "l_6",
+      "value": 1
+    },
+    {
+      "source": "c_1",
+      "target": "l_8",
+      "value": 2
+    },
+    {
+      "source": "c_2",
+      "target": "l_8",
+      "value": 7
+    },
+    {
+      "source": "c_8",
+      "target": "l_8",
+      "value": 7
+    },
+    {
+      "source": "c_25",
+      "target": "l_8",
+      "value": 2
+    },
+    {
+      "source": "c_26",
+      "target": "l_8",
+      "value": 1
+    },
+    {
+      "source": "c_2",
+      "target": "l_10",
+      "value": 3
+    },
+    {
+      "source": "c_14",
+      "target": "l_10",
+      "value": 2
+    },
+    {
+      "source": "c_15",
+      "target": "l_10",
+      "value": 3
+    },
+    {
+      "source": "c_1",
+      "target": "l_12",
+      "value": 2
+    },
+    {
+      "source": "c_8",
+      "target": "l_12",
+      "value": 1
+    },
+    {
+      "source": "c_16",
+      "target": "l_12",
+      "value": 3
+    },
+    {
+      "source": "c_8",
+      "target": "l_13",
+      "value": 1
+    },
+    {
+      "source": "c_16",
+      "target": "l_13",
+      "value": 1
+    },
+    {
+      "source": "c_2",
+      "target": "l_14",
+      "value": 6
+    },
+    {
+      "source": "c_5",
+      "target": "l_14",
+      "value": 2
+    },
+    {
+      "source": "c_11",
+      "target": "l_14",
+      "value": 5
+    },
+    {
+      "source": "c_2",
+      "target": "l_15",
+      "value": 4
+    },
+    {
+      "source": "c_17",
+      "target": "l_15",
+      "value": 2
+    },
+    {
+      "source": "c_18",
+      "target": "l_15",
+      "value": 3
+    },
+    {
+      "source": "c_2",
+      "target": "l_17",
+      "value": 4
+    },
+    {
+      "source": "c_8",
+      "target": "l_17",
+      "value": 2
+    },
+    {
+      "source": "c_2",
+      "target": "l_19",
+      "value": 13
+    },
+    {
+      "source": "c_8",
+      "target": "l_19",
+      "value": 2
+    },
+    {
+      "source": "c_18",
+      "target": "l_19",
+      "value": 3
+    },
+    {
+      "source": "c_2",
+      "target": "l_20",
+      "value": 14
+    },
+    {
+      "source": "c_8",
+      "target": "l_20",
+      "value": 9
+    },
+    {
+      "source": "c_18",
+      "target": "l_20",
+      "value": 1
+    },
+    {
+      "source": "c_2",
+      "target": "l_22",
+      "value": 4
+    },
+    {
+      "source": "c_8",
+      "target": "l_22",
+      "value": 2
+    },
+    {
+      "source": "c_18",
+      "target": "l_22",
+      "value": 1
+    },
+    {
+      "source": "c_2",
+      "target": "l_24",
+      "value": 4
+    },
+    {
+      "source": "c_8",
+      "target": "l_24",
+      "value": 3
+    },
+    {
+      "source": "c_18",
+      "target": "l_24",
+      "value": 1
+    }
+  ],
+  "characters": [
+    {
+      "id": "c_16",
+      "name": "DOCTOR ZITSOFSKY",
+      "normalized_name": "doctor zitsofsky",
+      "gender": "",
+      "created_at": "2016-09-29 15:24:21.041002",
+      "updated_at": "2016-09-29 15:24:21.041002",
+      "type": "character"
+    },
+    {
+      "id": "c_26",
+      "name": "Lewis Clark",
+      "normalized_name": "lewis clark",
+      "gender": "",
+      "created_at": "2016-09-29 15:24:21.829475",
+      "updated_at": "2016-09-29 15:24:21.829475",
+      "type": "character"
+    },
+    {
+      "id": "c_29",
+      "name": "Bubbles",
+      "normalized_name": "bubbles",
+      "gender": "",
+      "created_at": "2016-09-29 15:24:22.161414",
+      "updated_at": "2016-09-29 15:24:22.161414",
+      "type": "character"
+    },
+    {
+      "id": "c_30",
+      "name": "Moldy",
+      "normalized_name": "moldy",
+      "gender": "",
+      "created_at": "2016-09-29 15:24:22.169768",
+      "updated_at": "2016-09-29 15:24:22.169768",
+      "type": "character"
+    },
+    {
+      "id": "c_1",
+      "name": "Marge Simpson",
+      "normalized_name": "marge simpson",
+      "gender": "f",
+      "created_at": "2016-09-29 15:24:20.238491",
+      "updated_at": "2016-09-29 20:34:47.619121",
+      "type": "character"
+    },
+    {
+      "id": "c_8",
+      "name": "Bart Simpson",
+      "normalized_name": "bart simpson",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.386519",
+      "updated_at": "2016-09-29 20:34:47.624845",
+      "type": "character"
+    },
+    {
+      "id": "c_9",
+      "name": "Lisa Simpson",
+      "normalized_name": "lisa simpson",
+      "gender": "f",
+      "created_at": "2016-09-29 15:24:20.492719",
+      "updated_at": "2016-09-29 20:34:47.63172",
+      "type": "character"
+    },
+    {
+      "id": "c_17",
+      "name": "Moe Szyslak",
+      "normalized_name": "moe szyslak",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:21.351745",
+      "updated_at": "2016-09-29 20:34:47.646627",
+      "type": "character"
+    },
+    {
+      "id": "c_3",
+      "name": "Seymour Skinner",
+      "normalized_name": "seymour skinner",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.310838",
+      "updated_at": "2016-09-29 20:34:47.653508",
+      "type": "character"
+    },
+    {
+      "id": "c_11",
+      "name": "Ned Flanders",
+      "normalized_name": "ned flanders",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.670955",
+      "updated_at": "2016-09-29 20:34:47.659886",
+      "type": "character"
+    },
+    {
+      "id": "c_31",
+      "name": "Grampa Simpson",
+      "normalized_name": "grampa simpson",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:22.1832",
+      "updated_at": "2016-09-29 20:34:47.674852",
+      "type": "character"
+    },
+    {
+      "id": "c_25",
+      "name": "Milhouse Van Houten",
+      "normalized_name": "milhouse van houten",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:21.820919",
+      "updated_at": "2016-09-29 20:34:47.694666",
+      "type": "character"
+    },
+    {
+      "id": "c_14",
+      "name": "Waylon Smithers",
+      "normalized_name": "waylon smithers",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.89635",
+      "updated_at": "2016-09-29 20:34:47.715422",
+      "type": "character"
+    },
+    {
+      "id": "c_22",
+      "name": "Selma Bouvier",
+      "normalized_name": "selma bouvier",
+      "gender": "f",
+      "created_at": "2016-09-29 15:24:21.617674",
+      "updated_at": "2016-09-29 20:34:47.788455",
+      "type": "character"
+    },
+    {
+      "id": "c_18",
+      "name": "Barney Gumble",
+      "normalized_name": "barney gumble",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:21.380446",
+      "updated_at": "2016-09-29 20:34:47.800221",
+      "type": "character"
+    },
+    {
+      "id": "c_10",
+      "name": "Patty Bouvier",
+      "normalized_name": "patty bouvier",
+      "gender": "f",
+      "created_at": "2016-09-29 15:24:20.554517",
+      "updated_at": "2016-09-29 20:34:47.814758",
+      "type": "character"
+    },
+    {
+      "id": "c_5",
+      "name": "Todd Flanders",
+      "normalized_name": "todd flanders",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.336927",
+      "updated_at": "2016-09-29 20:34:48.02195",
+      "type": "character"
+    },
+    {
+      "id": "c_6",
+      "name": "Dewey Largo",
+      "normalized_name": "dewey largo",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.34872",
+      "updated_at": "2016-09-29 20:34:48.202978",
+      "type": "character"
+    },
+    {
+      "id": "c_2",
+      "name": "Homer Simpson",
+      "normalized_name": "homer simpson",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.256088",
+      "updated_at": "2016-09-29 20:34:47.612195",
+      "type": "character"
+    },
+    {
+      "id": "c_15",
+      "name": "C. Montgomery Burns",
+      "normalized_name": "c montgomery burns",
+      "gender": "m",
+      "created_at": "2016-09-29 15:24:20.918865",
+      "updated_at": "2016-09-29 20:34:47.639844",
+      "type": "character"
+    }
+  ],
+  "locations": [
+    {
+      "id": "l_2",
+      "name": "Car",
+      "normalized_name": "car",
+      "created_at": "2016-09-29 15:24:20.213079",
+      "updated_at": "2016-09-29 15:24:20.213079",
+      "type": "location"
+    },
+    {
+      "id": "l_4",
+      "name": "Auditorium",
+      "normalized_name": "auditorium",
+      "created_at": "2016-09-29 15:24:20.281686",
+      "updated_at": "2016-09-29 15:24:20.281686",
+      "type": "location"
+    },
+    {
+      "id": "l_5",
+      "name": "Simpson Home",
+      "normalized_name": "simpson home",
+      "created_at": "2016-09-29 15:24:20.406425",
+      "updated_at": "2016-09-29 15:24:20.406425",
+      "type": "location"
+    },
+    {
+      "id": "l_6",
+      "name": "KITCHEN",
+      "normalized_name": "kitchen",
+      "created_at": "2016-09-29 15:24:20.71728",
+      "updated_at": "2016-09-29 15:24:20.71728",
+      "type": "location"
+    },
+    {
+      "id": "l_8",
+      "name": "Springfield Mall",
+      "normalized_name": "springfield mall",
+      "created_at": "2016-09-29 15:24:20.778667",
+      "updated_at": "2016-09-29 15:24:20.778667",
+      "type": "location"
+    },
+    {
+      "id": "l_10",
+      "name": "Springfield Nuclear Power Plant",
+      "normalized_name": "springfield nuclear power plant",
+      "created_at": "2016-09-29 15:24:20.872671",
+      "updated_at": "2016-09-29 15:24:20.872671",
+      "type": "location"
+    },
+    {
+      "id": "l_12",
+      "name": "DERMATOLOGY CLINIC",
+      "normalized_name": "dermatology clinic",
+      "created_at": "2016-09-29 15:24:21.031545",
+      "updated_at": "2016-09-29 15:24:21.031545",
+      "type": "location"
+    },
+    {
+      "id": "l_13",
+      "name": "Laboratory",
+      "normalized_name": "laboratory",
+      "created_at": "2016-09-29 15:24:21.082018",
+      "updated_at": "2016-09-29 15:24:21.082018",
+      "type": "location"
+    },
+    {
+      "id": "l_14",
+      "name": "Circus of Values",
+      "normalized_name": "circus of values",
+      "created_at": "2016-09-29 15:24:21.244219",
+      "updated_at": "2016-09-29 15:24:21.244219",
+      "type": "location"
+    },
+    {
+      "id": "l_15",
+      "name": "Moe's Tavern",
+      "normalized_name": "moe tavern",
+      "created_at": "2016-09-29 15:24:21.342276",
+      "updated_at": "2016-09-29 15:24:21.342276",
+      "type": "location"
+    },
+    {
+      "id": "l_17",
+      "name": "Santa's Workshop",
+      "normalized_name": "santa workshop",
+      "created_at": "2016-09-29 15:24:21.920771",
+      "updated_at": "2016-09-29 15:24:21.920771",
+      "type": "location"
+    },
+    {
+      "id": "l_19",
+      "name": "PERSONNEL OFFICE",
+      "normalized_name": "personnel office",
+      "created_at": "2016-09-29 15:24:21.97589",
+      "updated_at": "2016-09-29 15:24:21.97589",
+      "type": "location"
+    },
+    {
+      "id": "l_20",
+      "name": "Springfield Downs Dog Track",
+      "normalized_name": "springfield downs dog track",
+      "created_at": "2016-09-29 15:24:22.217344",
+      "updated_at": "2016-09-29 15:24:22.217344",
+      "type": "location"
+    },
+    {
+      "id": "l_22",
+      "name": "PADDOCK",
+      "normalized_name": "paddock",
+      "created_at": "2016-09-29 15:24:22.262564",
+      "updated_at": "2016-09-29 15:24:22.262564",
+      "type": "location"
+    },
+    {
+      "id": "l_24",
+      "name": "SPRINGFIELD DOWNS PARKING LOT",
+      "normalized_name": "springfield downs parking lot",
+      "created_at": "2016-09-29 15:24:22.655129",
+      "updated_at": "2016-09-29 15:24:22.655129",
+      "type": "location"
+    }
+  ]
+}

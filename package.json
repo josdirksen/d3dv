@@ -10,10 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "d3": "^4.2.2"
+    "d3": "^4.2.2",
+    "image-downloader": "^2.0.0",
+    "lodash": "^4.16.4"
   },
   "devDependencies": {
+    "cheerio": "^0.22.0",
     "gulp": "^3.9.1",
-    "gulp-connect": "^5.0.0"
+    "gulp-connect": "^5.0.0",
+    "yql": "^1.0.2"
   }
 }

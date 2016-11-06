@@ -454,11 +454,11 @@ The transverse spherical Mercator projection. Defines a default [*projection*.cl
 
 Raw projections are used to implement projections; they typically passed to [d3.geoProjection](#geoProjection) or [d3.geoProjectionMutator](#geoProjectionMutator). They are exposed here to facilitate the derivation of related projections. Raw projections define simple point transformations: they take spherical coordinates [*lambda*, *phi*] in radians and return a point [*x*, *y*], typically in the unit square centered around the origin.
 
-<a href="#_project" name="_project">#</a> <i>project</i>(<i>lambda</i>, <i>phi</i>) [<>](https://github.com/d3/d3-geo/blob/master/src/projection/index.js#L34 "Source")
+<a href="#_project" name="_project">#</a> <i>project</i>(<i>lambda</i>, <i>phi</i>)
 
 Projects the specified point [<i>lambda</i>, <i>phi</i>] in radians, returning a new point [*x*, *y*] in unitless coordinates.
 
-<a href="#project_invert" name="project_invert">#</a> <i>project</i>.<b>invert</b>(<i>x</i>, <i>y</i>) [<>](https://github.com/d3/d3-geo/blob/master/src/projection/index.js#L39 "Source")
+<a href="#project_invert" name="project_invert">#</a> <i>project</i>.<b>invert</b>(<i>x</i>, <i>y</i>)
 
 The inverse of [*project*](#_project).
 

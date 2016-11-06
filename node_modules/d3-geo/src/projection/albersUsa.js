@@ -55,7 +55,7 @@ export default function() {
   albersUsa.precision = function(_) {
     if (!arguments.length) return lower48.precision();
     lower48.precision(_), alaska.precision(_), hawaii.precision(_);
-    return albersUsa;
+    return reset();
   };
 
   albersUsa.scale = function(_) {
@@ -83,12 +83,17 @@ export default function() {
         .clipExtent([[x - 0.214 * k + epsilon, y + 0.166 * k + epsilon], [x - 0.115 * k - epsilon, y + 0.234 * k - epsilon]])
         .stream(pointStream);
 
-    return albersUsa;
+    return reset();
   };
 
   albersUsa.fitExtent = fitExtent(albersUsa);
 
   albersUsa.fitSize = fitSize(albersUsa);
+
+  function reset() {
+    cache = cacheStream = null;
+    return albersUsa;
+  }
 
   return albersUsa.scale(1070);
 }

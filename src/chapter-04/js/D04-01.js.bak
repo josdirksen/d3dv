@@ -1,0 +1,184 @@
+function show() {
+
+    'use strict';
+
+    // Generic setup
+    var margin = {top: 20, bottom: 20, right: 20, left: 45},
+        width = 800 - margin.left - margin.right,
+        height = 800 - margin.top - margin.bottom;
+
+    var chart = d3.select(".chart")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + ","
+            + margin.top + ")");
+
+    var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+    var simulation = d3.forceSimulation()
+        .force("link", d3.forceLink()
+            .id(function(d) { return d.id; })
+            .strength(0.2)
+            .distance(function(d) {return (100 - d.value) * 4}))
+
+            // .distance(1.5).strength(0.8))
+        .force("charge", d3.forceManyBody().strength(2))
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+
+    var links;
+    var names;
+
+    d3.json("./data/graph.json", function)
+
+    d3.queue()
+        .defer(d3.tsv, "./data/persons-26.csv")
+        .defer(d3.tsv, "./data/links-26.csv")
+        .await(function (error, namesData, linksData) {
+            // set the data to the global variables
+            names = namesData.map(function(d) {
+               return {
+                    id: d.Id,
+                    name: d.Label,
+                    size: +d.Size,
+                    value: +d.Size,
+                    group: 1
+               }
+            }).filter(function(d) {
+                return d.size > 10
+            });
+
+            console.log(names);
+
+            var validIds = names.map(function(d) {return d.id});
+            var filterLinks = linksData.map(function(d) {
+                return {
+                    source: d.Source,
+                    target: d.Target,
+                    value: +d.Weight
+                }
+            }).filter(function(d) {
+                var inc = _.includes(validIds, d.source)
+                    &&_ .includes(validIds, d.target);
+
+                return inc;
+            });
+            // and call update
+            links = filterLinks;
+
+            console.log(filterLinks);
+
+            update();
+        });
+
+    function update() {
+        var graph = {
+            nodes: [
+                {"id": 1, "group": 1},
+                {"id": 2, "group": 2},
+                {"id": 3, "group": 3},
+            ],
+            links: [
+                {"source": 1, "target": 2, "value": 1},
+                {"source": 2, "target": 3, "value": 1},
+                {"source": 3, "target": 1, "value": 1}
+            ]
+        };
+
+        var link = chart.append("g")
+            .attr("class", "links")
+            .selectAll("line")
+            .data(links)
+            .enter().append("line")
+            .attr("stroke-width", function (d) {
+                return Math.sqrt(d.value);
+            });
+
+        var node = chart.append("g")
+            .attr("class", "nodes")
+            .selectAll("g")
+            .data(names)
+            .enter().append("g")
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+
+
+        node.append("circle")
+            .attr("r", function(d) {return d.value * 2})
+            .attr("fill", function (d) {
+                return color(d.value);
+            })
+
+
+        node.append("text")
+            .attr("r", function(d) {return d.value * 2})
+            .text(function(d) {
+                console.log(d);
+                return d.name}
+            )
+
+        // var node = chart.append("g")
+        //     .attr("class", "nodes")
+        //     .selectAll("circle")
+        //     .data(names)
+        //     .enter().append("circle")
+        //     .attr("r", function(d) {return d.value * 2})
+        //     .attr("fill", function (d) {
+        //         return color(d.value);
+        //     })
+        //     .call(d3.drag()
+        //         .on("start", dragstarted)
+        //         .on("drag", dragged)
+        //         .on("end", dragended));
+
+        simulation
+            .nodes(names)
+            .on("tick", ticked);
+
+        simulation.force("link")
+            .links(links);
+
+        function ticked() {
+            link
+                .attr("x1", function (d) {
+                    return d.source.x;
+                })
+                .attr("y1", function (d) {
+                    return d.source.y;
+                })
+                .attr("x2", function (d) {
+                    return d.target.x;
+                })
+                .attr("y2", function (d) {
+                    return d.target.y;
+                });
+
+            node
+                .attr("transform", function (d) {
+                    return("translate(" + d.x + " " + d.y + ")")
+                })
+        }
+
+        function dragstarted(d) {
+            if (!d3.event.active) simulation.alphaTarget(0.1).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragged(d) {
+            d.fx = d3.event.x;
+            d.fy = d3.event.y;
+        }
+
+        function dragended(d) {
+            if (!d3.event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+    }
+}
+
+

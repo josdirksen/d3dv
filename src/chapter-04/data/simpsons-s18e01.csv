@@ -1,0 +1,341 @@
+episode_id,character_id,location_id,raw_character_text,raw_location_text
+1801,1,2,Marge Simpson,Car
+1801,2,2,Homer Simpson,Car
+1801,2,2,Homer Simpson,Car
+1801,1,4,Marge Simpson,Auditorium
+1801,2,4,Homer Simpson,Auditorium
+1801,2,4,Homer Simpson,Auditorium
+1801,3,4,Seymour Skinner,Auditorium
+1801,1,4,Marge Simpson,Auditorium
+1801,4,4,JANEY,Auditorium
+1801,5,4,Todd Flanders,Auditorium
+1801,6,4,Dewey Largo,Auditorium
+1801,2,4,Homer Simpson,Auditorium
+1801,3,4,Seymour Skinner,Auditorium
+1801,7,4,Children,Auditorium
+1801,1,4,Marge Simpson,Auditorium
+1801,8,4,Bart Simpson,Auditorium
+1801,3,4,Seymour Skinner,Auditorium
+1801,2,4,Homer Simpson,Auditorium
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,11,5,Ned Flanders,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,11,5,Ned Flanders,Simpson Home
+1801,12,5,Mechanical Santa,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,6,Marge Simpson,KITCHEN
+1801,9,6,Lisa Simpson,KITCHEN
+1801,8,6,Bart Simpson,KITCHEN
+1801,1,6,Marge Simpson,KITCHEN
+1801,2,6,Homer Simpson,KITCHEN
+1801,1,6,Marge Simpson,KITCHEN
+1801,1,6,Marge Simpson,KITCHEN
+1801,2,6,Homer Simpson,KITCHEN
+1801,1,8,Marge Simpson,Springfield Mall
+1801,8,9,Bart Simpson,The Happy Sailor Tattoo Parlor
+1801,13,9,Tattoo Man,The Happy Sailor Tattoo Parlor
+1801,8,9,Bart Simpson,The Happy Sailor Tattoo Parlor
+1801,13,9,Tattoo Man,The Happy Sailor Tattoo Parlor
+1801,2,10,Homer Simpson,Springfield Nuclear Power Plant
+1801,2,10,Homer Simpson,Springfield Nuclear Power Plant
+1801,14,10,Waylon Smithers,Springfield Nuclear Power Plant
+1801,14,10,Waylon Smithers,Springfield Nuclear Power Plant
+1801,15,10,C. Montgomery Burns,Springfield Nuclear Power Plant
+1801,15,10,C. Montgomery Burns,Springfield Nuclear Power Plant
+1801,15,11,C. Montgomery Burns,PLANT
+1801,2,11,Homer Simpson,PLANT
+1801,1,8,Marge Simpson,Springfield Mall
+1801,8,8,Bart Simpson,Springfield Mall
+1801,8,9,Bart Simpson,The Happy Sailor Tattoo Parlor
+1801,16,12,DOCTOR ZITSOFSKY,DERMATOLOGY CLINIC
+1801,8,12,Bart Simpson,DERMATOLOGY CLINIC
+1801,16,12,DOCTOR ZITSOFSKY,DERMATOLOGY CLINIC
+1801,1,12,Marge Simpson,DERMATOLOGY CLINIC
+1801,16,12,DOCTOR ZITSOFSKY,DERMATOLOGY CLINIC
+1801,1,12,Marge Simpson,DERMATOLOGY CLINIC
+1801,8,13,Bart Simpson,Laboratory
+1801,16,13,DOCTOR ZITSOFSKY,Laboratory
+1801,8,5,Bart Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,12,5,Mechanical Santa,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,14,Homer Simpson,Circus of Values
+1801,2,14,Homer Simpson,Circus of Values
+1801,11,14,Ned Flanders,Circus of Values
+1801,2,14,Homer Simpson,Circus of Values
+1801,11,14,Ned Flanders,Circus of Values
+1801,2,14,Homer Simpson,Circus of Values
+1801,11,14,Ned Flanders,Circus of Values
+1801,2,14,Homer Simpson,Circus of Values
+1801,5,14,Todd Flanders,Circus of Values
+1801,2,14,Homer Simpson,Circus of Values
+1801,11,14,Ned Flanders,Circus of Values
+1801,5,14,Todd Flanders,Circus of Values
+1801,11,14,Ned Flanders,Circus of Values
+1801,17,15,Moe Szyslak,Moe's Tavern
+1801,2,15,Homer Simpson,Moe's Tavern
+1801,17,15,Moe Szyslak,Moe's Tavern
+1801,2,15,Homer Simpson,Moe's Tavern
+1801,18,15,Barney Gumble,Moe's Tavern
+1801,2,15,Homer Simpson,Moe's Tavern
+1801,18,15,Barney Gumble,Moe's Tavern
+1801,2,15,Homer Simpson,Moe's Tavern
+1801,18,15,Barney Gumble,Moe's Tavern
+1801,19,8,Interviewer,Springfield Mall
+1801,2,8,Homer Simpson,Springfield Mall
+1801,2,8,Homer Simpson,Springfield Mall
+1801,19,8,Interviewer,Springfield Mall
+1801,20,16,Students,Santa School
+1801,21,16,Teacher,Santa School
+1801,2,16,Homer Simpson,Santa School
+1801,21,16,Teacher,Santa School
+1801,20,16,Students,Santa School
+1801,2,16,Homer Simpson,Santa School
+1801,21,16,Teacher,Santa School
+1801,2,16,Homer Simpson,Santa School
+1801,21,16,Teacher,Santa School
+1801,2,16,Homer Simpson,Santa School
+1801,21,16,Teacher,Santa School
+1801,2,16,Homer Simpson,Santa School
+1801,21,16,Teacher,Santa School
+1801,2,16,Homer Simpson,Santa School
+1801,21,16,Teacher,Santa School
+1801,2,16,Homer Simpson,Santa School
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,23,1,Voice,Street
+1801,2,1,Homer Simpson,Street
+1801,23,1,Voice,Street
+1801,2,5,Homer Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,24,8,Little Boy,Springfield Mall
+1801,2,8,Homer Simpson,Springfield Mall
+1801,25,8,Milhouse Van Houten,Springfield Mall
+1801,26,8,Lewis Clark,Springfield Mall
+1801,8,8,Bart Simpson,Springfield Mall
+1801,25,8,Milhouse Van Houten,Springfield Mall
+1801,8,8,Bart Simpson,Springfield Mall
+1801,27,8,Little Girl,Springfield Mall
+1801,2,8,Homer Simpson,Springfield Mall
+1801,8,8,Bart Simpson,Springfield Mall
+1801,2,8,Homer Simpson,Springfield Mall
+1801,8,8,Bart Simpson,Springfield Mall
+1801,2,8,Homer Simpson,Springfield Mall
+1801,8,8,Bart Simpson,Springfield Mall
+1801,8,8,Bart Simpson,Springfield Mall
+1801,2,8,Homer Simpson,Springfield Mall
+1801,8,17,Bart Simpson,Santa's Workshop
+1801,2,17,Homer Simpson,Santa's Workshop
+1801,8,17,Bart Simpson,Santa's Workshop
+1801,2,17,Homer Simpson,Santa's Workshop
+1801,2,18,Homer Simpson,WORKSHOP
+1801,2,18,Homer Simpson,WORKSHOP
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,28,19,Clerk,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,28,19,Clerk,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,28,19,Clerk,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,28,19,Clerk,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,28,19,Clerk,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,28,19,Clerk,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,28,19,Clerk,PERSONNEL OFFICE
+1801,8,19,Bart Simpson,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,18,19,Barney Gumble,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,18,19,Barney Gumble,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,18,19,Barney Gumble,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,8,19,Bart Simpson,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,2,19,Homer Simpson,PERSONNEL OFFICE
+1801,29,5,Bubbles,Simpson Home
+1801,30,5,Moldy,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,31,5,Grampa Simpson,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,18,20,Barney Gumble,Springfield Downs Dog Track
+1801,2,20,Homer Simpson,Springfield Downs Dog Track
+1801,24,21,Little Boy,SPRINGFIELD DOWNS
+1801,32,21,Father,SPRINGFIELD DOWNS
+1801,2,22,Homer Simpson,PADDOCK
+1801,18,22,Barney Gumble,PADDOCK
+1801,2,22,Homer Simpson,PADDOCK
+1801,8,22,Bart Simpson,PADDOCK
+1801,2,22,Homer Simpson,PADDOCK
+1801,33,22,Announcer,PADDOCK
+1801,2,22,Homer Simpson,PADDOCK
+1801,8,22,Bart Simpson,PADDOCK
+1801,2,23,Homer Simpson,SPRINGFIELD DOWN
+1801,34,23,Ticket Seller,SPRINGFIELD DOWN
+1801,2,23,Homer Simpson,SPRINGFIELD DOWN
+1801,8,23,Bart Simpson,SPRINGFIELD DOWN
+1801,2,23,Homer Simpson,SPRINGFIELD DOWN
+1801,8,23,Bart Simpson,SPRINGFIELD DOWN
+1801,2,23,Homer Simpson,SPRINGFIELD DOWN
+1801,8,23,Bart Simpson,SPRINGFIELD DOWN
+1801,2,23,Homer Simpson,SPRINGFIELD DOWN
+1801,35,5,Elf #1,Simpson Home
+1801,36,5,Elves,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,31,5,Grampa Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,33,21,Announcer,SPRINGFIELD DOWNS
+1801,33,21,Announcer,SPRINGFIELD DOWNS
+1801,8,21,Bart Simpson,SPRINGFIELD DOWNS
+1801,8,21,Bart Simpson,SPRINGFIELD DOWNS
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,33,21,Announcer,SPRINGFIELD DOWNS
+1801,33,21,Announcer,SPRINGFIELD DOWNS
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,8,21,Bart Simpson,SPRINGFIELD DOWNS
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,8,21,Bart Simpson,SPRINGFIELD DOWNS
+1801,33,21,Announcer,SPRINGFIELD DOWNS
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,8,21,Bart Simpson,SPRINGFIELD DOWNS
+1801,33,21,Announcer,SPRINGFIELD DOWNS
+1801,33,21,Announcer,SPRINGFIELD DOWNS
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,8,21,Bart Simpson,SPRINGFIELD DOWNS
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,2,21,Homer Simpson,SPRINGFIELD DOWNS
+1801,2,24,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT
+1801,8,24,Bart Simpson,SPRINGFIELD DOWNS PARKING LOT
+1801,18,24,Barney Gumble,SPRINGFIELD DOWNS PARKING LOT
+1801,23,24,Voice,SPRINGFIELD DOWNS PARKING LOT
+1801,8,24,Bart Simpson,SPRINGFIELD DOWNS PARKING LOT
+1801,37,24,Dog's Owner,SPRINGFIELD DOWNS PARKING LOT
+1801,2,24,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT
+1801,8,24,Bart Simpson,SPRINGFIELD DOWNS PARKING LOT
+1801,2,24,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT
+1801,2,24,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT
+1801,1,5,Marge Simpson,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,10,5,Patty Bouvier,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,22,5,Selma Bouvier,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,2,5,Homer Simpson,Simpson Home
+1801,1,5,Marge Simpson,Simpson Home
+1801,9,5,Lisa Simpson,Simpson Home
+1801,8,5,Bart Simpson,Simpson Home

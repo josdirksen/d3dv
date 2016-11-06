@@ -1,0 +1,20 @@
+body {
+    background-color: #ffd90f;
+}
+
+@font-face {
+    font-family: 'simpsons';
+    src:    url('../data/fonts/simpsons.woff2') format('woff2'),
+            url('../data/fonts/simpsons.woff') format('woff'),
+            url('../data/fonts/simpsons.ttf')  format('truetype');
+}
+
+g.output-text text {
+    font-size: 40px;
+    font-family: 'simpsons'
+}
+
+g.title text {
+    font-size: 40px;
+    font-family: 'simpsons'
+}

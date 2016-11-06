@@ -1,0 +1,23 @@
+body {
+    background-color: #ffd90f;
+}
+
+@font-face {
+    font-family: 'simpsons';
+    src:    url('../data/fonts/simpsons.woff2') format('woff2'),
+            url('../data/fonts/simpsons.woff') format('woff'),
+            url('../data/fonts/simpsons.ttf')  format('truetype');
+}
+
+text {
+    font-size: 10px;
+    font-family: 'simpsons'
+}
+
+.legend {
+    font-size: 20px;
+}
+
+.title {
+    font-size: 30px;
+}

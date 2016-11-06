@@ -1,0 +1,46 @@
+path.links {
+    fill:none;
+    stroke: steelblue;
+    stroke-width: 12;
+    opacity: 0.5;
+    stroke-linecap: round;
+}
+
+path.links2 {
+    fill:none;
+    stroke: white;
+    stroke-width: 1;
+    stroke-linecap: round;
+}
+
+
+circle.character {
+    fill: steelblue;
+}
+
+circle.location {
+    fill: white;
+    stroke-width: 2;
+    stroke: steelblue;
+}
+
+body {
+    background-color: #ffd90f;
+}
+
+@font-face {
+    font-family: 'simpsons';
+    src:    url('../data/fonts/simpsons.woff2') format('woff2'),
+    url('../data/fonts/simpsons.woff') format('woff'),
+    url('../data/fonts/simpsons.ttf')  format('truetype');
+}
+
+g.output-text text {
+    font-size: 40px;
+    font-family: 'simpsons'
+}
+
+g.title text {
+    font-size: 40px;
+    font-family: 'simpsons'
+}
