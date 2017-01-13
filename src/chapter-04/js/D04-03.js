@@ -94,7 +94,6 @@ function show() {
         var ribbon = d3.ribbon()
             .radius(innerRadius);
 
-        console.log(chord(matrix));
         var g = svg.append("g")
             .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")")
             .datum(chord(matrix));

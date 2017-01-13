@@ -1,0 +1,131 @@
+<html>
+<head>
+    <!-- generic stuff -->
+    <script src="../libs/d3.js"></script>
+    <script src="../libs/topojson.v2.min.js"></script>
+    <script src="../libs/d3-geo-projection.v1.min.js"></script>
+    <script src="../libs/d3-scale-chromatic.v1.min.js"></script>
+    <script src="../libs/lodash.js"></script>
+    <script src="../libs/dat.gui.min.js"></script>
+    <link rel="stylesheet" href="../css/default.css">
+    <link rel="stylesheet" href="../css/dat.gui.css">
+
+    <!-- specific stuff -->
+    <script src="./js/D05-02.js"></script>
+    <link rel="stylesheet" href="./css/D05-02.css" type="text/css">
+</head>
+<body>
+<div id="geo" style="position: absolute">
+    <select id="geoSelection">
+        <option value="geoAiry">Airy</option>
+        <option value="geoAitoff">Aitoff</option>
+        <option value="geoAlbers">Albers</option>
+        <option value="geoBaker">Baker</option>
+        <option value="geoBerghaus">Berghaus</option>
+        <option value="geoBoggs">Boggs</option>
+        <option value="geoBottomley">Bottomley</option>
+        <option value="geoBromley">Bromley</option>
+        <option value="geoChamberlinAfrica">ChamberlinAfrica</option>
+        <option value="geoCollignon">Collignon</option>
+        <option value="geoConicConformal">ConicConformal</option>
+        <option value="geoConicEqualArea">ConicEqualArea</option>
+        <option value="geoCraig">Craig</option>
+        <option value="geoCraster">Craster</option>
+        <option value="geoCylindricalEqualArea">CylindricalEqualArea</option>
+        <option value="geoCylindricalStereographic">CylindricalStereographic</option>
+        <option value="geoEckert1">Eckert1</option>
+        <option value="geoEckert2">Eckert2</option>
+        <option value="geoEckert3">Eckert3</option>
+        <option value="geoEckert4">Eckert4</option>
+        <option value="geoEckert5">Eckert5</option>
+        <option value="geoEckert6">Eckert6</option>
+        <option value="geoEisenlohr">Eisenlohr</option>
+        <option value="geoEquirectangular">Equirectangular</option>
+        <option value="geoFahey">Fahey</option>
+        <option value="geoFoucaut">Foucaut</option>
+        <option value="geoGilbert">Gilbert</option>
+        <option value="geoGingery">Gingery</option>
+        <option value="geoGinzburg4">Ginzburg4</option>
+        <option value="geoGinzburg5">Ginzburg5</option>
+        <option value="geoGinzburg6">Ginzburg6</option>
+        <option value="geoGinzburg8">Ginzburg8</option>
+        <option value="geoGinzburg9">Ginzburg9</option>
+        <option value="geoGnomonic">Gnomonic</option>
+        <option value="geoGringorten">Gringorten</option>
+        <option value="geoGuyou">Guyou</option>
+        <option value="geoHammer">Hammer</option>
+        <option value="geoHammerRetroazimuthal">HammerRetroazimuthal</option>
+        <option value="geoHealpix">Healpix</option>
+        <option value="geoHill">Hill</option>
+        <option value="geoHomolosine">Homolosine</option>
+        <option value="geoKavrayskiy7">Kavrayskiy7</option>
+        <option value="geoLagrange">Lagrange</option>
+        <option value="geoLarrivee">Larrivee</option>
+        <option value="geoLaskowski">Laskowski</option>
+        <option value="geoLittrow">Littrow</option>
+        <option value="geoLoximuthal">Loximuthal</option>
+        <option value="geoMercator">Mercator</option>
+        <option value="geoMiller">Miller</option>
+        <option value="geoModifiedStereographicAlaska">ModifiedStereographicAlaska</option>
+        <option value="geoModifiedStereographicGs48">ModifiedStereographicGs48</option>
+        <option value="geoModifiedStereographicGs50">ModifiedStereographicGs50</option>
+        <option value="geoModifiedStereographicMiller">ModifiedStereographicMiller</option>
+        <option value="geoModifiedStereographicLee">ModifiedStereographicLee</option>
+        <option value="geoMtFlatPolarParabolic">MtFlatPolarParabolic</option>
+        <option value="geoMtFlatPolarQuartic">MtFlatPolarQuartic</option>
+        <option value="geoMtFlatPolarSinusoidal">MtFlatPolarSinusoidal</option>
+        <option value="geoNaturalEarth">NaturalEarth</option>
+        <option value="geoNellHammer">NellHammer</option>
+        <option value="geoOrthographic">Orthographic</option>
+        <option value="geoPatterson">Patterson</option>
+        <option value="geoPolyconic">Polyconic</option>
+        <option value="geoRectangularPolyconic">RectangularPolyconic</option>
+        <option value="geoRobinson">Robinson</option>
+        <option value="geoSatellite">Satellite</option>
+        <option value="geoSinusoidal">Sinusoidal</option>
+        <option value="geoSinuMollweide">SinuMollweide</option>
+        <option value="geoStereographic">Stereographic</option>
+        <option value="geoTimes">Times</option>
+        <option value="geoTransverseMercator">TransverseMercator</option>
+        <option value="geoTwoPointAzimuthalUsa">TwoPointAzimuthalUsa</option>
+        <option value="geoTwoPointEquidistantUsa">TwoPointEquidistantUsa</option>
+        <option value="geoVanDerGrinten">VanDerGrinten</option>
+        <option value="geoVanDerGrinten2">VanDerGrinten2</option>
+        <option value="geoVanDerGrinten3">VanDerGrinten3</option>
+        <option value="geoVanDerGrinten4">VanDerGrinten4</option>
+        <option value="geoWagner4">Wagner4</option>
+        <option value="geoWagner6">Wagner6</option>
+        <option value="geoWagner7">Wagner7</option>
+        <option value="geoWiechel">Wiechel</option>
+        <option value="geoWinkel3">Winkel3</option>
+        <option value="geoInterruptedHomolosine">InterruptedHomolosine</option>
+        <option value="geoInterruptedSinusoidal">InterruptedSinusoidal</option>
+        <option value="geoInterruptedBoggs">InterruptedBoggs</option>
+        <option value="geoInterruptedSinuMollweide">InterruptedSinuMollweide</option>
+        <option value="geoInterruptedMollweide">InterruptedMollweide</option>
+        <option value="geoInterruptedMollweideHemispheres">InterruptedMollweideHemispheres</option>
+        <option value="geoPolyhedralButterfly">PolyhedralButterfly</option>
+        <option value="geoPolyhedralCollignon">PolyhedralCollignon</option>
+        <option value="geoPolyhedralWaterman">PolyhedralWaterman</option>
+        <option value="geoGringortenQuincuncial">GringortenQuincuncial</option>
+        <option value="geoPeirceQuincuncial">PeirceQuincuncial</option>
+
+    </select>
+</div>
+<div id="output">
+    <svg class="chart"></svg>
+    <div class="year-select" style="text-align: center">
+        <input id="slider" style="width: 1100px;" type="range" min="1850" max="2016" step="1" value="1850" />
+        <p><span class="year-text">~ Select Year ~</span></p>
+    </div>
+</div>
+
+<script>
+    (function() {
+        show();
+    })();
+</script>
+
+
+</body>
+</html>

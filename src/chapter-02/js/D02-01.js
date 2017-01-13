@@ -129,8 +129,6 @@ function show() {
         // the data property of the arcs[i] represents data.
         var arcs = pie(filtered);
 
-        console.log(arcs);
-
         // select the arcs already there, for these we
         // only bind the data, the arc itself is updated
         // after a merge.
@@ -164,7 +162,7 @@ function show() {
             })
             .transition()
                 .ease(d3.easeCircle)
-                .duration(20000)
+                .duration(2000)
                 .attrTween("d", tweenArcs);
 
 
@@ -178,7 +176,7 @@ function show() {
                 .attr("dy", "0.35em" )
                 .transition()
                     .ease(d3.easeCircle)
-                    .duration(20000)
+                    .duration(2000)
                     .attrTween("transform", tweenLabels)
                     .styleTween("text-anchor", tweenAnchor);
 
@@ -191,7 +189,7 @@ function show() {
             .merge(lineElements)
                 .transition()
                 .ease(d3.easeCircle)
-                .duration(20000)
+                .duration(2000)
                 .attrTween("d", tweenLines)
     }
 

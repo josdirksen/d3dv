@@ -1,0 +1,20 @@
+.ecg {
+    stroke: red;
+    fill: none;
+    stroke-width: 2;
+}
+
+.resp {
+    stroke: blue;
+    stroke-width: 2;
+    fill: none;
+}
+
+.heart path {
+    fill: crimson;
+}
+
+.lungs path {
+    fill: steelblue;
+}
+

@@ -82,25 +82,6 @@ function show() {
         chart.append("g")
             .attr('transform', 'translate( 0 ' + -barMargin + ' )')
             .call(topAxis);
-
-        // finally add a couple of text elements at the bottom
-        // years is now an array containing values from 2005 to 2016
-        // var years = _.range(2005, 2016);
-        // var colorScale = d3.scaleLinear()
-        //     .domain([0, years.length])
-        //     .range([0, width]);
-        //
-        // chart.append("g")
-        // console.log(years.length);
-        //
-        // console.log(colorScale(0));
-        // console.log(colorScale(1));
-        // console.log(colorScale(2));
-        // console.log(colorScale(3));
-        // console.log(colorScale(4));
-        // console.log(colorScale(9));
-        // console.log(colorScale(10));
-
     });
 
 }

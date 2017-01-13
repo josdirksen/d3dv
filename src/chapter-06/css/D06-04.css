@@ -1,0 +1,37 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.country {
+    fill: #0074D9;
+    stroke: white;
+    stroke-width: 0.2;
+}
+
+.rsvp-yes {
+    opacity: 0.4;
+    fill: #2ECC40;
+}
+
+.rsvp-no {
+    opacity: 0.4;
+    fill: #FF4136;
+}
+
+.image-yes {
+    stroke: #2ECC40;
+    stroke-width: 2;
+    fill:none;
+}
+
+.image-no {
+    stroke: #FF4136;
+    stroke-width: 2;
+    fill:none;
+}
+
+text {
+    fill: white;
+    font-size: 70px;
+    font-weight: lighter;
+}

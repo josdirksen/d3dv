@@ -1,0 +1,9 @@
+body {
+    background-color: #fff;
+}
+
+.polygons {
+    fill: none;
+    stroke: black;
+    stroke-width: 0;
+}

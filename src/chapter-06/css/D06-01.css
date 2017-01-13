@@ -1,0 +1,23 @@
+.lineX {
+    stroke: red;
+    fill: none;
+}
+
+.lineY {
+    stroke: steelblue;
+    fill: none;
+}
+
+
+.resp {
+    stroke: blue;
+    fill: none;
+}
+
+.heart path {
+    fill: crimson;
+}
+
+.lungs path {
+    fill: steelblue;
+}

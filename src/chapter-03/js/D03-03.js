@@ -93,8 +93,6 @@ function show() {
             // convert it to a tree
             tree(root);
 
-            console.log(root)
-
             // add a header
             var header = d3.select("h1").text("Showing " + properties[2]);
 
@@ -121,14 +119,10 @@ function show() {
                 .attr("width", function(d, i) {return d.x1 - d.x0})
                 .attr("height", function(d, i) {return d.y1 - d.y0});
 
-
             // and we append the foreignObject, with a nested body for the text
             newGroups.append("foreignObject")
                 .append("xhtml:body")
                 .style("margin-left", 0);
-
-            // TODO: http://stackoverflow.com/questions/18831949/d3js-make-new-parent-data-descend-into-child-nodes
-            // Do a cutout about data propogation
 
             // we position the new and updated groups based on the calculated d.x0 and d.y0
             var allGroups = groups.merge(newGroups)

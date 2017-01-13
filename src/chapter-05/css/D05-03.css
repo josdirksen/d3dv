@@ -1,0 +1,67 @@
+body {
+    background-color: #fff;
+}
+
+text {
+    font-weight: lighter ;
+    font-size: large;
+}
+
+.country {
+    fill: #9eb3b4;
+}
+
+text.title {
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.year-text {
+    font-weight: lighter;
+    font-size: larger;
+}
+
+text.year {
+    font-size: 30px;
+}
+
+.sphere {
+    stroke-width: 1;
+    stroke: black;
+    fill: #e6f3ff;
+}
+
+.graticule {
+    fill: none;
+    stroke-width: 0.3;
+    stroke: black;
+}
+
+.legend-text-white {
+    text-anchor: middle;
+    font-weight: lighter;
+    font-size: 13px;
+    fill: white;
+}
+
+.legend-text-black {
+    text-anchor: middle;
+    font-weight: lighter ;
+    font-size: 13px;
+    fill: black;
+}
+
+.country-text {
+    font-weight: lighter ;
+    font-size: 30px;
+    fill: black;
+}
+
+.country-value {
+    font-weight: lighter ;
+    font-size: 30px;
+    fill: black;
+}
