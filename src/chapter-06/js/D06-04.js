@@ -27,7 +27,6 @@ function show() {
     var projection = d3.geoGringortenQuincuncial()
     var path = d3.geoPath().projection(projection);
 
-
     // load the data
     d3.json("data/world-110m.v1.json", function(loadedTopo) {
         var countries  = topojson.feature(loadedTopo, loadedTopo.objects.countries).features;
