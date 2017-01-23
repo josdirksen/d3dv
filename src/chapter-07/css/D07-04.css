@@ -1,0 +1,21 @@
+#chart {
+    margin-left: 50px;
+}
+
+rect.bordered {
+    stroke: #E6E6E6;
+    stroke-width: 1px;
+    rx: 2px;
+    ry: 2px;
+}
+
+text.mono {
+    font-size: 9pt;
+    font-family: Consolas, courier;
+    fill: #aaa;
+}
+
+.title {
+    font-size: 20px;
+    font-family: sans-serif;
+}

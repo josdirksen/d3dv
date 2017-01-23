@@ -12,7 +12,8 @@
   "dependencies": {
     "d3": "^4.2.2",
     "image-downloader": "^2.0.0",
-    "lodash": "^4.16.4"
+    "lodash": "^4.16.4",
+    "srt": "0.0.3"
   },
   "devDependencies": {
     "cheerio": "^0.22.0",
