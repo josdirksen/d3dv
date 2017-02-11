@@ -1,0 +1,12 @@
+.county { stroke-width: 0.1; stroke: rgb(204, 204, 204); }
+
+text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+}
+
+.title {
+    fill: black;
+    font-size: 40px;
+
+}

@@ -1,0 +1,36 @@
+body {
+    background-color: #444;
+}
+
+.county {
+    stroke-width: 0.1;
+    stroke: #ccc;
+}
+
+.selected {
+    stroke-width: 2;
+    stroke: #000;
+}
+
+rect {
+    stroke-width: 0.1;
+    stroke: #ccc;
+}
+
+text {
+    fill: white;
+    font-weight: lighter;
+    font-size: large;
+}
+
+.title {
+    fill: white;
+    font-weight: lighter;
+    font-size: 40px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
