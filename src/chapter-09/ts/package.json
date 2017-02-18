@@ -1,0 +1,24 @@
+{
+  "name": "d3.js-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress",
+    "webpack": "webpack --progress"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.0.1",
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.1.6",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@types/d3": "^4.5.0",
+    "@types/d3-selection": "^1.0.9",
+    "d3": "^4.5.0"
+  }
+}
